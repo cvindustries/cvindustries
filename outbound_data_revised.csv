@@ -1,0 +1,771 @@
+name,group,year,value,subGroup,city_id,lastValue,lat,lon
+Abhishek Shah,India,1,0,India,Abhishek Shah_ID,0,27.18333,78.01667
+Ajmal Zaheen,India,1,0,India,Ajmal Zaheen_ID,0,27.18333,78.01667
+Amit Shenoy,India,1,0,India,Amit Shenoy_ID,0,27.18333,78.01667
+Cristina Radu,India,1,0,India,Cristina Radu_ID,0,27.18333,78.01667
+Eric Peters,India,1,0,India,Eric Peters_ID,0,27.18333,78.01667
+Guru Bhat,India,1,0,India,Guru Bhat_ID,0,27.18333,78.01667
+Harshala Fernandes ,India,1,0,India,Harshala Fernandes _ID,0,27.18333,78.01667
+Hughes, Jonathon,India,1,0,India,Hughes, Jonathon_ID,0,27.18333,78.01667
+Jelle,India,1,0,India,Jelle_ID,0,27.18333,78.01667
+Jennifer Izaguirre ,India,1,0,India,Jennifer Izaguirre _ID,0,27.18333,78.01667
+Erik Karloski,India,2,1845,India,Erik Karloski_ID,0,27.18333,78.01667
+Abhishek Shah,India,2,1720,India,Abhishek Shah_ID,0,27.18333,78.01667
+Ajmal Zaheen,India,2,1700,India,Ajmal Zaheen_ID,0,27.18333,78.01667
+Justin,India,2,1700,India,Justin_ID,0,27.18333,78.01667
+Ven Nagasubramanian,India,2,1657.5,India,Ven Nagasubramanian_ID,0,27.18333,78.01667
+dnarayan ,India,2,1600,India,dnarayan _ID,0,27.18333,78.01667
+Soham,India,2,1400,India,Soham_ID,0,27.18333,78.01667
+Rajeev,India,2,1225,India,Rajeev_ID,0,27.18333,78.01667
+Rsamanth,India,2,850,India,Rsamanth_ID,0,27.18333,78.01667
+Shridhara,India,2,437.5,India,Shridhara_ID,0,27.18333,78.01667
+Erik Karloski,India,3,3690,India,Erik Karloski_ID,1845,27.18333,78.01667
+Abhishek Shah,India,3,3440,India,Abhishek Shah_ID,1720,27.18333,78.01667
+dnarayan ,India,3,3200,India,dnarayan _ID,1600,27.18333,78.01667
+Justin,India,3,3187.5,India,Justin_ID,1700,27.18333,78.01667
+Ajmal Zaheen,India,3,2550,India,Ajmal Zaheen_ID,1700,27.18333,78.01667
+Rsamanth,India,3,2550,India,Rsamanth_ID,850,27.18333,78.01667
+San Van Camp,India,3,1700,India,San Van Camp_ID,0,27.18333,78.01667
+Ven Nagasubramanian,India,3,1657.5,India,Ven Nagasubramanian_ID,1657.5,27.18333,78.01667
+Rajeev,India,3,1587.5,India,Rajeev_ID,1225,27.18333,78.01667
+Soham,India,3,1400,India,Soham_ID,1400,27.18333,78.01667
+Erik Karloski,India,4,7025,India,Erik Karloski_ID,3690,27.18333,78.01667
+dnarayan ,India,4,5012.5,India,dnarayan _ID,3200,27.18333,78.01667
+Ajmal Zaheen,India,4,3750,India,Ajmal Zaheen_ID,2550,27.18333,78.01667
+Abhishek Shah,India,4,3440,India,Abhishek Shah_ID,3440,27.18333,78.01667
+Rsamanth,India,4,3400,India,Rsamanth_ID,2550,27.18333,78.01667
+Justin,India,4,3187.5,India,Justin_ID,3187.5,27.18333,78.01667
+Nakul Tilak ,India,4,2970,India,Nakul Tilak _ID,0,27.18333,78.01667
+Rajeev,India,4,2831.25,India,Rajeev_ID,1587.5,27.18333,78.01667
+Harshala Fernandes ,India,4,2450,India,Harshala Fernandes _ID,0,27.18333,78.01667
+San Van Camp,India,4,1900,India,San Van Camp_ID,1700,27.18333,78.01667
+Erik Karloski,India,5,7025,India,Erik Karloski_ID,7025,27.18333,78.01667
+dnarayan ,India,5,5012.5,India,dnarayan _ID,5012.5,27.18333,78.01667
+Ajmal Zaheen,India,5,3750,India,Ajmal Zaheen_ID,3750,27.18333,78.01667
+Abhishek Shah,India,5,3440,India,Abhishek Shah_ID,3440,27.18333,78.01667
+Rsamanth,India,5,3400,India,Rsamanth_ID,3400,27.18333,78.01667
+Justin,India,5,3187.5,India,Justin_ID,3187.5,27.18333,78.01667
+Nakul Tilak ,India,5,2970,India,Nakul Tilak _ID,2970,27.18333,78.01667
+Rajeev,India,5,2831.25,India,Rajeev_ID,2831.25,27.18333,78.01667
+Harshala Fernandes ,India,5,2450,India,Harshala Fernandes _ID,2450,27.18333,78.01667
+Edward,India,5,2100.8000000000002,India,Edward_ID,0,27.18333,78.01667
+Erik Karloski,India,6,7025,India,Erik Karloski_ID,7025,27.18333,78.01667
+dnarayan ,India,6,5012.5,India,dnarayan _ID,5012.5,27.18333,78.01667
+Ajmal Zaheen,India,6,3750,India,Ajmal Zaheen_ID,3750,27.18333,78.01667
+Abhishek Shah,India,6,3440,India,Abhishek Shah_ID,3440,27.18333,78.01667
+Rsamanth,India,6,3400,India,Rsamanth_ID,3400,27.18333,78.01667
+Jennifer Izaguirre ,India,6,3285,India,Jennifer Izaguirre _ID,0,27.18333,78.01667
+Justin,India,6,3187.5,India,Justin_ID,3187.5,27.18333,78.01667
+Nakul Tilak ,India,6,2970,India,Nakul Tilak _ID,2970,27.18333,78.01667
+Rajeev,India,6,2831.25,India,Rajeev_ID,2831.25,27.18333,78.01667
+Harshala Fernandes ,India,6,2450,India,Harshala Fernandes _ID,2450,27.18333,78.01667
+Erik Karloski,India,7,8665,India,Erik Karloski_ID,7025,27.18333,78.01667
+dnarayan ,India,7,6612.5,India,dnarayan _ID,5012.5,27.18333,78.01667
+Rakesh,India,7,5437.5,India,Rakesh_ID,0,27.18333,78.01667
+Ajmal Zaheen,India,7,5350,India,Ajmal Zaheen_ID,3750,27.18333,78.01667
+Abhishek Shah,India,7,5160,India,Abhishek Shah_ID,3440,27.18333,78.01667
+Rsamanth,India,7,5100,India,Rsamanth_ID,3400,27.18333,78.01667
+Jennifer Izaguirre ,India,7,4925,India,Jennifer Izaguirre _ID,3285,27.18333,78.01667
+Justin,India,7,4868.75,India,Justin_ID,3187.5,27.18333,78.01667
+Rajeev,India,7,3443.75,India,Rajeev_ID,2831.25,27.18333,78.01667
+Nakul Tilak ,India,7,3072.5,India,Nakul Tilak _ID,2970,27.18333,78.01667
+Erik Karloski,India,8,10542.5,India,Erik Karloski_ID,8665,27.18333,78.01667
+dnarayan ,India,8,8212.5,India,dnarayan _ID,6612.5,27.18333,78.01667
+Abhishek Shah,India,8,6880,India,Abhishek Shah_ID,5160,27.18333,78.01667
+Ajmal Zaheen,India,8,6625,India,Ajmal Zaheen_ID,5350,27.18333,78.01667
+Rsamanth,India,8,6600,India,Rsamanth_ID,5100,27.18333,78.01667
+Jennifer Izaguirre ,India,8,6565,India,Jennifer Izaguirre _ID,4925,27.18333,78.01667
+Justin,India,8,6250,India,Justin_ID,4868.75,27.18333,78.01667
+Rakesh,India,8,5437.5,India,Rakesh_ID,5437.5,27.18333,78.01667
+Nakul Tilak ,India,8,3582.5,India,Nakul Tilak _ID,3072.5,27.18333,78.01667
+Rajeev,India,8,3443.75,India,Rajeev_ID,3443.75,27.18333,78.01667
+Erik Karloski,India,9,12182.5,India,Erik Karloski_ID,10542.5,27.18333,78.01667
+dnarayan ,India,9,9812.5,India,dnarayan _ID,8212.5,27.18333,78.01667
+Abhishek Shah,India,9,8600,India,Abhishek Shah_ID,6880,27.18333,78.01667
+Jennifer Izaguirre ,India,9,8205,India,Jennifer Izaguirre _ID,6565,27.18333,78.01667
+Rsamanth,India,9,7537.5,India,Rsamanth_ID,6600,27.18333,78.01667
+Justin,India,9,7418.75,India,Justin_ID,6250,27.18333,78.01667
+Ajmal Zaheen,India,9,6625,India,Ajmal Zaheen_ID,6625,27.18333,78.01667
+Rakesh,India,9,5437.5,India,Rakesh_ID,5437.5,27.18333,78.01667
+Nakul Tilak ,India,9,4382.5,India,Nakul Tilak _ID,3582.5,27.18333,78.01667
+Rajeev,India,9,4056.25,India,Rajeev_ID,3443.75,27.18333,78.01667
+Erik Karloski,India,10,13822.5,India,Erik Karloski_ID,12182.5,27.18333,78.01667
+Rakesh,India,10,10750,India,Rakesh_ID,5437.5,27.18333,78.01667
+Jennifer Izaguirre ,India,10,9845,India,Jennifer Izaguirre _ID,8205,27.18333,78.01667
+dnarayan ,India,10,9812.5,India,dnarayan _ID,9812.5,27.18333,78.01667
+Justin,India,10,9118.75,India,Justin_ID,7418.75,27.18333,78.01667
+Abhishek Shah,India,10,8600,India,Abhishek Shah_ID,8600,27.18333,78.01667
+Rsamanth,India,10,8537.5,India,Rsamanth_ID,7537.5,27.18333,78.01667
+Ajmal Zaheen,India,10,7025,India,Ajmal Zaheen_ID,6625,27.18333,78.01667
+Rajeev,India,10,5281.25,India,Rajeev_ID,4056.25,27.18333,78.01667
+Shridhara,India,10,5250,India,Shridhara_ID,0,27.18333,78.01667
+Ben Won,India,11,25200,India,Ben Won_ID,0,27.18333,78.01667
+Erik Karloski,India,11,13822.5,India,Erik Karloski_ID,13822.5,27.18333,78.01667
+dnarayan ,India,11,11625,India,dnarayan _ID,9812.5,27.18333,78.01667
+Rakesh,India,11,10750,India,Rakesh_ID,10750,27.18333,78.01667
+Jennifer Izaguirre ,India,11,10675,India,Jennifer Izaguirre _ID,9845,27.18333,78.01667
+Justin,India,11,10393.75,India,Justin_ID,9118.75,27.18333,78.01667
+Rsamanth,India,11,10237.5,India,Rsamanth_ID,8537.5,27.18333,78.01667
+Hai Zhu,India,11,9900,India,Hai Zhu_ID,0,27.18333,78.01667
+Abhishek Shah,India,11,8600,India,Abhishek Shah_ID,8600,27.18333,78.01667
+Ajmal Zaheen,India,11,8225,India,Ajmal Zaheen_ID,7025,27.18333,78.01667
+Ben Won,India,12,25200,India,Ben Won_ID,25200,27.18333,78.01667
+Erik Karloski,India,12,13822.5,India,Erik Karloski_ID,13822.5,27.18333,78.01667
+dnarayan ,India,12,11625,India,dnarayan _ID,11625,27.18333,78.01667
+Rakesh,India,12,10750,India,Rakesh_ID,10750,27.18333,78.01667
+Jennifer Izaguirre ,India,12,10675,India,Jennifer Izaguirre _ID,10675,27.18333,78.01667
+Justin,India,12,10393.75,India,Justin_ID,10393.75,27.18333,78.01667
+Rsamanth,India,12,10237.5,India,Rsamanth_ID,10237.5,27.18333,78.01667
+Hai Zhu,India,12,9900,India,Hai Zhu_ID,9900,27.18333,78.01667
+Abhishek Shah,India,12,8600,India,Abhishek Shah_ID,8600,27.18333,78.01667
+Ajmal Zaheen,India,12,8225,India,Ajmal Zaheen_ID,8225,27.18333,78.01667
+Ben Won,India,13,25200,India,Ben Won_ID,25200,27.18333,78.01667
+Erik Karloski,India,13,13822.5,India,Erik Karloski_ID,13822.5,27.18333,78.01667
+Hai Zhu,India,13,13500,India,Hai Zhu_ID,9900,27.18333,78.01667
+dnarayan ,India,13,11625,India,dnarayan _ID,11625,27.18333,78.01667
+Rakesh,India,13,10750,India,Rakesh_ID,10750,27.18333,78.01667
+Jennifer Izaguirre ,India,13,10675,India,Jennifer Izaguirre _ID,10675,27.18333,78.01667
+Justin,India,13,10393.75,India,Justin_ID,10393.75,27.18333,78.01667
+Rsamanth,India,13,10237.5,India,Rsamanth_ID,10237.5,27.18333,78.01667
+Abhishek Shah,India,13,8600,India,Abhishek Shah_ID,8600,27.18333,78.01667
+Ajmal Zaheen,India,13,8225,India,Ajmal Zaheen_ID,8225,27.18333,78.01667
+Ben Won,India,14,25200,India,Ben Won_ID,25200,27.18333,78.01667
+Erik Karloski,India,14,15462.5,India,Erik Karloski_ID,13822.5,27.18333,78.01667
+Hai Zhu,India,14,13500,India,Hai Zhu_ID,13500,27.18333,78.01667
+dnarayan ,India,14,13225,India,dnarayan _ID,11625,27.18333,78.01667
+Rsamanth,India,14,11725,India,Rsamanth_ID,10237.5,27.18333,78.01667
+Jennifer Izaguirre ,India,14,11495,India,Jennifer Izaguirre _ID,10675,27.18333,78.01667
+Justin,India,14,10818.75,India,Justin_ID,10393.75,27.18333,78.01667
+Rakesh,India,14,10750,India,Rakesh_ID,10750,27.18333,78.01667
+Abhishek Shah,India,14,10320,India,Abhishek Shah_ID,8600,27.18333,78.01667
+Ajmal Zaheen,India,14,9625,India,Ajmal Zaheen_ID,8225,27.18333,78.01667
+Ben Won,India,15,25200,India,Ben Won_ID,25200,27.18333,78.01667
+Erik Karloski,India,15,15700,India,Erik Karloski_ID,15462.5,27.18333,78.01667
+dnarayan ,India,15,15625,India,dnarayan _ID,13225,27.18333,78.01667
+Rakesh,India,15,15212.5,India,Rakesh_ID,10750,27.18333,78.01667
+Hai Zhu,India,15,13500,India,Hai Zhu_ID,13500,27.18333,78.01667
+Abhishek Shah,India,15,12040,India,Abhishek Shah_ID,10320,27.18333,78.01667
+Rsamanth,India,15,11725,India,Rsamanth_ID,11725,27.18333,78.01667
+Jennifer Izaguirre ,India,15,11700,India,Jennifer Izaguirre _ID,11495,27.18333,78.01667
+Ajmal Zaheen,India,15,11225,India,Ajmal Zaheen_ID,9625,27.18333,78.01667
+Justin,India,15,10818.75,India,Justin_ID,10818.75,27.18333,78.01667
+Ben Won,India,16,25200,India,Ben Won_ID,25200,27.18333,78.01667
+Rakesh,India,16,20525,India,Rakesh_ID,15212.5,27.18333,78.01667
+Hai Zhu,India,16,18900,India,Hai Zhu_ID,13500,27.18333,78.01667
+dnarayan ,India,16,16625,India,dnarayan _ID,15625,27.18333,78.01667
+Erik Karloski,India,16,16110,India,Erik Karloski_ID,15700,27.18333,78.01667
+Abhishek Shah,India,16,13760,India,Abhishek Shah_ID,12040,27.18333,78.01667
+Rsamanth,India,16,13425,India,Rsamanth_ID,11725,27.18333,78.01667
+Ajmal Zaheen,India,16,12025,India,Ajmal Zaheen_ID,11225,27.18333,78.01667
+Jennifer Izaguirre ,India,16,11905,India,Jennifer Izaguirre _ID,11700,27.18333,78.01667
+Justin,India,16,11031.25,India,Justin_ID,10818.75,27.18333,78.01667
+Ben Won,India,17,25200,India,Ben Won_ID,25200,27.18333,78.01667
+Rakesh,India,17,20525,India,Rakesh_ID,20525,27.18333,78.01667
+Hai Zhu,India,17,18900,India,Hai Zhu_ID,18900,27.18333,78.01667
+dnarayan,India,17,18225,India,dnarayan_ID,16625,27.18333,78.01667
+Erik Karloski,India,17,18010,India,Erik Karloski_ID,16110,27.18333,78.01667
+Rsamanth,India,17,14062.5,India,Rsamanth_ID,13425,27.18333,78.01667
+Abhishek Shah,India,17,13760,India,Abhishek Shah_ID,13760,27.18333,78.01667
+Nakul Tilak ,India,17,13242.5,India,Nakul Tilak _ID,0,27.18333,78.01667
+Justin,India,17,12412.5,India,Justin_ID,11031.25,27.18333,78.01667
+Jennifer Izaguirre ,India,17,12120,India,Jennifer Izaguirre _ID,11905,27.18333,78.01667
+Rakesh,India,18,27650,India,Rakesh_ID,20525,27.18333,78.01667
+Ben Won,India,18,25200,India,Ben Won_ID,25200,27.18333,78.01667
+Vijey K,India,18,23268.75,India,Vijey K_ID,0,27.18333,78.01667
+dnarayan,India,18,19825,India,dnarayan_ID,18225,27.18333,78.01667
+Hai Zhu,India,18,18900,India,Hai Zhu_ID,18900,27.18333,78.01667
+Erik Karloski,India,18,18010,India,Erik Karloski_ID,18010,27.18333,78.01667
+Rsamanth,India,18,15712.5,India,Rsamanth_ID,14062.5,27.18333,78.01667
+Justin,India,18,14112.5,India,Justin_ID,12412.5,27.18333,78.01667
+Abhishek Shah,India,18,13760,India,Abhishek Shah_ID,13760,27.18333,78.01667
+Nakul Tilak ,India,18,13742.5,India,Nakul Tilak _ID,13242.5,27.18333,78.01667
+Rakesh,India,19,27650,India,Rakesh_ID,27650,27.18333,78.01667
+Ben Won,India,19,25200,India,Ben Won_ID,25200,27.18333,78.01667
+Vijey K,India,19,23268.75,India,Vijey K_ID,23268.75,27.18333,78.01667
+dnarayan,India,19,19825,India,dnarayan_ID,19825,27.18333,78.01667
+Hai Zhu,India,19,18900,India,Hai Zhu_ID,18900,27.18333,78.01667
+Erik Karloski,India,19,18010,India,Erik Karloski_ID,18010,27.18333,78.01667
+Rsamanth,India,19,15712.5,India,Rsamanth_ID,15712.5,27.18333,78.01667
+Justin,India,19,14112.5,India,Justin_ID,14112.5,27.18333,78.01667
+Abhishek Shah,India,19,13760,India,Abhishek Shah_ID,13760,27.18333,78.01667
+Nakul Tilak ,India,19,13742.5,India,Nakul Tilak _ID,13742.5,27.18333,78.01667
+Rakesh,India,20,27650,India,Rakesh_ID,27650,27.18333,78.01667
+Ben Won,India,20,25200,India,Ben Won_ID,25200,27.18333,78.01667
+Vijey K,India,20,23268.75,India,Vijey K_ID,23268.75,27.18333,78.01667
+dnarayan,India,20,19825,India,dnarayan_ID,19825,27.18333,78.01667
+Hai Zhu,India,20,18900,India,Hai Zhu_ID,18900,27.18333,78.01667
+Erik Karloski,India,20,18010,India,Erik Karloski_ID,18010,27.18333,78.01667
+Rsamanth,India,20,15712.5,India,Rsamanth_ID,15712.5,27.18333,78.01667
+Justin,India,20,14112.5,India,Justin_ID,14112.5,27.18333,78.01667
+Abhishek Shah,India,20,13760,India,Abhishek Shah_ID,13760,27.18333,78.01667
+Nakul Tilak ,India,20,13742.5,India,Nakul Tilak _ID,13742.5,27.18333,78.01667
+Rakesh,India,21,27762.5,India,Rakesh_ID,27650,27.18333,78.01667
+Ben Won,India,21,26100,India,Ben Won_ID,25200,27.18333,78.01667
+Vijey K,India,21,23268.75,India,Vijey K_ID,23268.75,27.18333,78.01667
+dnarayan,India,21,21425,India,dnarayan_ID,19825,27.18333,78.01667
+Hai Zhu,India,21,18900,India,Hai Zhu_ID,18900,27.18333,78.01667
+Erik Karloski,India,21,18010,India,Erik Karloski_ID,18010,27.18333,78.01667
+Rsamanth,India,21,15712.5,India,Rsamanth_ID,15712.5,27.18333,78.01667
+Justin,India,21,15562.5,India,Justin_ID,14112.5,27.18333,78.01667
+Abhishek Shah,India,21,15480,India,Abhishek Shah_ID,13760,27.18333,78.01667
+Nakul Tilak ,India,21,14042.5,India,Nakul Tilak _ID,13742.5,27.18333,78.01667
+Rakesh,India,22,27762.5,India,Rakesh_ID,27762.5,27.18333,78.01667
+Ben Won,India,22,26100,India,Ben Won_ID,26100,27.18333,78.01667
+dnarayan,India,22,23825,India,dnarayan_ID,21425,27.18333,78.01667
+Vijey K,India,22,23268.75,India,Vijey K_ID,23268.75,27.18333,78.01667
+Erik Karloski,India,22,22552.5,India,Erik Karloski_ID,18010,27.18333,78.01667
+Hai Zhu,India,22,18900,India,Hai Zhu_ID,18900,27.18333,78.01667
+Justin,India,22,17262.5,India,Justin_ID,15562.5,27.18333,78.01667
+Abhishek Shah,India,22,17200,India,Abhishek Shah_ID,15480,27.18333,78.01667
+Rsamanth,India,22,16562.5,India,Rsamanth_ID,15712.5,27.18333,78.01667
+Nakul Tilak ,India,22,14247.5,India,Nakul Tilak _ID,14042.5,27.18333,78.01667
+Rakesh,India,23,31162.5,India,Rakesh_ID,27762.5,27.18333,78.01667
+Ben Won,India,23,26100,India,Ben Won_ID,26100,27.18333,78.01667
+dnarayan ,India,23,25425,India,dnarayan _ID,23825,27.18333,78.01667
+Vijey K,India,23,23268.75,India,Vijey K_ID,23268.75,27.18333,78.01667
+Erik Karloski,India,23,22757.5,India,Erik Karloski_ID,22552.5,27.18333,78.01667
+Justin,India,23,18962.5,India,Justin_ID,17262.5,27.18333,78.01667
+Abhishek Shah,India,23,18920,India,Abhishek Shah_ID,17200,27.18333,78.01667
+Hai Zhu,India,23,18900,India,Hai Zhu_ID,18900,27.18333,78.01667
+Rsamanth,India,23,18212.5,India,Rsamanth_ID,16562.5,27.18333,78.01667
+Ven Nagasubramanian,India,23,15315.125,India,Ven Nagasubramanian_ID,0,27.18333,78.01667
+Rakesh,India,24,31162.5,India,Rakesh_ID,31162.5,27.18333,78.01667
+dnarayan,India,24,27025,India,dnarayan_ID,25425,27.18333,78.01667
+Ben Won,India,24,26100,India,Ben Won_ID,26100,27.18333,78.01667
+Erik Karloski,India,24,24397.5,India,Erik Karloski_ID,22757.5,27.18333,78.01667
+Vijey K,India,24,23268.75,India,Vijey K_ID,23268.75,27.18333,78.01667
+Justin,India,24,20662.5,India,Justin_ID,18962.5,27.18333,78.01667
+Abhishek Shah,India,24,18920,India,Abhishek Shah_ID,18920,27.18333,78.01667
+Hai Zhu,India,24,18900,India,Hai Zhu_ID,18900,27.18333,78.01667
+Rsamanth,India,24,18787.5,India,Rsamanth_ID,18212.5,27.18333,78.01667
+Ven Nagasubramanian,India,24,17983.25,India,Ven Nagasubramanian_ID,15315.125,27.18333,78.01667
+Ben Won,India,25,31725,India,Ben Won_ID,26100,27.18333,78.01667
+Rakesh,India,25,31162.5,India,Rakesh_ID,31162.5,27.18333,78.01667
+dnarayan ,India,25,27825,India,dnarayan _ID,27025,27.18333,78.01667
+Erik Karloski,India,25,24635,India,Erik Karloski_ID,24397.5,27.18333,78.01667
+Vijey K,India,25,23268.75,India,Vijey K_ID,23268.75,27.18333,78.01667
+Justin,India,25,21406.25,India,Justin_ID,20662.5,27.18333,78.01667
+Rsamanth,India,25,20487.5,India,Rsamanth_ID,18787.5,27.18333,78.01667
+Abhishek Shah,India,25,18920,India,Abhishek Shah_ID,18920,27.18333,78.01667
+Hai Zhu,India,25,18900,India,Hai Zhu_ID,18900,27.18333,78.01667
+Ven Nagasubramanian,India,25,17983.25,India,Ven Nagasubramanian_ID,17983.25,27.18333,78.01667
+Ben Won,India,26,33525,India,Ben Won_ID,31725,27.18333,78.01667
+Rakesh,India,26,31162.5,India,Rakesh_ID,31162.5,27.18333,78.01667
+dnarayan,India,26,27825,India,dnarayan_ID,27825,27.18333,78.01667
+Erik Karloski,India,26,24635,India,Erik Karloski_ID,24635,27.18333,78.01667
+Vijey K,India,26,23268.75,India,Vijey K_ID,23268.75,27.18333,78.01667
+Hai Zhu,India,26,22500,India,Hai Zhu_ID,18900,27.18333,78.01667
+Justin,India,26,21406.25,India,Justin_ID,21406.25,27.18333,78.01667
+Rsamanth,India,26,20487.5,India,Rsamanth_ID,20487.5,27.18333,78.01667
+Nakul Tilak ,India,26,19567.5,India,Nakul Tilak _ID,0,27.18333,78.01667
+Abhishek Shah,India,26,18920,India,Abhishek Shah_ID,18920,27.18333,78.01667
+Ben Won,India,27,33525,India,Ben Won_ID,33525,27.18333,78.01667
+Rakesh,India,27,31162.5,India,Rakesh_ID,31162.5,27.18333,78.01667
+dnarayan,India,27,27825,India,dnarayan_ID,27825,27.18333,78.01667
+Erik Karloski,India,27,24635,India,Erik Karloski_ID,24635,27.18333,78.01667
+Vijey K,India,27,23268.75,India,Vijey K_ID,23268.75,27.18333,78.01667
+Hai Zhu,India,27,22500,India,Hai Zhu_ID,22500,27.18333,78.01667
+Justin,India,27,21493.75,India,Justin_ID,21406.25,27.18333,78.01667
+Rsamanth,India,27,20487.5,India,Rsamanth_ID,20487.5,27.18333,78.01667
+Nakul Tilak ,India,27,19567.5,India,Nakul Tilak _ID,19567.5,27.18333,78.01667
+Abhishek Shah,India,27,18920,India,Abhishek Shah_ID,18920,27.18333,78.01667
+Rakesh,India,28,33712.5,India,Rakesh_ID,31162.5,27.18333,78.01667
+Ben Won,India,28,33525,India,Ben Won_ID,33525,27.18333,78.01667
+Vijey K,India,28,29856.25,India,Vijey K_ID,23268.75,27.18333,78.01667
+dnarayan,India,28,29025,India,dnarayan_ID,27825,27.18333,78.01667
+Erik Karloski,India,28,24635,India,Erik Karloski_ID,24635,27.18333,78.01667
+Hai Zhu,India,28,22500,India,Hai Zhu_ID,22500,27.18333,78.01667
+Justin,India,28,21493.75,India,Justin_ID,21493.75,27.18333,78.01667
+Rsamanth,India,28,20487.5,India,Rsamanth_ID,20487.5,27.18333,78.01667
+Nakul Tilak ,India,28,19567.5,India,Nakul Tilak _ID,19567.5,27.18333,78.01667
+Abhishek Shah,India,28,18920,India,Abhishek Shah_ID,18920,27.18333,78.01667
+Rakesh,India,29,35412.5,India,Rakesh_ID,33712.5,27.18333,78.01667
+Ben Won,India,29,33525,India,Ben Won_ID,33525,27.18333,78.01667
+dnarayan,India,29,30625,India,dnarayan_ID,29025,27.18333,78.01667
+Vijey K,India,29,29856.25,India,Vijey K_ID,29856.25,27.18333,78.01667
+Erik Karloski,India,29,24635,India,Erik Karloski_ID,24635,27.18333,78.01667
+Hai Zhu,India,29,22500,India,Hai Zhu_ID,22500,27.18333,78.01667
+Rsamanth,India,29,22037.5,India,Rsamanth_ID,20487.5,27.18333,78.01667
+Justin,India,29,21706.25,India,Justin_ID,21493.75,27.18333,78.01667
+Nakul Tilak ,India,29,19567.5,India,Nakul Tilak _ID,19567.5,27.18333,78.01667
+Jennifer Izaguirre ,India,29,19495,India,Jennifer Izaguirre _ID,0,27.18333,78.01667
+Rakesh,India,30,38812.5,India,Rakesh_ID,35412.5,27.18333,78.01667
+Ben Won,India,30,33525,India,Ben Won_ID,33525,27.18333,78.01667
+dnarayan,India,30,32425,India,dnarayan_ID,30625,27.18333,78.01667
+Vijey K,India,30,29856.25,India,Vijey K_ID,29856.25,27.18333,78.01667
+Erik Karloski,India,30,24635,India,Erik Karloski_ID,24635,27.18333,78.01667
+Rsamanth,India,30,23050,India,Rsamanth_ID,22037.5,27.18333,78.01667
+Hai Zhu,India,30,22500,India,Hai Zhu_ID,22500,27.18333,78.01667
+Justin,India,30,22406.25,India,Justin_ID,21706.25,27.18333,78.01667
+Nakul Tilak ,India,30,21397.5,India,Nakul Tilak _ID,19567.5,27.18333,78.01667
+Jennifer Izaguirre ,India,30,19495,India,Jennifer Izaguirre _ID,19495,27.18333,78.01667
+Rakesh,India,31,38812.5,India,Rakesh_ID,38812.5,27.18333,78.01667
+dnarayan,India,31,34225,India,dnarayan_ID,32425,27.18333,78.01667
+Ben Won,India,31,33525,India,Ben Won_ID,33525,27.18333,78.01667
+Vijey K,India,31,29856.25,India,Vijey K_ID,29856.25,27.18333,78.01667
+Nakul Tilak ,India,31,26202.5,India,Nakul Tilak _ID,21397.5,27.18333,78.01667
+Rsamanth,India,31,24750,India,Rsamanth_ID,23050,27.18333,78.01667
+Erik Karloski,India,31,24635,India,Erik Karloski_ID,24635,27.18333,78.01667
+Justin,India,31,24031.25,India,Justin_ID,22406.25,27.18333,78.01667
+Hai Zhu,India,31,22500,India,Hai Zhu_ID,22500,27.18333,78.01667
+Ajmal Zaheen,India,31,21775,India,Ajmal Zaheen_ID,0,27.18333,78.01667
+Rakesh,India,32,38812.5,India,Rakesh_ID,38812.5,27.18333,78.01667
+dnarayan ,India,32,36225,India,dnarayan _ID,34225,27.18333,78.01667
+Ben Won,India,32,33525,India,Ben Won_ID,33525,27.18333,78.01667
+Vijey K,India,32,29856.25,India,Vijey K_ID,29856.25,27.18333,78.01667
+Nakul Tilak ,India,32,26607.5,India,Nakul Tilak _ID,26202.5,27.18333,78.01667
+Rsamanth,India,32,26450,India,Rsamanth_ID,24750,27.18333,78.01667
+Justin,India,32,24968.75,India,Justin_ID,24031.25,27.18333,78.01667
+Erik Karloski,India,32,24635,India,Erik Karloski_ID,24635,27.18333,78.01667
+Ajmal Zaheen,India,32,23475,India,Ajmal Zaheen_ID,21775,27.18333,78.01667
+Hai Zhu,India,32,22500,India,Hai Zhu_ID,22500,27.18333,78.01667
+Rakesh,India,33,40512.5,India,Rakesh_ID,38812.5,27.18333,78.01667
+dnarayan,India,33,37825,India,dnarayan_ID,36225,27.18333,78.01667
+Ben Won,India,33,33525,India,Ben Won_ID,33525,27.18333,78.01667
+Vijey K,India,33,29856.25,India,Vijey K_ID,29856.25,27.18333,78.01667
+Nakul Tilak ,India,33,26607.5,India,Nakul Tilak _ID,26607.5,27.18333,78.01667
+Rsamanth,India,33,26450,India,Rsamanth_ID,26450,27.18333,78.01667
+Justin,India,33,24968.75,India,Justin_ID,24968.75,27.18333,78.01667
+Erik Karloski,India,33,24635,India,Erik Karloski_ID,24635,27.18333,78.01667
+Ajmal Zaheen,India,33,23475,India,Ajmal Zaheen_ID,23475,27.18333,78.01667
+Hai Zhu,India,33,22500,India,Hai Zhu_ID,22500,27.18333,78.01667
+Rakesh,India,34,40512.5,India,Rakesh_ID,40512.5,27.18333,78.01667
+dnarayan,India,34,38625,India,dnarayan_ID,37825,27.18333,78.01667
+Ben Won,India,34,33525,India,Ben Won_ID,33525,27.18333,78.01667
+Vijey K,India,34,29856.25,India,Vijey K_ID,29856.25,27.18333,78.01667
+Nakul Tilak ,India,34,26607.5,India,Nakul Tilak _ID,26607.5,27.18333,78.01667
+Rsamanth,India,34,26450,India,Rsamanth_ID,26450,27.18333,78.01667
+Justin,India,34,24968.75,India,Justin_ID,24968.75,27.18333,78.01667
+Erik Karloski,India,34,24635,India,Erik Karloski_ID,24635,27.18333,78.01667
+Ajmal Zaheen,India,34,23475,India,Ajmal Zaheen_ID,23475,27.18333,78.01667
+Hai Zhu,India,34,22500,India,Hai Zhu_ID,22500,27.18333,78.01667
+Rakesh,India,35,40512.5,India,Rakesh_ID,40512.5,27.18333,78.01667
+dnarayan,India,35,40225,India,dnarayan_ID,38625,27.18333,78.01667
+Vijey K,India,35,37875,India,Vijey K_ID,29856.25,27.18333,78.01667
+Ben Won,India,35,33525,India,Ben Won_ID,33525,27.18333,78.01667
+Nakul Tilak ,India,35,28247.5,India,Nakul Tilak _ID,26607.5,27.18333,78.01667
+Rsamanth,India,35,26450,India,Rsamanth_ID,26450,27.18333,78.01667
+Ajmal Zaheen,India,35,25175,India,Ajmal Zaheen_ID,23475,27.18333,78.01667
+Justin,India,35,24968.75,India,Justin_ID,24968.75,27.18333,78.01667
+Erik Karloski,India,35,24635,India,Erik Karloski_ID,24635,27.18333,78.01667
+Hai Zhu,India,35,22500,India,Hai Zhu_ID,22500,27.18333,78.01667
+Ben Won,India,36,47925,India,Ben Won_ID,33525,27.18333,78.01667
+Rakesh,India,36,45612.5,India,Rakesh_ID,40512.5,27.18333,78.01667
+dnarayan,India,36,42425,India,dnarayan_ID,40225,27.18333,78.01667
+Vijey K,India,36,37875,India,Vijey K_ID,37875,27.18333,78.01667
+Nakul Tilak ,India,36,29777.5,India,Nakul Tilak _ID,28247.5,27.18333,78.01667
+Rsamanth,India,36,28150,India,Rsamanth_ID,26450,27.18333,78.01667
+Ajmal Zaheen,India,36,26875,India,Ajmal Zaheen_ID,25175,27.18333,78.01667
+Justin,India,36,24968.75,India,Justin_ID,24968.75,27.18333,78.01667
+Erik Karloski,India,36,24635,India,Erik Karloski_ID,24635,27.18333,78.01667
+Ven Nagasubramanian,India,36,23580.125,India,Ven Nagasubramanian_ID,0,27.18333,78.01667
+Ben Won,India,37,47925,India,Ben Won_ID,47925,27.18333,78.01667
+Rakesh,India,37,45612.5,India,Rakesh_ID,45612.5,27.18333,78.01667
+dnarayan,India,37,44225,India,dnarayan_ID,42425,27.18333,78.01667
+Vijey K,India,37,37875,India,Vijey K_ID,37875,27.18333,78.01667
+Nakul Tilak ,India,37,29980,India,Nakul Tilak _ID,29777.5,27.18333,78.01667
+Rsamanth,India,37,29850,India,Rsamanth_ID,28150,27.18333,78.01667
+Ajmal Zaheen,India,37,28575,India,Ajmal Zaheen_ID,26875,27.18333,78.01667
+Justin,India,37,25568.75,India,Justin_ID,24968.75,27.18333,78.01667
+Ven Nagasubramanian,India,37,25180.125,India,Ven Nagasubramanian_ID,23580.125,27.18333,78.01667
+Erik Karloski,India,37,24635,India,Erik Karloski_ID,24635,27.18333,78.01667
+Ben Won,India,38,47925,India,Ben Won_ID,47925,27.18333,78.01667
+dnarayan,India,38,46425,India,dnarayan_ID,44225,27.18333,78.01667
+Rakesh,India,38,45612.5,India,Rakesh_ID,45612.5,27.18333,78.01667
+Vijey K,India,38,37875,India,Vijey K_ID,37875,27.18333,78.01667
+Ajmal Zaheen,India,38,30275,India,Ajmal Zaheen_ID,28575,27.18333,78.01667
+Nakul Tilak ,India,38,29980,India,Nakul Tilak _ID,29980,27.18333,78.01667
+Rsamanth,India,38,29850,India,Rsamanth_ID,29850,27.18333,78.01667
+Ven Nagasubramanian,India,38,29177.375,India,Ven Nagasubramanian_ID,25180.125,27.18333,78.01667
+Justin,India,38,25656.25,India,Justin_ID,25568.75,27.18333,78.01667
+Erik Karloski,India,38,24635,India,Erik Karloski_ID,24635,27.18333,78.01667
+Ben Won,India,39,47925,India,Ben Won_ID,47925,27.18333,78.01667
+dnarayan,India,39,46425,India,dnarayan_ID,46425,27.18333,78.01667
+Rakesh,India,39,45612.5,India,Rakesh_ID,45612.5,27.18333,78.01667
+Vijey K,India,39,37875,India,Vijey K_ID,37875,27.18333,78.01667
+Ajmal Zaheen,India,39,31975,India,Ajmal Zaheen_ID,30275,27.18333,78.01667
+Nakul Tilak ,India,39,29980,India,Nakul Tilak _ID,29980,27.18333,78.01667
+Rsamanth,India,39,29850,India,Rsamanth_ID,29850,27.18333,78.01667
+Ven Nagasubramanian,India,39,29377.375,India,Ven Nagasubramanian_ID,29177.375,27.18333,78.01667
+Justin,India,39,27250,India,Justin_ID,25656.25,27.18333,78.01667
+Jennifer Izaguirre ,India,39,25245,India,Jennifer Izaguirre _ID,0,27.18333,78.01667
+Ben Won,India,40,47925,India,Ben Won_ID,47925,27.18333,78.01667
+dnarayan,India,40,47225,India,dnarayan_ID,46425,27.18333,78.01667
+Rakesh,India,40,45612.5,India,Rakesh_ID,45612.5,27.18333,78.01667
+Vijey K,India,40,37875,India,Vijey K_ID,37875,27.18333,78.01667
+Ajmal Zaheen,India,40,31975,India,Ajmal Zaheen_ID,31975,27.18333,78.01667
+Nakul Tilak ,India,40,29980,India,Nakul Tilak _ID,29980,27.18333,78.01667
+Rsamanth,India,40,29850,India,Rsamanth_ID,29850,27.18333,78.01667
+Ven Nagasubramanian,India,40,29377.375,India,Ven Nagasubramanian_ID,29377.375,27.18333,78.01667
+Justin,India,40,27250,India,Justin_ID,27250,27.18333,78.01667
+Jennifer Izaguirre ,India,40,25245,India,Jennifer Izaguirre _ID,25245,27.18333,78.01667
+Ben Won,India,41,47925,India,Ben Won_ID,47925,27.18333,78.01667
+dnarayan,India,41,47225,India,dnarayan_ID,47225,27.18333,78.01667
+Rakesh,India,41,45612.5,India,Rakesh_ID,45612.5,27.18333,78.01667
+Vijey K,India,41,37875,India,Vijey K_ID,37875,27.18333,78.01667
+Ajmal Zaheen,India,41,31975,India,Ajmal Zaheen_ID,31975,27.18333,78.01667
+Nakul Tilak ,India,41,30390,India,Nakul Tilak _ID,29980,27.18333,78.01667
+Rsamanth,India,41,29850,India,Rsamanth_ID,29850,27.18333,78.01667
+Ven Nagasubramanian,India,41,29377.375,India,Ven Nagasubramanian_ID,29377.375,27.18333,78.01667
+Justin,India,41,27250,India,Justin_ID,27250,27.18333,78.01667
+Abhishek Shah,India,41,25345,India,Abhishek Shah_ID,0,27.18333,78.01667
+dnarayan,India,42,48825,India,dnarayan_ID,47225,27.18333,78.01667
+Rakesh,India,42,48162.5,India,Rakesh_ID,45612.5,27.18333,78.01667
+Ben Won,India,42,47925,India,Ben Won_ID,47925,27.18333,78.01667
+Vijey K,India,42,42975,India,Vijey K_ID,37875,27.18333,78.01667
+Ajmal Zaheen,India,42,31975,India,Ajmal Zaheen_ID,31975,27.18333,78.01667
+Rsamanth,India,42,31550,India,Rsamanth_ID,29850,27.18333,78.01667
+Nakul Tilak ,India,42,30390,India,Nakul Tilak _ID,30390,27.18333,78.01667
+Ven Nagasubramanian,India,42,29377.375,India,Ven Nagasubramanian_ID,29377.375,27.18333,78.01667
+Justin,India,42,28362.5,India,Justin_ID,27250,27.18333,78.01667
+Abhishek Shah,India,42,27145,India,Abhishek Shah_ID,25345,27.18333,78.01667
+Ben Won,India,43,61425,India,Ben Won_ID,47925,27.18333,78.01667
+dnarayan,India,43,50425,India,dnarayan_ID,48825,27.18333,78.01667
+Rakesh,India,43,48162.5,India,Rakesh_ID,48162.5,27.18333,78.01667
+Vijey K,India,43,42975,India,Vijey K_ID,42975,27.18333,78.01667
+Rsamanth,India,43,33250,India,Rsamanth_ID,31550,27.18333,78.01667
+Ajmal Zaheen,India,43,31975,India,Ajmal Zaheen_ID,31975,27.18333,78.01667
+Nakul Tilak ,India,43,30592.5,India,Nakul Tilak _ID,30390,27.18333,78.01667
+Justin,India,43,30062.5,India,Justin_ID,28362.5,27.18333,78.01667
+Ven Nagasubramanian,India,43,29957.5,India,Ven Nagasubramanian_ID,29377.375,27.18333,78.01667
+Abhishek Shah,India,43,28345,India,Abhishek Shah_ID,27145,27.18333,78.01667
+Ben Won,India,44,61425,India,Ben Won_ID,61425,27.18333,78.01667
+dnarayan,India,44,51625,India,dnarayan_ID,50425,27.18333,78.01667
+Rakesh,India,44,48162.5,India,Rakesh_ID,48162.5,27.18333,78.01667
+Vijey K,India,44,42975,India,Vijey K_ID,42975,27.18333,78.01667
+Nakul Tilak ,India,44,35302.5,India,Nakul Tilak _ID,30592.5,27.18333,78.01667
+Rsamanth,India,44,34850,India,Rsamanth_ID,33250,27.18333,78.01667
+Ajmal Zaheen,India,44,31975,India,Ajmal Zaheen_ID,31975,27.18333,78.01667
+Justin,India,44,30062.5,India,Justin_ID,30062.5,27.18333,78.01667
+Ven Nagasubramanian,India,44,29957.5,India,Ven Nagasubramanian_ID,29957.5,27.18333,78.01667
+Abhishek Shah,India,44,28345,India,Abhishek Shah_ID,28345,27.18333,78.01667
+Ben Won,India,45,61425,India,Ben Won_ID,61425,27.18333,78.01667
+dnarayan,India,45,53225,India,dnarayan_ID,51625,27.18333,78.01667
+Rakesh,India,45,48800,India,Rakesh_ID,48162.5,27.18333,78.01667
+Vijey K,India,45,42975,India,Vijey K_ID,42975,27.18333,78.01667
+Nakul Tilak ,India,45,36602.5,India,Nakul Tilak _ID,35302.5,27.18333,78.01667
+Rsamanth,India,45,36425,India,Rsamanth_ID,34850,27.18333,78.01667
+Ajmal Zaheen,India,45,31975,India,Ajmal Zaheen_ID,31975,27.18333,78.01667
+Justin,India,45,30062.5,India,Justin_ID,30062.5,27.18333,78.01667
+Ven Nagasubramanian,India,45,29957.5,India,Ven Nagasubramanian_ID,29957.5,27.18333,78.01667
+Abhishek Shah,India,45,28345,India,Abhishek Shah_ID,28345,27.18333,78.01667
+Ben Won,India,46,61425,India,Ben Won_ID,61425,27.18333,78.01667
+dnarayan,India,46,53543.75,India,dnarayan_ID,53225,27.18333,78.01667
+Rakesh,India,46,50500,India,Rakesh_ID,48800,27.18333,78.01667
+Vijey K,India,46,42975,India,Vijey K_ID,42975,27.18333,78.01667
+Nakul Tilak ,India,46,37422.5,India,Nakul Tilak _ID,36602.5,27.18333,78.01667
+Rsamanth,India,46,36425,India,Rsamanth_ID,36425,27.18333,78.01667
+Abhishek Shah,India,46,32745,India,Abhishek Shah_ID,28345,27.18333,78.01667
+Ajmal Zaheen,India,46,31975,India,Ajmal Zaheen_ID,31975,27.18333,78.01667
+Ven Nagasubramanian,India,46,31751.25,India,Ven Nagasubramanian_ID,29957.5,27.18333,78.01667
+Justin,India,46,30062.5,India,Justin_ID,30062.5,27.18333,78.01667
+Ben Won,India,47,61425,India,Ben Won_ID,61425,27.18333,78.01667
+dnarayan,India,47,53543.75,India,dnarayan_ID,53543.75,27.18333,78.01667
+Rakesh,India,47,52200,India,Rakesh_ID,50500,27.18333,78.01667
+Vijey K,India,47,42975,India,Vijey K_ID,42975,27.18333,78.01667
+Nakul Tilak ,India,47,37422.5,India,Nakul Tilak _ID,37422.5,27.18333,78.01667
+Rsamanth,India,47,36425,India,Rsamanth_ID,36425,27.18333,78.01667
+Abhishek Shah,India,47,34345,India,Abhishek Shah_ID,32745,27.18333,78.01667
+Ajmal Zaheen,India,47,31975,India,Ajmal Zaheen_ID,31975,27.18333,78.01667
+Ven Nagasubramanian,India,47,31751.25,India,Ven Nagasubramanian_ID,31751.25,27.18333,78.01667
+Justin,India,47,30062.5,India,Justin_ID,30062.5,27.18333,78.01667
+Ben Won,India,48,61425,India,Ben Won_ID,61425,27.18333,78.01667
+Rakesh,India,48,53900,India,Rakesh_ID,52200,27.18333,78.01667
+dnarayan,India,48,53543.75,India,dnarayan_ID,53543.75,27.18333,78.01667
+Vijey K,India,48,42975,India,Vijey K_ID,42975,27.18333,78.01667
+Nakul Tilak ,India,48,37422.5,India,Nakul Tilak _ID,37422.5,27.18333,78.01667
+Rsamanth,India,48,36425,India,Rsamanth_ID,36425,27.18333,78.01667
+Abhishek Shah,India,48,34345,India,Abhishek Shah_ID,34345,27.18333,78.01667
+Ajmal Zaheen,India,48,31975,India,Ajmal Zaheen_ID,31975,27.18333,78.01667
+Ven Nagasubramanian,India,48,31751.25,India,Ven Nagasubramanian_ID,31751.25,27.18333,78.01667
+Justin,India,48,30062.5,India,Justin_ID,30062.5,27.18333,78.01667
+Rakesh,India,49,62625,India,Rakesh_ID,53900,27.18333,78.01667
+Ben Won,India,49,61425,India,Ben Won_ID,61425,27.18333,78.01667
+dnarayan,India,49,55143.75,India,dnarayan_ID,53543.75,27.18333,78.01667
+Vijey K,India,49,42975,India,Vijey K_ID,42975,27.18333,78.01667
+Nakul Tilak ,India,49,39567.5,India,Nakul Tilak _ID,37422.5,27.18333,78.01667
+Rsamanth,India,49,38125,India,Rsamanth_ID,36425,27.18333,78.01667
+Abhishek Shah,India,49,34345,India,Abhishek Shah_ID,34345,27.18333,78.01667
+Ajmal Zaheen,India,49,33575,India,Ajmal Zaheen_ID,31975,27.18333,78.01667
+Ven Nagasubramanian,India,49,31751.25,India,Ven Nagasubramanian_ID,31751.25,27.18333,78.01667
+Justin,India,49,30062.5,India,Justin_ID,30062.5,27.18333,78.01667
+Rakesh,India,50,62800,India,Rakesh_ID,62625,27.18333,78.01667
+Ben Won,India,50,61425,India,Ben Won_ID,61425,27.18333,78.01667
+dnarayan,India,50,56743.75,India,dnarayan_ID,55143.75,27.18333,78.01667
+Vijey K,India,50,42975,India,Vijey K_ID,42975,27.18333,78.01667
+Rsamanth,India,50,39825,India,Rsamanth_ID,38125,27.18333,78.01667
+Nakul Tilak ,India,50,39767.5,India,Nakul Tilak _ID,39567.5,27.18333,78.01667
+Ajmal Zaheen,India,50,35175,India,Ajmal Zaheen_ID,33575,27.18333,78.01667
+Abhishek Shah,India,50,34345,India,Abhishek Shah_ID,34345,27.18333,78.01667
+Ven Nagasubramanian,India,50,31751.25,India,Ven Nagasubramanian_ID,31751.25,27.18333,78.01667
+Justin,India,50,30062.5,India,Justin_ID,30062.5,27.18333,78.01667
+Rakesh,India,51,62800,India,Rakesh_ID,62800,27.18333,78.01667
+Ben Won,India,51,61425,India,Ben Won_ID,61425,27.18333,78.01667
+dnarayan ,India,51,58556.25,India,dnarayan _ID,56743.75,27.18333,78.01667
+Vijey K,India,51,42975,India,Vijey K_ID,42975,27.18333,78.01667
+Rsamanth,India,51,41525,India,Rsamanth_ID,39825,27.18333,78.01667
+Nakul Tilak ,India,51,39767.5,India,Nakul Tilak _ID,39767.5,27.18333,78.01667
+Ajmal Zaheen,India,51,36775,India,Ajmal Zaheen_ID,35175,27.18333,78.01667
+Abhishek Shah,India,51,36745,India,Abhishek Shah_ID,34345,27.18333,78.01667
+Ven Nagasubramanian,India,51,31751.25,India,Ven Nagasubramanian_ID,31751.25,27.18333,78.01667
+Joseph Amalesh,India,51,30125,India,Joseph Amalesh_ID,0,27.18333,78.01667
+Rakesh,India,52,64500,India,Rakesh_ID,62800,27.18333,78.01667
+Ben Won,India,52,61425,India,Ben Won_ID,61425,27.18333,78.01667
+dnarayan,India,52,58556.25,India,dnarayan_ID,58556.25,27.18333,78.01667
+Rsamanth,India,52,43200,India,Rsamanth_ID,41525,27.18333,78.01667
+Vijey K,India,52,42975,India,Vijey K_ID,42975,27.18333,78.01667
+Nakul Tilak ,India,52,42022.5,India,Nakul Tilak _ID,39767.5,27.18333,78.01667
+Ajmal Zaheen,India,52,38375,India,Ajmal Zaheen_ID,36775,27.18333,78.01667
+Abhishek Shah,India,52,36745,India,Abhishek Shah_ID,36745,27.18333,78.01667
+Ven Nagasubramanian,India,52,33077.25,India,Ven Nagasubramanian_ID,31751.25,27.18333,78.01667
+Joseph Amalesh,India,52,31725,India,Joseph Amalesh_ID,30125,27.18333,78.01667
+Ben Won,India,53,74925,India,Ben Won_ID,61425,27.18333,78.01667
+Rakesh,India,53,66200,India,Rakesh_ID,64500,27.18333,78.01667
+dnarayan,India,53,60156.25,India,dnarayan_ID,58556.25,27.18333,78.01667
+Nakul Tilak ,India,53,44682.5,India,Nakul Tilak _ID,42022.5,27.18333,78.01667
+Rsamanth,India,53,43200,India,Rsamanth_ID,43200,27.18333,78.01667
+Vijey K,India,53,42975,India,Vijey K_ID,42975,27.18333,78.01667
+Ajmal Zaheen,India,53,39975,India,Ajmal Zaheen_ID,38375,27.18333,78.01667
+Abhishek Shah,India,53,36945,India,Abhishek Shah_ID,36745,27.18333,78.01667
+Ven Nagasubramanian,India,53,33477.25,India,Ven Nagasubramanian_ID,33077.25,27.18333,78.01667
+Joseph Amalesh,India,53,31725,India,Joseph Amalesh_ID,31725,27.18333,78.01667
+Ben Won,India,54,74925,India,Ben Won_ID,74925,27.18333,78.01667
+Rakesh,India,54,66200,India,Rakesh_ID,66200,27.18333,78.01667
+dnarayan,India,54,60156.25,India,dnarayan_ID,60156.25,27.18333,78.01667
+Nakul Tilak ,India,54,45502.5,India,Nakul Tilak _ID,44682.5,27.18333,78.01667
+Rsamanth,India,54,43200,India,Rsamanth_ID,43200,27.18333,78.01667
+Vijey K,India,54,42975,India,Vijey K_ID,42975,27.18333,78.01667
+Ajmal Zaheen,India,54,39975,India,Ajmal Zaheen_ID,39975,27.18333,78.01667
+Abhishek Shah,India,54,38545,India,Abhishek Shah_ID,36945,27.18333,78.01667
+Ven Nagasubramanian,India,54,33477.25,India,Ven Nagasubramanian_ID,33477.25,27.18333,78.01667
+Joseph Amalesh,India,54,31725,India,Joseph Amalesh_ID,31725,27.18333,78.01667
+Ben Won,India,55,74925,India,Ben Won_ID,74925,27.18333,78.01667
+Rakesh,India,55,66200,India,Rakesh_ID,66200,27.18333,78.01667
+dnarayan,India,55,60156.25,India,dnarayan_ID,60156.25,27.18333,78.01667
+Nakul Tilak ,India,55,45502.5,India,Nakul Tilak _ID,45502.5,27.18333,78.01667
+Rsamanth,India,55,43200,India,Rsamanth_ID,43200,27.18333,78.01667
+Vijey K,India,55,42975,India,Vijey K_ID,42975,27.18333,78.01667
+Abhishek Shah,India,55,40145,India,Abhishek Shah_ID,38545,27.18333,78.01667
+Ajmal Zaheen,India,55,39975,India,Ajmal Zaheen_ID,39975,27.18333,78.01667
+Ven Nagasubramanian,India,55,33477.25,India,Ven Nagasubramanian_ID,33477.25,27.18333,78.01667
+Joseph Amalesh,India,55,31725,India,Joseph Amalesh_ID,31725,27.18333,78.01667
+Ben Won,India,56,74925,India,Ben Won_ID,74925,27.18333,78.01667
+Rakesh,India,56,67050,India,Rakesh_ID,66200,27.18333,78.01667
+dnarayan,India,56,60556.25,India,dnarayan_ID,60156.25,27.18333,78.01667
+Nakul Tilak ,India,56,45707.5,India,Nakul Tilak _ID,45502.5,27.18333,78.01667
+Rsamanth,India,56,43200,India,Rsamanth_ID,43200,27.18333,78.01667
+Vijey K,India,56,42975,India,Vijey K_ID,42975,27.18333,78.01667
+Abhishek Shah,India,56,40145,India,Abhishek Shah_ID,40145,27.18333,78.01667
+Ajmal Zaheen,India,56,39975,India,Ajmal Zaheen_ID,39975,27.18333,78.01667
+Justin,India,56,36225,India,Justin_ID,0,27.18333,78.01667
+Ven Nagasubramanian,India,56,33952.25,India,Ven Nagasubramanian_ID,33477.25,27.18333,78.01667
+Ben Won,India,57,74925,India,Ben Won_ID,74925,27.18333,78.01667
+Rakesh,India,57,67687.5,India,Rakesh_ID,67050,27.18333,78.01667
+dnarayan,India,57,62156.25,India,dnarayan_ID,60556.25,27.18333,78.01667
+Vijey K,India,57,48712.5,India,Vijey K_ID,42975,27.18333,78.01667
+Nakul Tilak ,India,57,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Rsamanth,India,57,43200,India,Rsamanth_ID,43200,27.18333,78.01667
+Abhishek Shah,India,57,42545,India,Abhishek Shah_ID,40145,27.18333,78.01667
+Ajmal Zaheen,India,57,39975,India,Ajmal Zaheen_ID,39975,27.18333,78.01667
+Justin,India,57,38456.25,India,Justin_ID,36225,27.18333,78.01667
+Hai Zhu,India,57,36000,India,Hai Zhu_ID,0,27.18333,78.01667
+Ben Won,India,58,74925,India,Ben Won_ID,74925,27.18333,78.01667
+Rakesh,India,58,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+dnarayan,India,58,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Vijey K,India,58,48712.5,India,Vijey K_ID,48712.5,27.18333,78.01667
+Nakul Tilak ,India,58,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Rsamanth,India,58,43425,India,Rsamanth_ID,43200,27.18333,78.01667
+Abhishek Shah,India,58,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Ajmal Zaheen,India,58,39975,India,Ajmal Zaheen_ID,39975,27.18333,78.01667
+Justin,India,58,39337.5,India,Justin_ID,38456.25,27.18333,78.01667
+Joseph Amalesh,India,58,36925,India,Joseph Amalesh_ID,0,27.18333,78.01667
+Ben Won,India,59,74925,India,Ben Won_ID,74925,27.18333,78.01667
+Rakesh,India,59,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+dnarayan,India,59,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Vijey K,India,59,48712.5,India,Vijey K_ID,48712.5,27.18333,78.01667
+Nakul Tilak ,India,59,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Rsamanth,India,59,44700,India,Rsamanth_ID,43425,27.18333,78.01667
+Abhishek Shah,India,59,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Justin,India,59,41037.5,India,Justin_ID,39337.5,27.18333,78.01667
+Ajmal Zaheen,India,59,39975,India,Ajmal Zaheen_ID,39975,27.18333,78.01667
+Joseph Amalesh,India,59,36925,India,Joseph Amalesh_ID,36925,27.18333,78.01667
+Ben Won,India,60,74925,India,Ben Won_ID,74925,27.18333,78.01667
+Rakesh,India,60,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+dnarayan,India,60,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Vijey K,India,60,48712.5,India,Vijey K_ID,48712.5,27.18333,78.01667
+Rsamanth,India,60,46200,India,Rsamanth_ID,44700,27.18333,78.01667
+Nakul Tilak ,India,60,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Abhishek Shah,India,60,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Justin,India,60,42525,India,Justin_ID,41037.5,27.18333,78.01667
+Ajmal Zaheen,India,60,39975,India,Ajmal Zaheen_ID,39975,27.18333,78.01667
+Joseph Amalesh,India,60,38525,India,Joseph Amalesh_ID,36925,27.18333,78.01667
+Ben Won,India,61,74925,India,Ben Won_ID,74925,27.18333,78.01667
+Rakesh,India,61,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+dnarayan,India,61,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Vijey K,India,61,48712.5,India,Vijey K_ID,48712.5,27.18333,78.01667
+Rsamanth,India,61,46200,India,Rsamanth_ID,46200,27.18333,78.01667
+Nakul Tilak ,India,61,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Abhishek Shah,India,61,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Justin,India,61,42525,India,Justin_ID,42525,27.18333,78.01667
+Ajmal Zaheen,India,61,39975,India,Ajmal Zaheen_ID,39975,27.18333,78.01667
+Joseph Amalesh,India,61,38525,India,Joseph Amalesh_ID,38525,27.18333,78.01667
+Ben Won,India,62,74925,India,Ben Won_ID,74925,27.18333,78.01667
+Rakesh,India,62,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+dnarayan,India,62,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Vijey K,India,62,48712.5,India,Vijey K_ID,48712.5,27.18333,78.01667
+Rsamanth,India,62,46200,India,Rsamanth_ID,46200,27.18333,78.01667
+Nakul Tilak ,India,62,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Abhishek Shah,India,62,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Justin,India,62,42525,India,Justin_ID,42525,27.18333,78.01667
+Ajmal Zaheen,India,62,39975,India,Ajmal Zaheen_ID,39975,27.18333,78.01667
+Joseph Amalesh,India,62,38525,India,Joseph Amalesh_ID,38525,27.18333,78.01667
+Ben Won,India,63,74925,India,Ben Won_ID,74925,27.18333,78.01667
+Rakesh,India,63,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+dnarayan,India,63,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Vijey K,India,63,48712.5,India,Vijey K_ID,48712.5,27.18333,78.01667
+Rsamanth,India,63,46575,India,Rsamanth_ID,46200,27.18333,78.01667
+Nakul Tilak ,India,63,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Justin,India,63,44012.5,India,Justin_ID,42525,27.18333,78.01667
+Abhishek Shah,India,63,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Ajmal Zaheen,India,63,39975,India,Ajmal Zaheen_ID,39975,27.18333,78.01667
+Joseph Amalesh,India,63,38525,India,Joseph Amalesh_ID,38525,27.18333,78.01667
+Ben Won,India,64,74925,India,Ben Won_ID,74925,27.18333,78.01667
+Rakesh,India,64,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+dnarayan,India,64,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Vijey K,India,64,48712.5,India,Vijey K_ID,48712.5,27.18333,78.01667
+Rsamanth,India,64,48200,India,Rsamanth_ID,46575,27.18333,78.01667
+Nakul Tilak ,India,64,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Justin,India,64,45456.25,India,Justin_ID,44012.5,27.18333,78.01667
+Abhishek Shah,India,64,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Joseph Amalesh,India,64,41975,India,Joseph Amalesh_ID,38525,27.18333,78.01667
+Ajmal Zaheen,India,64,39975,India,Ajmal Zaheen_ID,39975,27.18333,78.01667
+Ben Won,India,65,74925,India,Ben Won_ID,74925,27.18333,78.01667
+Rakesh,India,65,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+dnarayan,India,65,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Rsamanth,India,65,49900,India,Rsamanth_ID,48200,27.18333,78.01667
+Vijey K,India,65,48712.5,India,Vijey K_ID,48712.5,27.18333,78.01667
+Justin,India,65,46912.5,India,Justin_ID,45456.25,27.18333,78.01667
+Nakul Tilak ,India,65,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Joseph Amalesh,India,65,42775,India,Joseph Amalesh_ID,41975,27.18333,78.01667
+Abhishek Shah,India,65,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Ajmal Zaheen,India,65,39975,India,Ajmal Zaheen_ID,39975,27.18333,78.01667
+Ben Won,India,66,74925,India,Ben Won_ID,74925,27.18333,78.01667
+Rakesh,India,66,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+dnarayan,India,66,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Rsamanth,India,66,51600,India,Rsamanth_ID,49900,27.18333,78.01667
+Vijey K,India,66,48712.5,India,Vijey K_ID,48712.5,27.18333,78.01667
+Justin,India,66,48450,India,Justin_ID,46912.5,27.18333,78.01667
+Nakul Tilak ,India,66,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Joseph Amalesh,India,66,44575,India,Joseph Amalesh_ID,42775,27.18333,78.01667
+Abhishek Shah,India,66,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Ajmal Zaheen,India,66,39975,India,Ajmal Zaheen_ID,39975,27.18333,78.01667
+Ben Won,India,67,91125,India,Ben Won_ID,74925,27.18333,78.01667
+Rakesh,India,67,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+dnarayan,India,67,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Rsamanth,India,67,51600,India,Rsamanth_ID,51600,27.18333,78.01667
+Justin,India,67,49150,India,Justin_ID,48450,27.18333,78.01667
+Vijey K,India,67,48712.5,India,Vijey K_ID,48712.5,27.18333,78.01667
+Hai Zhu,India,67,47700,India,Hai Zhu_ID,0,27.18333,78.01667
+Joseph Amalesh,India,67,46375,India,Joseph Amalesh_ID,44575,27.18333,78.01667
+Nakul Tilak ,India,67,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Abhishek Shah,India,67,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Ben Won,India,68,91125,India,Ben Won_ID,91125,27.18333,78.01667
+Rakesh,India,68,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+dnarayan,India,68,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Rsamanth,India,68,51600,India,Rsamanth_ID,51600,27.18333,78.01667
+Justin,India,68,49150,India,Justin_ID,49150,27.18333,78.01667
+Vijey K,India,68,48712.5,India,Vijey K_ID,48712.5,27.18333,78.01667
+Hai Zhu,India,68,47700,India,Hai Zhu_ID,47700,27.18333,78.01667
+Joseph Amalesh,India,68,46375,India,Joseph Amalesh_ID,46375,27.18333,78.01667
+Nakul Tilak ,India,68,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Abhishek Shah,India,68,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Ben Won,India,69,91125,India,Ben Won_ID,91125,27.18333,78.01667
+Rakesh,India,69,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+dnarayan,India,69,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Rsamanth,India,69,51600,India,Rsamanth_ID,51600,27.18333,78.01667
+Justin,India,69,49150,India,Justin_ID,49150,27.18333,78.01667
+Vijey K,India,69,48712.5,India,Vijey K_ID,48712.5,27.18333,78.01667
+Hai Zhu,India,69,47700,India,Hai Zhu_ID,47700,27.18333,78.01667
+Joseph Amalesh,India,69,46375,India,Joseph Amalesh_ID,46375,27.18333,78.01667
+Nakul Tilak ,India,69,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Abhishek Shah,India,69,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Ben Won,India,70,91125,India,Ben Won_ID,91125,27.18333,78.01667
+Rakesh,India,70,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+dnarayan,India,70,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Rsamanth,India,70,51600,India,Rsamanth_ID,51600,27.18333,78.01667
+Justin,India,70,50081.25,India,Justin_ID,49150,27.18333,78.01667
+Vijey K,India,70,48712.5,India,Vijey K_ID,48712.5,27.18333,78.01667
+Joseph Amalesh,India,70,48175,India,Joseph Amalesh_ID,46375,27.18333,78.01667
+Hai Zhu,India,70,47700,India,Hai Zhu_ID,47700,27.18333,78.01667
+Nakul Tilak ,India,70,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Abhishek Shah,India,70,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Ben Won,India,71,91125,India,Ben Won_ID,91125,27.18333,78.01667
+Rakesh,India,71,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+Vijey K,India,71,64112.5,India,Vijey K_ID,48712.5,27.18333,78.01667
+dnarayan,India,71,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Rsamanth,India,71,51600,India,Rsamanth_ID,51600,27.18333,78.01667
+Justin,India,71,50081.25,India,Justin_ID,50081.25,27.18333,78.01667
+Joseph Amalesh,India,71,49775,India,Joseph Amalesh_ID,48175,27.18333,78.01667
+Hai Zhu,India,71,47700,India,Hai Zhu_ID,47700,27.18333,78.01667
+Nakul Tilak ,India,71,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Abhishek Shah,India,71,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Ben Won,India,72,91125,India,Ben Won_ID,91125,27.18333,78.01667
+Rakesh,India,72,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+Vijey K,India,72,64112.5,India,Vijey K_ID,64112.5,27.18333,78.01667
+dnarayan,India,72,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Rsamanth,India,72,52837.5,India,Rsamanth_ID,51600,27.18333,78.01667
+Justin,India,72,50081.25,India,Justin_ID,50081.25,27.18333,78.01667
+Joseph Amalesh,India,72,49775,India,Joseph Amalesh_ID,49775,27.18333,78.01667
+Hai Zhu,India,72,47700,India,Hai Zhu_ID,47700,27.18333,78.01667
+Nakul Tilak ,India,72,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Abhishek Shah,India,72,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Ben Won,India,73,91125,India,Ben Won_ID,91125,27.18333,78.01667
+Rakesh,India,73,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+Vijey K,India,73,64112.5,India,Vijey K_ID,64112.5,27.18333,78.01667
+dnarayan,India,73,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Rsamanth,India,73,54537.5,India,Rsamanth_ID,52837.5,27.18333,78.01667
+Joseph Amalesh,India,73,51575,India,Joseph Amalesh_ID,49775,27.18333,78.01667
+Justin,India,73,50081.25,India,Justin_ID,50081.25,27.18333,78.01667
+Hai Zhu,India,73,47700,India,Hai Zhu_ID,47700,27.18333,78.01667
+Nakul Tilak ,India,73,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Abhishek Shah,India,73,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Ben Won,India,74,91125,India,Ben Won_ID,91125,27.18333,78.01667
+Rakesh,India,74,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+Vijey K,India,74,64112.5,India,Vijey K_ID,64112.5,27.18333,78.01667
+dnarayan,India,74,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Rsamanth,India,74,56237.5,India,Rsamanth_ID,54537.5,27.18333,78.01667
+Joseph Amalesh,India,74,54275,India,Joseph Amalesh_ID,51575,27.18333,78.01667
+Hai Zhu,India,74,53100,India,Hai Zhu_ID,47700,27.18333,78.01667
+Justin,India,74,50081.25,India,Justin_ID,50081.25,27.18333,78.01667
+Nakul Tilak ,India,74,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Abhishek Shah,India,74,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Ben Won,India,75,91125,India,Ben Won_ID,91125,27.18333,78.01667
+Rakesh,India,75,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+Vijey K,India,75,64112.5,India,Vijey K_ID,64112.5,27.18333,78.01667
+dnarayan,India,75,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Rsamanth,India,75,56237.5,India,Rsamanth_ID,56237.5,27.18333,78.01667
+Joseph Amalesh,India,75,54275,India,Joseph Amalesh_ID,54275,27.18333,78.01667
+Hai Zhu,India,75,53100,India,Hai Zhu_ID,53100,27.18333,78.01667
+Justin,India,75,50081.25,India,Justin_ID,50081.25,27.18333,78.01667
+Nakul Tilak ,India,75,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Abhishek Shah,India,75,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Ben Won,India,76,91125,India,Ben Won_ID,91125,27.18333,78.01667
+Rakesh,India,76,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+Vijey K,India,76,67512.5,India,Vijey K_ID,64112.5,27.18333,78.01667
+dnarayan,India,76,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Rsamanth,India,76,56237.5,India,Rsamanth_ID,56237.5,27.18333,78.01667
+Joseph Amalesh,India,76,54275,India,Joseph Amalesh_ID,54275,27.18333,78.01667
+Hai Zhu,India,76,53100,India,Hai Zhu_ID,53100,27.18333,78.01667
+Justin,India,76,50081.25,India,Justin_ID,50081.25,27.18333,78.01667
+Nakul Tilak ,India,76,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Abhishek Shah,India,76,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
+Ben Won,India,77,91125,India,Ben Won_ID,91125,27.18333,78.01667
+Rakesh,India,77,67687.5,India,Rakesh_ID,67687.5,27.18333,78.01667
+Vijey K,India,77,67512.5,India,Vijey K_ID,67512.5,27.18333,78.01667
+dnarayan,India,77,62156.25,India,dnarayan_ID,62156.25,27.18333,78.01667
+Rsamanth,India,77,56237.5,India,Rsamanth_ID,56237.5,27.18333,78.01667
+Joseph Amalesh,India,77,54275,India,Joseph Amalesh_ID,54275,27.18333,78.01667
+Hai Zhu,India,77,53100,India,Hai Zhu_ID,53100,27.18333,78.01667
+Justin,India,77,50081.25,India,Justin_ID,50081.25,27.18333,78.01667
+Nakul Tilak ,India,77,45707.5,India,Nakul Tilak _ID,45707.5,27.18333,78.01667
+Abhishek Shah,India,77,42545,India,Abhishek Shah_ID,42545,27.18333,78.01667
