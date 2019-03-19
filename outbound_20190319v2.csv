@@ -1,0 +1,1985 @@
+name,group,year,value,subGroup,city_id,lastValue,lat,lon
+Abhishek Shah,North America,1,0,Kickass Tuples,Abhishek Shah_ID,0,39.95000,-75.16670
+Abhishek Shah,North America,2,1720,Kickass Tuples,Abhishek Shah_ID,0,39.95000,-75.16670
+Abhishek Shah,North America,3,3440,Kickass Tuples,Abhishek Shah_ID,1720,39.95000,-75.16670
+Abhishek Shah,North America,4,3440,Kickass Tuples,Abhishek Shah_ID,3440,39.95000,-75.16670
+Abhishek Shah,North America,5,3440,Kickass Tuples,Abhishek Shah_ID,3440,39.95000,-75.16670
+Abhishek Shah,North America,6,3440,Kickass Tuples,Abhishek Shah_ID,3440,39.95000,-75.16670
+Abhishek Shah,North America,7,5160,Kickass Tuples,Abhishek Shah_ID,3440,39.95000,-75.16670
+Abhishek Shah,North America,8,6880,Kickass Tuples,Abhishek Shah_ID,5160,39.95000,-75.16670
+Abhishek Shah,North America,9,8600,Kickass Tuples,Abhishek Shah_ID,6880,39.95000,-75.16670
+Abhishek Shah,North America,10,8600,Kickass Tuples,Abhishek Shah_ID,8600,39.95000,-75.16670
+Abhishek Shah,North America,11,8600,Kickass Tuples,Abhishek Shah_ID,8600,39.95000,-75.16670
+Abhishek Shah,North America,12,8600,Kickass Tuples,Abhishek Shah_ID,8600,39.95000,-75.16670
+Abhishek Shah,North America,13,8600,Kickass Tuples,Abhishek Shah_ID,8600,39.95000,-75.16670
+Abhishek Shah,North America,14,10320,Kickass Tuples,Abhishek Shah_ID,8600,39.95000,-75.16670
+Abhishek Shah,North America,15,12040,Kickass Tuples,Abhishek Shah_ID,10320,39.95000,-75.16670
+Abhishek Shah,North America,16,13760,Kickass Tuples,Abhishek Shah_ID,12040,39.95000,-75.16670
+Abhishek Shah,North America,17,13760,Kickass Tuples,Abhishek Shah_ID,13760,39.95000,-75.16670
+Abhishek Shah,North America,18,13760,Kickass Tuples,Abhishek Shah_ID,13760,39.95000,-75.16670
+Abhishek Shah,North America,19,13760,Kickass Tuples,Abhishek Shah_ID,13760,39.95000,-75.16670
+Abhishek Shah,North America,20,13760,Kickass Tuples,Abhishek Shah_ID,13760,39.95000,-75.16670
+Abhishek Shah,North America,21,15480,Kickass Tuples,Abhishek Shah_ID,13760,39.95000,-75.16670
+Abhishek Shah,North America,22,17200,Kickass Tuples,Abhishek Shah_ID,15480,39.95000,-75.16670
+Abhishek Shah,North America,23,18920,Kickass Tuples,Abhishek Shah_ID,17200,39.95000,-75.16670
+Abhishek Shah,North America,24,18920,Kickass Tuples,Abhishek Shah_ID,18920,39.95000,-75.16670
+Abhishek Shah,North America,25,18920,Kickass Tuples,Abhishek Shah_ID,18920,39.95000,-75.16670
+Abhishek Shah,North America,26,18920,Kickass Tuples,Abhishek Shah_ID,18920,39.95000,-75.16670
+Abhishek Shah,North America,27,18920,Kickass Tuples,Abhishek Shah_ID,18920,39.95000,-75.16670
+Abhishek Shah,North America,28,18920,Kickass Tuples,Abhishek Shah_ID,18920,39.95000,-75.16670
+Abhishek Shah,North America,29,18920,Kickass Tuples,Abhishek Shah_ID,18920,39.95000,-75.16670
+Abhishek Shah,North America,30,18920,Kickass Tuples,Abhishek Shah_ID,18920,39.95000,-75.16670
+Abhishek Shah,North America,31,18920,Kickass Tuples,Abhishek Shah_ID,18920,39.95000,-75.16670
+Abhishek Shah,North America,32,18920,Kickass Tuples,Abhishek Shah_ID,18920,39.95000,-75.16670
+Abhishek Shah,North America,33,18920,Kickass Tuples,Abhishek Shah_ID,18920,39.95000,-75.16670
+Abhishek Shah,North America,34,18920,Kickass Tuples,Abhishek Shah_ID,18920,39.95000,-75.16670
+Abhishek Shah,North America,35,20520,Kickass Tuples,Abhishek Shah_ID,18920,39.95000,-75.16670
+Abhishek Shah,North America,36,22570,Kickass Tuples,Abhishek Shah_ID,20520,39.95000,-75.16670
+Abhishek Shah,North America,37,23370,Kickass Tuples,Abhishek Shah_ID,22570,39.95000,-75.16670
+Abhishek Shah,North America,38,23370,Kickass Tuples,Abhishek Shah_ID,23370,39.95000,-75.16670
+Abhishek Shah,North America,39,24895,Kickass Tuples,Abhishek Shah_ID,23370,39.95000,-75.16670
+Abhishek Shah,North America,40,24895,Kickass Tuples,Abhishek Shah_ID,24895,39.95000,-75.16670
+Abhishek Shah,North America,41,25345,Kickass Tuples,Abhishek Shah_ID,24895,39.95000,-75.16670
+Abhishek Shah,North America,42,27145,Kickass Tuples,Abhishek Shah_ID,25345,39.95000,-75.16670
+Abhishek Shah,North America,43,28345,Kickass Tuples,Abhishek Shah_ID,27145,39.95000,-75.16670
+Abhishek Shah,North America,44,28345,Kickass Tuples,Abhishek Shah_ID,28345,39.95000,-75.16670
+Abhishek Shah,North America,45,28345,Kickass Tuples,Abhishek Shah_ID,28345,39.95000,-75.16670
+Abhishek Shah,North America,46,32745,Kickass Tuples,Abhishek Shah_ID,28345,39.95000,-75.16670
+Abhishek Shah,North America,47,34345,Kickass Tuples,Abhishek Shah_ID,32745,39.95000,-75.16670
+Abhishek Shah,North America,48,34345,Kickass Tuples,Abhishek Shah_ID,34345,39.95000,-75.16670
+Abhishek Shah,North America,49,34345,Kickass Tuples,Abhishek Shah_ID,34345,39.95000,-75.16670
+Abhishek Shah,North America,50,34345,Kickass Tuples,Abhishek Shah_ID,34345,39.95000,-75.16670
+Abhishek Shah,North America,51,36745,Kickass Tuples,Abhishek Shah_ID,34345,39.95000,-75.16670
+Abhishek Shah,North America,52,36745,Kickass Tuples,Abhishek Shah_ID,36745,39.95000,-75.16670
+Abhishek Shah,North America,53,36945,Kickass Tuples,Abhishek Shah_ID,36745,39.95000,-75.16670
+Abhishek Shah,North America,54,38545,Kickass Tuples,Abhishek Shah_ID,36945,39.95000,-75.16670
+Abhishek Shah,North America,55,40145,Kickass Tuples,Abhishek Shah_ID,38545,39.95000,-75.16670
+Abhishek Shah,North America,56,40145,Kickass Tuples,Abhishek Shah_ID,40145,39.95000,-75.16670
+Abhishek Shah,North America,57,42545,Kickass Tuples,Abhishek Shah_ID,40145,39.95000,-75.16670
+Abhishek Shah,North America,58,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,59,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,60,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,61,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,62,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,63,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,64,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,65,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,66,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,67,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,68,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,69,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,70,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,71,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,72,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,73,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,74,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,75,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,76,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,77,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Abhishek Shah,North America,78,42545,Kickass Tuples,Abhishek Shah_ID,42545,39.95000,-75.16670
+Ajmal Zaheen,North America,1,0,Kickass Tuples,Ajmal Zaheen_ID,0,39.95000,-75.16670
+Ajmal Zaheen,North America,2,1700,Kickass Tuples,Ajmal Zaheen_ID,0,39.95000,-75.16670
+Ajmal Zaheen,North America,3,2550,Kickass Tuples,Ajmal Zaheen_ID,1700,39.95000,-75.16670
+Ajmal Zaheen,North America,4,3750,Kickass Tuples,Ajmal Zaheen_ID,2550,39.95000,-75.16670
+Ajmal Zaheen,North America,5,3750,Kickass Tuples,Ajmal Zaheen_ID,3750,39.95000,-75.16670
+Ajmal Zaheen,North America,6,3750,Kickass Tuples,Ajmal Zaheen_ID,3750,39.95000,-75.16670
+Ajmal Zaheen,North America,7,5350,Kickass Tuples,Ajmal Zaheen_ID,3750,39.95000,-75.16670
+Ajmal Zaheen,North America,8,6625,Kickass Tuples,Ajmal Zaheen_ID,5350,39.95000,-75.16670
+Ajmal Zaheen,North America,9,6625,Kickass Tuples,Ajmal Zaheen_ID,6625,39.95000,-75.16670
+Ajmal Zaheen,North America,10,7025,Kickass Tuples,Ajmal Zaheen_ID,6625,39.95000,-75.16670
+Ajmal Zaheen,North America,11,8225,Kickass Tuples,Ajmal Zaheen_ID,7025,39.95000,-75.16670
+Ajmal Zaheen,North America,12,8225,Kickass Tuples,Ajmal Zaheen_ID,8225,39.95000,-75.16670
+Ajmal Zaheen,North America,13,8225,Kickass Tuples,Ajmal Zaheen_ID,8225,39.95000,-75.16670
+Ajmal Zaheen,North America,14,9625,Kickass Tuples,Ajmal Zaheen_ID,8225,39.95000,-75.16670
+Ajmal Zaheen,North America,15,11225,Kickass Tuples,Ajmal Zaheen_ID,9625,39.95000,-75.16670
+Ajmal Zaheen,North America,16,12025,Kickass Tuples,Ajmal Zaheen_ID,11225,39.95000,-75.16670
+Ajmal Zaheen,North America,17,12025,Kickass Tuples,Ajmal Zaheen_ID,12025,39.95000,-75.16670
+Ajmal Zaheen,North America,18,12425,Kickass Tuples,Ajmal Zaheen_ID,12025,39.95000,-75.16670
+Ajmal Zaheen,North America,19,12425,Kickass Tuples,Ajmal Zaheen_ID,12425,39.95000,-75.16670
+Ajmal Zaheen,North America,20,12425,Kickass Tuples,Ajmal Zaheen_ID,12425,39.95000,-75.16670
+Ajmal Zaheen,North America,21,12425,Kickass Tuples,Ajmal Zaheen_ID,12425,39.95000,-75.16670
+Ajmal Zaheen,North America,22,12425,Kickass Tuples,Ajmal Zaheen_ID,12425,39.95000,-75.16670
+Ajmal Zaheen,North America,23,12425,Kickass Tuples,Ajmal Zaheen_ID,12425,39.95000,-75.16670
+Ajmal Zaheen,North America,24,13275,Kickass Tuples,Ajmal Zaheen_ID,12425,39.95000,-75.16670
+Ajmal Zaheen,North America,25,13275,Kickass Tuples,Ajmal Zaheen_ID,13275,39.95000,-75.16670
+Ajmal Zaheen,North America,26,13275,Kickass Tuples,Ajmal Zaheen_ID,13275,39.95000,-75.16670
+Ajmal Zaheen,North America,27,13275,Kickass Tuples,Ajmal Zaheen_ID,13275,39.95000,-75.16670
+Ajmal Zaheen,North America,28,14975,Kickass Tuples,Ajmal Zaheen_ID,13275,39.95000,-75.16670
+Ajmal Zaheen,North America,29,16675,Kickass Tuples,Ajmal Zaheen_ID,14975,39.95000,-75.16670
+Ajmal Zaheen,North America,30,18375,Kickass Tuples,Ajmal Zaheen_ID,16675,39.95000,-75.16670
+Ajmal Zaheen,North America,31,21775,Kickass Tuples,Ajmal Zaheen_ID,18375,39.95000,-75.16670
+Ajmal Zaheen,North America,32,23475,Kickass Tuples,Ajmal Zaheen_ID,21775,39.95000,-75.16670
+Ajmal Zaheen,North America,33,23475,Kickass Tuples,Ajmal Zaheen_ID,23475,39.95000,-75.16670
+Ajmal Zaheen,North America,34,23475,Kickass Tuples,Ajmal Zaheen_ID,23475,39.95000,-75.16670
+Ajmal Zaheen,North America,35,25175,Kickass Tuples,Ajmal Zaheen_ID,23475,39.95000,-75.16670
+Ajmal Zaheen,North America,36,26875,Kickass Tuples,Ajmal Zaheen_ID,25175,39.95000,-75.16670
+Ajmal Zaheen,North America,37,28575,Kickass Tuples,Ajmal Zaheen_ID,26875,39.95000,-75.16670
+Ajmal Zaheen,North America,38,30275,Kickass Tuples,Ajmal Zaheen_ID,28575,39.95000,-75.16670
+Ajmal Zaheen,North America,39,31975,Kickass Tuples,Ajmal Zaheen_ID,30275,39.95000,-75.16670
+Ajmal Zaheen,North America,40,31975,Kickass Tuples,Ajmal Zaheen_ID,31975,39.95000,-75.16670
+Ajmal Zaheen,North America,41,31975,Kickass Tuples,Ajmal Zaheen_ID,31975,39.95000,-75.16670
+Ajmal Zaheen,North America,42,31975,Kickass Tuples,Ajmal Zaheen_ID,31975,39.95000,-75.16670
+Ajmal Zaheen,North America,43,31975,Kickass Tuples,Ajmal Zaheen_ID,31975,39.95000,-75.16670
+Ajmal Zaheen,North America,44,31975,Kickass Tuples,Ajmal Zaheen_ID,31975,39.95000,-75.16670
+Ajmal Zaheen,North America,45,31975,Kickass Tuples,Ajmal Zaheen_ID,31975,39.95000,-75.16670
+Ajmal Zaheen,North America,46,31975,Kickass Tuples,Ajmal Zaheen_ID,31975,39.95000,-75.16670
+Ajmal Zaheen,North America,47,31975,Kickass Tuples,Ajmal Zaheen_ID,31975,39.95000,-75.16670
+Ajmal Zaheen,North America,48,31975,Kickass Tuples,Ajmal Zaheen_ID,31975,39.95000,-75.16670
+Ajmal Zaheen,North America,49,33575,Kickass Tuples,Ajmal Zaheen_ID,31975,39.95000,-75.16670
+Ajmal Zaheen,North America,50,35175,Kickass Tuples,Ajmal Zaheen_ID,33575,39.95000,-75.16670
+Ajmal Zaheen,North America,51,36775,Kickass Tuples,Ajmal Zaheen_ID,35175,39.95000,-75.16670
+Ajmal Zaheen,North America,52,38375,Kickass Tuples,Ajmal Zaheen_ID,36775,39.95000,-75.16670
+Ajmal Zaheen,North America,53,39975,Kickass Tuples,Ajmal Zaheen_ID,38375,39.95000,-75.16670
+Ajmal Zaheen,North America,54,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,55,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,56,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,57,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,58,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,59,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,60,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,61,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,62,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,63,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,64,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,65,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,66,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,67,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,68,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,69,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,70,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,71,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,72,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,73,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,74,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,75,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,76,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,77,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Ajmal Zaheen,North America,78,39975,Kickass Tuples,Ajmal Zaheen_ID,39975,39.95000,-75.16670
+Amit Shenoy,India,1,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,2,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,3,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,4,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,5,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,6,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,7,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,8,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,9,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,10,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,11,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,12,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,13,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,14,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,15,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,16,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,17,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,18,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,19,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,20,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,21,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,22,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,23,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,24,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,25,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,26,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,27,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,28,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,29,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,30,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,31,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,32,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,33,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,34,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,35,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,36,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,37,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,38,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,39,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,40,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,41,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,42,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,43,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,44,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,45,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,46,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,47,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,48,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,49,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,50,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,51,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,52,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,53,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,54,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,55,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,56,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,57,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,58,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,59,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,60,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,61,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,62,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,63,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,64,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,65,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,66,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,67,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,68,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,69,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,70,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,71,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,72,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,73,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,74,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,75,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,76,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,77,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Amit Shenoy,India,78,0,Other,Amit Shenoy_ID,0,27.18333,78.01667
+Ben Won,North America,11,25200,Plastic Gorilla Fruits,Ben Won_ID,0,39.95000,-75.16670
+Ben Won,North America,12,25200,Plastic Gorilla Fruits,Ben Won_ID,25200,39.95000,-75.16670
+Ben Won,North America,13,25200,Plastic Gorilla Fruits,Ben Won_ID,25200,39.95000,-75.16670
+Ben Won,North America,14,25200,Plastic Gorilla Fruits,Ben Won_ID,25200,39.95000,-75.16670
+Ben Won,North America,15,25200,Plastic Gorilla Fruits,Ben Won_ID,25200,39.95000,-75.16670
+Ben Won,North America,16,25200,Plastic Gorilla Fruits,Ben Won_ID,25200,39.95000,-75.16670
+Ben Won,North America,17,25200,Plastic Gorilla Fruits,Ben Won_ID,25200,39.95000,-75.16670
+Ben Won,North America,18,25200,Plastic Gorilla Fruits,Ben Won_ID,25200,39.95000,-75.16670
+Ben Won,North America,19,25200,Plastic Gorilla Fruits,Ben Won_ID,25200,39.95000,-75.16670
+Ben Won,North America,20,25200,Plastic Gorilla Fruits,Ben Won_ID,25200,39.95000,-75.16670
+Ben Won,North America,21,26100,Plastic Gorilla Fruits,Ben Won_ID,25200,39.95000,-75.16670
+Ben Won,North America,22,26100,Plastic Gorilla Fruits,Ben Won_ID,26100,39.95000,-75.16670
+Ben Won,North America,23,26100,Plastic Gorilla Fruits,Ben Won_ID,26100,39.95000,-75.16670
+Ben Won,North America,24,26100,Plastic Gorilla Fruits,Ben Won_ID,26100,39.95000,-75.16670
+Ben Won,North America,25,31725,Plastic Gorilla Fruits,Ben Won_ID,26100,39.95000,-75.16670
+Ben Won,North America,26,33525,Plastic Gorilla Fruits,Ben Won_ID,31725,39.95000,-75.16670
+Ben Won,North America,27,33525,Plastic Gorilla Fruits,Ben Won_ID,33525,39.95000,-75.16670
+Ben Won,North America,28,33525,Plastic Gorilla Fruits,Ben Won_ID,33525,39.95000,-75.16670
+Ben Won,North America,29,33525,Plastic Gorilla Fruits,Ben Won_ID,33525,39.95000,-75.16670
+Ben Won,North America,30,33525,Plastic Gorilla Fruits,Ben Won_ID,33525,39.95000,-75.16670
+Ben Won,North America,31,33525,Plastic Gorilla Fruits,Ben Won_ID,33525,39.95000,-75.16670
+Ben Won,North America,32,33525,Plastic Gorilla Fruits,Ben Won_ID,33525,39.95000,-75.16670
+Ben Won,North America,33,33525,Plastic Gorilla Fruits,Ben Won_ID,33525,39.95000,-75.16670
+Ben Won,North America,34,33525,Plastic Gorilla Fruits,Ben Won_ID,33525,39.95000,-75.16670
+Ben Won,North America,35,33525,Plastic Gorilla Fruits,Ben Won_ID,33525,39.95000,-75.16670
+Ben Won,North America,36,47925,Plastic Gorilla Fruits,Ben Won_ID,33525,39.95000,-75.16670
+Ben Won,North America,37,47925,Plastic Gorilla Fruits,Ben Won_ID,47925,39.95000,-75.16670
+Ben Won,North America,38,47925,Plastic Gorilla Fruits,Ben Won_ID,47925,39.95000,-75.16670
+Ben Won,North America,39,47925,Plastic Gorilla Fruits,Ben Won_ID,47925,39.95000,-75.16670
+Ben Won,North America,40,47925,Plastic Gorilla Fruits,Ben Won_ID,47925,39.95000,-75.16670
+Ben Won,North America,41,47925,Plastic Gorilla Fruits,Ben Won_ID,47925,39.95000,-75.16670
+Ben Won,North America,42,47925,Plastic Gorilla Fruits,Ben Won_ID,47925,39.95000,-75.16670
+Ben Won,North America,43,61425,Plastic Gorilla Fruits,Ben Won_ID,47925,39.95000,-75.16670
+Ben Won,North America,44,61425,Plastic Gorilla Fruits,Ben Won_ID,61425,39.95000,-75.16670
+Ben Won,North America,45,61425,Plastic Gorilla Fruits,Ben Won_ID,61425,39.95000,-75.16670
+Ben Won,North America,46,61425,Plastic Gorilla Fruits,Ben Won_ID,61425,39.95000,-75.16670
+Ben Won,North America,47,61425,Plastic Gorilla Fruits,Ben Won_ID,61425,39.95000,-75.16670
+Ben Won,North America,48,61425,Plastic Gorilla Fruits,Ben Won_ID,61425,39.95000,-75.16670
+Ben Won,North America,49,61425,Plastic Gorilla Fruits,Ben Won_ID,61425,39.95000,-75.16670
+Ben Won,North America,50,61425,Plastic Gorilla Fruits,Ben Won_ID,61425,39.95000,-75.16670
+Ben Won,North America,51,61425,Plastic Gorilla Fruits,Ben Won_ID,61425,39.95000,-75.16670
+Ben Won,North America,52,61425,Plastic Gorilla Fruits,Ben Won_ID,61425,39.95000,-75.16670
+Ben Won,North America,53,74925,Plastic Gorilla Fruits,Ben Won_ID,61425,39.95000,-75.16670
+Ben Won,North America,54,74925,Plastic Gorilla Fruits,Ben Won_ID,74925,39.95000,-75.16670
+Ben Won,North America,55,74925,Plastic Gorilla Fruits,Ben Won_ID,74925,39.95000,-75.16670
+Ben Won,North America,56,74925,Plastic Gorilla Fruits,Ben Won_ID,74925,39.95000,-75.16670
+Ben Won,North America,57,74925,Plastic Gorilla Fruits,Ben Won_ID,74925,39.95000,-75.16670
+Ben Won,North America,58,74925,Plastic Gorilla Fruits,Ben Won_ID,74925,39.95000,-75.16670
+Ben Won,North America,59,74925,Plastic Gorilla Fruits,Ben Won_ID,74925,39.95000,-75.16670
+Ben Won,North America,60,74925,Plastic Gorilla Fruits,Ben Won_ID,74925,39.95000,-75.16670
+Ben Won,North America,61,74925,Plastic Gorilla Fruits,Ben Won_ID,74925,39.95000,-75.16670
+Ben Won,North America,62,74925,Plastic Gorilla Fruits,Ben Won_ID,74925,39.95000,-75.16670
+Ben Won,North America,63,74925,Plastic Gorilla Fruits,Ben Won_ID,74925,39.95000,-75.16670
+Ben Won,North America,64,74925,Plastic Gorilla Fruits,Ben Won_ID,74925,39.95000,-75.16670
+Ben Won,North America,65,74925,Plastic Gorilla Fruits,Ben Won_ID,74925,39.95000,-75.16670
+Ben Won,North America,66,74925,Plastic Gorilla Fruits,Ben Won_ID,74925,39.95000,-75.16670
+Ben Won,North America,67,82125,Plastic Gorilla Fruits,Ben Won_ID,74925,39.95000,-75.16670
+Ben Won,North America,68,82125,Plastic Gorilla Fruits,Ben Won_ID,82125,39.95000,-75.16670
+Ben Won,North America,69,82125,Plastic Gorilla Fruits,Ben Won_ID,82125,39.95000,-75.16670
+Ben Won,North America,70,82125,Plastic Gorilla Fruits,Ben Won_ID,82125,39.95000,-75.16670
+Ben Won,North America,71,82125,Plastic Gorilla Fruits,Ben Won_ID,82125,39.95000,-75.16670
+Ben Won,North America,72,82125,Plastic Gorilla Fruits,Ben Won_ID,82125,39.95000,-75.16670
+Ben Won,North America,73,82125,Plastic Gorilla Fruits,Ben Won_ID,82125,39.95000,-75.16670
+Ben Won,North America,74,82125,Plastic Gorilla Fruits,Ben Won_ID,82125,39.95000,-75.16670
+Ben Won,North America,75,82125,Plastic Gorilla Fruits,Ben Won_ID,82125,39.95000,-75.16670
+Ben Won,North America,76,82125,Plastic Gorilla Fruits,Ben Won_ID,82125,39.95000,-75.16670
+Ben Won,North America,77,104175,Plastic Gorilla Fruits,Ben Won_ID,82125,39.95000,-75.16670
+Ben Won,North America,78,104625,Plastic Gorilla Fruits,Ben Won_ID,104175,39.95000,-75.16670
+Cristina Radu,Europe,1,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,2,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,3,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,4,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,5,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,6,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,7,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,8,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,9,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,10,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,11,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,12,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,13,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,14,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,15,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,16,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,17,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,18,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,19,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,20,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,21,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,22,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,23,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,24,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,25,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,26,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,27,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,28,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,29,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,30,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,31,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,32,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,33,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,34,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,35,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,36,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,37,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,38,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,39,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,40,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,41,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,42,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,43,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,44,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,45,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,46,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,47,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,48,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,49,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,50,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,51,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,52,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,53,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,54,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,55,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,56,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,57,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,58,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,59,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,60,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,61,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,62,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,63,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,64,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,65,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,66,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,67,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,68,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,69,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,70,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,71,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,72,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,73,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,74,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,75,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,76,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,77,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+Cristina Radu,Europe,78,0,Team 4,Cristina Radu_ID,0,52.37403,4.88969
+dnarayan,North America,2,1600,Kickass Tuples,dnarayan_ID,0,39.95000,-75.16670
+dnarayan,North America,3,3200,Kickass Tuples,dnarayan_ID,1600,39.95000,-75.16670
+dnarayan,North America,4,5012.5,Kickass Tuples,dnarayan_ID,3200,39.95000,-75.16670
+dnarayan,North America,5,5012.5,Kickass Tuples,dnarayan_ID,5012.5,39.95000,-75.16670
+dnarayan,North America,6,5012.5,Kickass Tuples,dnarayan_ID,5012.5,39.95000,-75.16670
+dnarayan,North America,7,6612.5,Kickass Tuples,dnarayan_ID,5012.5,39.95000,-75.16670
+dnarayan,North America,8,8212.5,Kickass Tuples,dnarayan_ID,6612.5,39.95000,-75.16670
+dnarayan,North America,9,9812.5,Kickass Tuples,dnarayan_ID,8212.5,39.95000,-75.16670
+dnarayan,North America,10,9812.5,Kickass Tuples,dnarayan_ID,9812.5,39.95000,-75.16670
+dnarayan,North America,11,11625,Kickass Tuples,dnarayan_ID,9812.5,39.95000,-75.16670
+dnarayan,North America,12,11625,Kickass Tuples,dnarayan_ID,11625,39.95000,-75.16670
+dnarayan,North America,13,11625,Kickass Tuples,dnarayan_ID,11625,39.95000,-75.16670
+dnarayan,North America,14,13225,Kickass Tuples,dnarayan_ID,11625,39.95000,-75.16670
+dnarayan,North America,15,15625,Kickass Tuples,dnarayan_ID,13225,39.95000,-75.16670
+dnarayan,North America,16,16625,Kickass Tuples,dnarayan_ID,15625,39.95000,-75.16670
+dnarayan,North America,17,18225,Kickass Tuples,dnarayan_ID,16625,39.95000,-75.16670
+dnarayan,North America,18,19825,Kickass Tuples,dnarayan_ID,18225,39.95000,-75.16670
+dnarayan,North America,19,19825,Kickass Tuples,dnarayan_ID,19825,39.95000,-75.16670
+dnarayan,North America,20,19825,Kickass Tuples,dnarayan_ID,19825,39.95000,-75.16670
+dnarayan,North America,21,21425,Kickass Tuples,dnarayan_ID,19825,39.95000,-75.16670
+dnarayan,North America,22,23825,Kickass Tuples,dnarayan_ID,21425,39.95000,-75.16670
+dnarayan,North America,23,25425,Kickass Tuples,dnarayan_ID,23825,39.95000,-75.16670
+dnarayan,North America,24,27025,Kickass Tuples,dnarayan_ID,25425,39.95000,-75.16670
+dnarayan,North America,25,27825,Kickass Tuples,dnarayan_ID,27025,39.95000,-75.16670
+dnarayan,North America,26,27825,Kickass Tuples,dnarayan_ID,27825,39.95000,-75.16670
+dnarayan,North America,27,27825,Kickass Tuples,dnarayan_ID,27825,39.95000,-75.16670
+dnarayan,North America,28,29025,Kickass Tuples,dnarayan_ID,27825,39.95000,-75.16670
+dnarayan,North America,29,30625,Kickass Tuples,dnarayan_ID,29025,39.95000,-75.16670
+dnarayan,North America,30,32425,Kickass Tuples,dnarayan_ID,30625,39.95000,-75.16670
+dnarayan,North America,31,34225,Kickass Tuples,dnarayan_ID,32425,39.95000,-75.16670
+dnarayan,North America,32,36225,Kickass Tuples,dnarayan_ID,34225,39.95000,-75.16670
+dnarayan,North America,33,37825,Kickass Tuples,dnarayan_ID,36225,39.95000,-75.16670
+dnarayan,North America,34,38625,Kickass Tuples,dnarayan_ID,37825,39.95000,-75.16670
+dnarayan,North America,35,40225,Kickass Tuples,dnarayan_ID,38625,39.95000,-75.16670
+dnarayan,North America,36,42425,Kickass Tuples,dnarayan_ID,40225,39.95000,-75.16670
+dnarayan,North America,37,44225,Kickass Tuples,dnarayan_ID,42425,39.95000,-75.16670
+dnarayan,North America,38,46425,Kickass Tuples,dnarayan_ID,44225,39.95000,-75.16670
+dnarayan,North America,39,46425,Kickass Tuples,dnarayan_ID,46425,39.95000,-75.16670
+dnarayan,North America,40,47225,Kickass Tuples,dnarayan_ID,46425,39.95000,-75.16670
+dnarayan,North America,41,47225,Kickass Tuples,dnarayan_ID,47225,39.95000,-75.16670
+dnarayan,North America,42,48825,Kickass Tuples,dnarayan_ID,47225,39.95000,-75.16670
+dnarayan,North America,43,50425,Kickass Tuples,dnarayan_ID,48825,39.95000,-75.16670
+dnarayan,North America,44,51625,Kickass Tuples,dnarayan_ID,50425,39.95000,-75.16670
+dnarayan,North America,45,53225,Kickass Tuples,dnarayan_ID,51625,39.95000,-75.16670
+dnarayan,North America,46,53543.75,Kickass Tuples,dnarayan_ID,53225,39.95000,-75.16670
+dnarayan,North America,47,53543.75,Kickass Tuples,dnarayan_ID,53543.75,39.95000,-75.16670
+dnarayan,North America,48,53543.75,Kickass Tuples,dnarayan_ID,53543.75,39.95000,-75.16670
+dnarayan,North America,49,55143.75,Kickass Tuples,dnarayan_ID,53543.75,39.95000,-75.16670
+dnarayan,North America,50,56743.75,Kickass Tuples,dnarayan_ID,55143.75,39.95000,-75.16670
+dnarayan,North America,51,58556.25,Kickass Tuples,dnarayan_ID,56743.75,39.95000,-75.16670
+dnarayan,North America,52,58556.25,Kickass Tuples,dnarayan_ID,58556.25,39.95000,-75.16670
+dnarayan,North America,53,60156.25,Kickass Tuples,dnarayan_ID,58556.25,39.95000,-75.16670
+dnarayan,North America,54,60156.25,Kickass Tuples,dnarayan_ID,60156.25,39.95000,-75.16670
+dnarayan,North America,55,60156.25,Kickass Tuples,dnarayan_ID,60156.25,39.95000,-75.16670
+dnarayan,North America,56,60556.25,Kickass Tuples,dnarayan_ID,60156.25,39.95000,-75.16670
+dnarayan,North America,57,62156.25,Kickass Tuples,dnarayan_ID,60556.25,39.95000,-75.16670
+dnarayan,North America,58,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,59,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,60,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,61,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,62,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,63,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,64,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,65,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,66,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,67,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,68,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,69,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,70,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,71,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,72,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,73,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,74,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,75,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,76,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,77,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+dnarayan,North America,78,62156.25,Kickass Tuples,dnarayan_ID,62156.25,39.95000,-75.16670
+Edward,Europe,2,200,Other,Edward_ID,0,52.37403,4.88969
+Edward,Europe,3,200,Other,Edward_ID,200,52.37403,4.88969
+Edward,Europe,4,200,Other,Edward_ID,200,52.37403,4.88969
+Edward,Europe,5,2100.8000000000002,Other,Edward_ID,200,52.37403,4.88969
+Edward,Europe,6,2100.8000000000002,Other,Edward_ID,2100.8000000000002,52.37403,4.88969
+Edward,Europe,7,2100.8000000000002,Other,Edward_ID,2100.8000000000002,52.37403,4.88969
+Edward,Europe,8,2100.8000000000002,Other,Edward_ID,2100.8000000000002,52.37403,4.88969
+Edward,Europe,9,2201.5999999999999,Other,Edward_ID,2100.8000000000002,52.37403,4.88969
+Edward,Europe,10,2201.5999999999999,Other,Edward_ID,2201.5999999999999,52.37403,4.88969
+Edward,Europe,11,6302.3999999999996,Other,Edward_ID,2201.5999999999999,52.37403,4.88969
+Edward,Europe,12,6302.3999999999996,Other,Edward_ID,6302.3999999999996,52.37403,4.88969
+Edward,Europe,13,6302.3999999999996,Other,Edward_ID,6302.3999999999996,52.37403,4.88969
+Edward,Europe,14,6302.3999999999996,Other,Edward_ID,6302.3999999999996,52.37403,4.88969
+Edward,Europe,15,6302.3999999999996,Other,Edward_ID,6302.3999999999996,52.37403,4.88969
+Edward,Europe,16,6502.3999999999996,Other,Edward_ID,6302.3999999999996,52.37403,4.88969
+Edward,Europe,17,6752,Other,Edward_ID,6502.3999999999996,52.37403,4.88969
+Edward,Europe,18,6952,Other,Edward_ID,6752,52.37403,4.88969
+Edward,Europe,19,7752,Other,Edward_ID,6952,52.37403,4.88969
+Edward,Europe,20,11852.799999999999,Other,Edward_ID,7752,52.37403,4.88969
+Edward,Europe,21,11852.799999999999,Other,Edward_ID,11852.799999999999,52.37403,4.88969
+Edward,Europe,22,12652.799999999999,Other,Edward_ID,11852.799999999999,52.37403,4.88969
+Edward,Europe,23,12652.799999999999,Other,Edward_ID,12652.799999999999,52.37403,4.88969
+Edward,Europe,24,13052.799999999999,Other,Edward_ID,12652.799999999999,52.37403,4.88969
+Edward,Europe,25,13052.799999999999,Other,Edward_ID,13052.799999999999,52.37403,4.88969
+Edward,Europe,26,14652.799999999999,Other,Edward_ID,13052.799999999999,52.37403,4.88969
+Edward,Europe,27,14652.799999999999,Other,Edward_ID,14652.799999999999,52.37403,4.88969
+Edward,Europe,28,15652.799999999999,Other,Edward_ID,14652.799999999999,52.37403,4.88969
+Edward,Europe,29,16052.799999999999,Other,Edward_ID,15652.799999999999,52.37403,4.88969
+Edward,Europe,30,16802.799999999999,Other,Edward_ID,16052.799999999999,52.37403,4.88969
+Edward,Europe,31,17802.799999999999,Other,Edward_ID,16802.799999999999,52.37403,4.88969
+Edward,Europe,32,18802.799999999999,Other,Edward_ID,17802.799999999999,52.37403,4.88969
+Edward,Europe,33,19602.799999999999,Other,Edward_ID,18802.799999999999,52.37403,4.88969
+Edward,Europe,34,20002.799999999999,Other,Edward_ID,19602.799999999999,52.37403,4.88969
+Edward,Europe,35,20002.799999999999,Other,Edward_ID,20002.799999999999,52.37403,4.88969
+Edward,Europe,36,20602.799999999999,Other,Edward_ID,20002.799999999999,52.37403,4.88969
+Edward,Europe,37,21002.799999999999,Other,Edward_ID,20602.799999999999,52.37403,4.88969
+Edward,Europe,38,21002.799999999999,Other,Edward_ID,21002.799999999999,52.37403,4.88969
+Edward,Europe,39,21002.799999999999,Other,Edward_ID,21002.799999999999,52.37403,4.88969
+Edward,Europe,40,21002.799999999999,Other,Edward_ID,21002.799999999999,52.37403,4.88969
+Edward,Europe,41,21002.799999999999,Other,Edward_ID,21002.799999999999,52.37403,4.88969
+Edward,Europe,42,21202.799999999999,Other,Edward_ID,21002.799999999999,52.37403,4.88969
+Edward,Europe,43,21202.799999999999,Other,Edward_ID,21202.799999999999,52.37403,4.88969
+Edward,Europe,44,21202.799999999999,Other,Edward_ID,21202.799999999999,52.37403,4.88969
+Edward,Europe,45,21202.799999999999,Other,Edward_ID,21202.799999999999,52.37403,4.88969
+Edward,Europe,46,21202.799999999999,Other,Edward_ID,21202.799999999999,52.37403,4.88969
+Edward,Europe,47,21202.799999999999,Other,Edward_ID,21202.799999999999,52.37403,4.88969
+Edward,Europe,48,21202.799999999999,Other,Edward_ID,21202.799999999999,52.37403,4.88969
+Edward,Europe,49,21202.799999999999,Other,Edward_ID,21202.799999999999,52.37403,4.88969
+Edward,Europe,50,21202.799999999999,Other,Edward_ID,21202.799999999999,52.37403,4.88969
+Edward,Europe,51,21202.799999999999,Other,Edward_ID,21202.799999999999,52.37403,4.88969
+Edward,Europe,52,21202.799999999999,Other,Edward_ID,21202.799999999999,52.37403,4.88969
+Edward,Europe,53,21202.799999999999,Other,Edward_ID,21202.799999999999,52.37403,4.88969
+Edward,Europe,54,21402.799999999999,Other,Edward_ID,21202.799999999999,52.37403,4.88969
+Edward,Europe,55,22202.799999999999,Other,Edward_ID,21402.799999999999,52.37403,4.88969
+Edward,Europe,56,22402.799999999999,Other,Edward_ID,22202.799999999999,52.37403,4.88969
+Edward,Europe,57,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,58,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,59,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,60,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,61,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,62,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,63,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,64,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,65,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,66,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,67,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,68,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,69,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,70,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,71,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,72,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,73,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,74,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,75,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,76,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,77,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Edward,Europe,78,22402.799999999999,Other,Edward_ID,22402.799999999999,52.37403,4.88969
+Eric Peters,North America,1,0,Team 4,Eric Peters_ID,0,39.95000,-75.16670
+Eric Peters,North America,2,87.5,Team 4,Eric Peters_ID,0,39.95000,-75.16670
+Eric Peters,North America,3,462.5,Team 4,Eric Peters_ID,87.5,39.95000,-75.16670
+Eric Peters,North America,4,462.5,Team 4,Eric Peters_ID,462.5,39.95000,-75.16670
+Eric Peters,North America,5,462.5,Team 4,Eric Peters_ID,462.5,39.95000,-75.16670
+Eric Peters,North America,6,462.5,Team 4,Eric Peters_ID,462.5,39.95000,-75.16670
+Eric Peters,North America,7,462.5,Team 4,Eric Peters_ID,462.5,39.95000,-75.16670
+Eric Peters,North America,8,562.5,Team 4,Eric Peters_ID,462.5,39.95000,-75.16670
+Eric Peters,North America,9,1025,Team 4,Eric Peters_ID,562.5,39.95000,-75.16670
+Eric Peters,North America,10,1775,Team 4,Eric Peters_ID,1025,39.95000,-75.16670
+Eric Peters,North America,11,2225,Team 4,Eric Peters_ID,1775,39.95000,-75.16670
+Eric Peters,North America,12,2225,Team 4,Eric Peters_ID,2225,39.95000,-75.16670
+Eric Peters,North America,13,2225,Team 4,Eric Peters_ID,2225,39.95000,-75.16670
+Eric Peters,North America,14,2412.5,Team 4,Eric Peters_ID,2225,39.95000,-75.16670
+Eric Peters,North America,15,2687.5,Team 4,Eric Peters_ID,2412.5,39.95000,-75.16670
+Eric Peters,North America,16,2950,Team 4,Eric Peters_ID,2687.5,39.95000,-75.16670
+Eric Peters,North America,17,3050,Team 4,Eric Peters_ID,2950,39.95000,-75.16670
+Eric Peters,North America,18,3250,Team 4,Eric Peters_ID,3050,39.95000,-75.16670
+Eric Peters,North America,19,3250,Team 4,Eric Peters_ID,3250,39.95000,-75.16670
+Eric Peters,North America,20,3250,Team 4,Eric Peters_ID,3250,39.95000,-75.16670
+Eric Peters,North America,21,3250,Team 4,Eric Peters_ID,3250,39.95000,-75.16670
+Eric Peters,North America,22,3600,Team 4,Eric Peters_ID,3250,39.95000,-75.16670
+Eric Peters,North America,23,3787.5,Team 4,Eric Peters_ID,3600,39.95000,-75.16670
+Eric Peters,North America,24,4275,Team 4,Eric Peters_ID,3787.5,39.95000,-75.16670
+Eric Peters,North America,25,4275,Team 4,Eric Peters_ID,4275,39.95000,-75.16670
+Eric Peters,North America,26,4275,Team 4,Eric Peters_ID,4275,39.95000,-75.16670
+Eric Peters,North America,27,4275,Team 4,Eric Peters_ID,4275,39.95000,-75.16670
+Eric Peters,North America,28,4275,Team 4,Eric Peters_ID,4275,39.95000,-75.16670
+Eric Peters,North America,29,4450,Team 4,Eric Peters_ID,4275,39.95000,-75.16670
+Eric Peters,North America,30,4537.5,Team 4,Eric Peters_ID,4450,39.95000,-75.16670
+Eric Peters,North America,31,4637.5,Team 4,Eric Peters_ID,4537.5,39.95000,-75.16670
+Eric Peters,North America,32,4637.5,Team 4,Eric Peters_ID,4637.5,39.95000,-75.16670
+Eric Peters,North America,33,4637.5,Team 4,Eric Peters_ID,4637.5,39.95000,-75.16670
+Eric Peters,North America,34,4637.5,Team 4,Eric Peters_ID,4637.5,39.95000,-75.16670
+Eric Peters,North America,35,4637.5,Team 4,Eric Peters_ID,4637.5,39.95000,-75.16670
+Eric Peters,North America,36,5000,Team 4,Eric Peters_ID,4637.5,39.95000,-75.16670
+Eric Peters,North America,37,6150,Team 4,Eric Peters_ID,5000,39.95000,-75.16670
+Eric Peters,North America,38,6150,Team 4,Eric Peters_ID,6150,39.95000,-75.16670
+Eric Peters,North America,39,6150,Team 4,Eric Peters_ID,6150,39.95000,-75.16670
+Eric Peters,North America,40,6150,Team 4,Eric Peters_ID,6150,39.95000,-75.16670
+Eric Peters,North America,41,6150,Team 4,Eric Peters_ID,6150,39.95000,-75.16670
+Eric Peters,North America,42,6150,Team 4,Eric Peters_ID,6150,39.95000,-75.16670
+Eric Peters,North America,43,6150,Team 4,Eric Peters_ID,6150,39.95000,-75.16670
+Eric Peters,North America,44,6150,Team 4,Eric Peters_ID,6150,39.95000,-75.16670
+Eric Peters,North America,45,6587.5,Team 4,Eric Peters_ID,6150,39.95000,-75.16670
+Eric Peters,North America,46,6950,Team 4,Eric Peters_ID,6587.5,39.95000,-75.16670
+Eric Peters,North America,47,6950,Team 4,Eric Peters_ID,6950,39.95000,-75.16670
+Eric Peters,North America,48,6950,Team 4,Eric Peters_ID,6950,39.95000,-75.16670
+Eric Peters,North America,49,8275,Team 4,Eric Peters_ID,6950,39.95000,-75.16670
+Eric Peters,North America,50,8275,Team 4,Eric Peters_ID,8275,39.95000,-75.16670
+Eric Peters,North America,51,8637.5,Team 4,Eric Peters_ID,8275,39.95000,-75.16670
+Eric Peters,North America,52,9137.5,Team 4,Eric Peters_ID,8637.5,39.95000,-75.16670
+Eric Peters,North America,53,9337.5,Team 4,Eric Peters_ID,9137.5,39.95000,-75.16670
+Eric Peters,North America,54,9337.5,Team 4,Eric Peters_ID,9337.5,39.95000,-75.16670
+Eric Peters,North America,55,9337.5,Team 4,Eric Peters_ID,9337.5,39.95000,-75.16670
+Eric Peters,North America,56,9906.4599999999991,Team 4,Eric Peters_ID,9337.5,39.95000,-75.16670
+Eric Peters,North America,57,9993.9599999999991,Team 4,Eric Peters_ID,9906.4599999999991,39.95000,-75.16670
+Eric Peters,North America,58,10606.459999999999,Team 4,Eric Peters_ID,9993.9599999999991,39.95000,-75.16670
+Eric Peters,North America,59,10906.459999999999,Team 4,Eric Peters_ID,10606.459999999999,39.95000,-75.16670
+Eric Peters,North America,60,11081.459999999999,Team 4,Eric Peters_ID,10906.459999999999,39.95000,-75.16670
+Eric Peters,North America,61,11081.459999999999,Team 4,Eric Peters_ID,11081.459999999999,39.95000,-75.16670
+Eric Peters,North America,62,11081.459999999999,Team 4,Eric Peters_ID,11081.459999999999,39.95000,-75.16670
+Eric Peters,North America,63,11168.959999999999,Team 4,Eric Peters_ID,11081.459999999999,39.95000,-75.16670
+Eric Peters,North America,64,11443.959999999999,Team 4,Eric Peters_ID,11168.959999999999,39.95000,-75.16670
+Eric Peters,North America,65,11893.959999999999,Team 4,Eric Peters_ID,11443.959999999999,39.95000,-75.16670
+Eric Peters,North America,66,11981.459999999999,Team 4,Eric Peters_ID,11893.959999999999,39.95000,-75.16670
+Eric Peters,North America,67,12068.959999999999,Team 4,Eric Peters_ID,11981.459999999999,39.95000,-75.16670
+Eric Peters,North America,68,12068.959999999999,Team 4,Eric Peters_ID,12068.959999999999,39.95000,-75.16670
+Eric Peters,North America,69,12068.959999999999,Team 4,Eric Peters_ID,12068.959999999999,39.95000,-75.16670
+Eric Peters,North America,70,12068.959999999999,Team 4,Eric Peters_ID,12068.959999999999,39.95000,-75.16670
+Eric Peters,North America,71,12068.959999999999,Team 4,Eric Peters_ID,12068.959999999999,39.95000,-75.16670
+Eric Peters,North America,72,12068.959999999999,Team 4,Eric Peters_ID,12068.959999999999,39.95000,-75.16670
+Eric Peters,North America,73,12068.959999999999,Team 4,Eric Peters_ID,12068.959999999999,39.95000,-75.16670
+Eric Peters,North America,74,12068.959999999999,Team 4,Eric Peters_ID,12068.959999999999,39.95000,-75.16670
+Eric Peters,North America,75,12068.959999999999,Team 4,Eric Peters_ID,12068.959999999999,39.95000,-75.16670
+Eric Peters,North America,76,12068.959999999999,Team 4,Eric Peters_ID,12068.959999999999,39.95000,-75.16670
+Eric Peters,North America,77,12068.959999999999,Team 4,Eric Peters_ID,12068.959999999999,39.95000,-75.16670
+Eric Peters,North America,78,12068.959999999999,Team 4,Eric Peters_ID,12068.959999999999,39.95000,-75.16670
+Erik Karloski,North America,2,1845,Kickass Tuples,Erik Karloski_ID,0,39.95000,-75.16670
+Erik Karloski,North America,3,3690,Kickass Tuples,Erik Karloski_ID,1845,39.95000,-75.16670
+Erik Karloski,North America,4,7025,Kickass Tuples,Erik Karloski_ID,3690,39.95000,-75.16670
+Erik Karloski,North America,5,7025,Kickass Tuples,Erik Karloski_ID,7025,39.95000,-75.16670
+Erik Karloski,North America,6,7025,Kickass Tuples,Erik Karloski_ID,7025,39.95000,-75.16670
+Erik Karloski,North America,7,8665,Kickass Tuples,Erik Karloski_ID,7025,39.95000,-75.16670
+Erik Karloski,North America,8,10542.5,Kickass Tuples,Erik Karloski_ID,8665,39.95000,-75.16670
+Erik Karloski,North America,9,12182.5,Kickass Tuples,Erik Karloski_ID,10542.5,39.95000,-75.16670
+Erik Karloski,North America,10,13822.5,Kickass Tuples,Erik Karloski_ID,12182.5,39.95000,-75.16670
+Erik Karloski,North America,11,13822.5,Kickass Tuples,Erik Karloski_ID,13822.5,39.95000,-75.16670
+Erik Karloski,North America,12,13822.5,Kickass Tuples,Erik Karloski_ID,13822.5,39.95000,-75.16670
+Erik Karloski,North America,13,13822.5,Kickass Tuples,Erik Karloski_ID,13822.5,39.95000,-75.16670
+Erik Karloski,North America,14,15462.5,Kickass Tuples,Erik Karloski_ID,13822.5,39.95000,-75.16670
+Erik Karloski,North America,15,15700,Kickass Tuples,Erik Karloski_ID,15462.5,39.95000,-75.16670
+Erik Karloski,North America,16,16110,Kickass Tuples,Erik Karloski_ID,15700,39.95000,-75.16670
+Erik Karloski,North America,17,18010,Kickass Tuples,Erik Karloski_ID,16110,39.95000,-75.16670
+Erik Karloski,North America,18,18010,Kickass Tuples,Erik Karloski_ID,18010,39.95000,-75.16670
+Erik Karloski,North America,19,18010,Kickass Tuples,Erik Karloski_ID,18010,39.95000,-75.16670
+Erik Karloski,North America,20,18010,Kickass Tuples,Erik Karloski_ID,18010,39.95000,-75.16670
+Erik Karloski,North America,21,18010,Kickass Tuples,Erik Karloski_ID,18010,39.95000,-75.16670
+Erik Karloski,North America,22,22552.5,Kickass Tuples,Erik Karloski_ID,18010,39.95000,-75.16670
+Erik Karloski,North America,23,22757.5,Kickass Tuples,Erik Karloski_ID,22552.5,39.95000,-75.16670
+Erik Karloski,North America,24,24397.5,Kickass Tuples,Erik Karloski_ID,22757.5,39.95000,-75.16670
+Erik Karloski,North America,25,24635,Kickass Tuples,Erik Karloski_ID,24397.5,39.95000,-75.16670
+Erik Karloski,North America,26,24635,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,27,24635,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,28,24635,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,29,24635,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,30,24635,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,31,24635,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,32,24635,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,33,24635,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,34,24635,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,35,24635,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,36,24635,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,37,24635,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,38,24635,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,39,24635,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,40,24635,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,41,24635,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,42,24840,Kickass Tuples,Erik Karloski_ID,24635,39.95000,-75.16670
+Erik Karloski,North America,43,25077.5,Kickass Tuples,Erik Karloski_ID,24840,39.95000,-75.16670
+Erik Karloski,North America,44,25487.5,Kickass Tuples,Erik Karloski_ID,25077.5,39.95000,-75.16670
+Erik Karloski,North America,45,25590,Kickass Tuples,Erik Karloski_ID,25487.5,39.95000,-75.16670
+Erik Karloski,North America,46,25590,Kickass Tuples,Erik Karloski_ID,25590,39.95000,-75.16670
+Erik Karloski,North America,47,25590,Kickass Tuples,Erik Karloski_ID,25590,39.95000,-75.16670
+Erik Karloski,North America,48,25590,Kickass Tuples,Erik Karloski_ID,25590,39.95000,-75.16670
+Erik Karloski,North America,49,27015,Kickass Tuples,Erik Karloski_ID,25590,39.95000,-75.16670
+Erik Karloski,North America,50,27015,Kickass Tuples,Erik Karloski_ID,27015,39.95000,-75.16670
+Erik Karloski,North America,51,27015,Kickass Tuples,Erik Karloski_ID,27015,39.95000,-75.16670
+Erik Karloski,North America,52,27015,Kickass Tuples,Erik Karloski_ID,27015,39.95000,-75.16670
+Erik Karloski,North America,53,27015,Kickass Tuples,Erik Karloski_ID,27015,39.95000,-75.16670
+Erik Karloski,North America,54,27015,Kickass Tuples,Erik Karloski_ID,27015,39.95000,-75.16670
+Erik Karloski,North America,55,27015,Kickass Tuples,Erik Karloski_ID,27015,39.95000,-75.16670
+Erik Karloski,North America,56,28217.5,Kickass Tuples,Erik Karloski_ID,27015,39.95000,-75.16670
+Erik Karloski,North America,57,28455,Kickass Tuples,Erik Karloski_ID,28217.5,39.95000,-75.16670
+Erik Karloski,North America,58,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,59,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,60,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,61,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,62,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,63,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,64,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,65,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,66,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,67,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,68,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,69,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,70,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,71,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,72,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,73,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,74,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,75,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,76,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,77,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Erik Karloski,North America,78,28455,Kickass Tuples,Erik Karloski_ID,28455,39.95000,-75.16670
+Guru Bhat,India,1,0,Kickass Tuples,Guru Bhat_ID,0,27.18333,78.01667
+Guru Bhat,India,2,0,Kickass Tuples,Guru Bhat_ID,0,27.18333,78.01667
+Guru Bhat,India,3,0,Kickass Tuples,Guru Bhat_ID,0,27.18333,78.01667
+Guru Bhat,India,4,0,Kickass Tuples,Guru Bhat_ID,0,27.18333,78.01667
+Guru Bhat,India,5,0,Kickass Tuples,Guru Bhat_ID,0,27.18333,78.01667
+Guru Bhat,India,6,0,Kickass Tuples,Guru Bhat_ID,0,27.18333,78.01667
+Guru Bhat,India,7,0,Kickass Tuples,Guru Bhat_ID,0,27.18333,78.01667
+Guru Bhat,India,8,0,Kickass Tuples,Guru Bhat_ID,0,27.18333,78.01667
+Guru Bhat,India,9,0,Kickass Tuples,Guru Bhat_ID,0,27.18333,78.01667
+Guru Bhat,India,10,0,Kickass Tuples,Guru Bhat_ID,0,27.18333,78.01667
+Guru Bhat,India,11,0,Kickass Tuples,Guru Bhat_ID,0,27.18333,78.01667
+Guru Bhat,India,12,0,Kickass Tuples,Guru Bhat_ID,0,27.18333,78.01667
+Guru Bhat,India,13,0,Kickass Tuples,Guru Bhat_ID,0,27.18333,78.01667
+Guru Bhat,India,14,0,Kickass Tuples,Guru Bhat_ID,0,27.18333,78.01667
+Guru Bhat,India,15,1230,Kickass Tuples,Guru Bhat_ID,0,27.18333,78.01667
+Guru Bhat,India,16,2460,Kickass Tuples,Guru Bhat_ID,1230,27.18333,78.01667
+Guru Bhat,India,17,3690,Kickass Tuples,Guru Bhat_ID,2460,27.18333,78.01667
+Guru Bhat,India,18,4190,Kickass Tuples,Guru Bhat_ID,3690,27.18333,78.01667
+Guru Bhat,India,19,5420,Kickass Tuples,Guru Bhat_ID,4190,27.18333,78.01667
+Guru Bhat,India,20,5620,Kickass Tuples,Guru Bhat_ID,5420,27.18333,78.01667
+Guru Bhat,India,21,6645,Kickass Tuples,Guru Bhat_ID,5620,27.18333,78.01667
+Guru Bhat,India,22,7665,Kickass Tuples,Guru Bhat_ID,6645,27.18333,78.01667
+Guru Bhat,India,23,8895,Kickass Tuples,Guru Bhat_ID,7665,27.18333,78.01667
+Guru Bhat,India,24,10225,Kickass Tuples,Guru Bhat_ID,8895,27.18333,78.01667
+Guru Bhat,India,25,11250,Kickass Tuples,Guru Bhat_ID,10225,27.18333,78.01667
+Guru Bhat,India,26,11352.5,Kickass Tuples,Guru Bhat_ID,11250,27.18333,78.01667
+Guru Bhat,India,27,11352.5,Kickass Tuples,Guru Bhat_ID,11352.5,27.18333,78.01667
+Guru Bhat,India,28,11660,Kickass Tuples,Guru Bhat_ID,11352.5,27.18333,78.01667
+Guru Bhat,India,29,11760,Kickass Tuples,Guru Bhat_ID,11660,27.18333,78.01667
+Guru Bhat,India,30,11972.5,Kickass Tuples,Guru Bhat_ID,11760,27.18333,78.01667
+Guru Bhat,India,31,11972.5,Kickass Tuples,Guru Bhat_ID,11972.5,27.18333,78.01667
+Guru Bhat,India,32,11972.5,Kickass Tuples,Guru Bhat_ID,11972.5,27.18333,78.01667
+Guru Bhat,India,33,11972.5,Kickass Tuples,Guru Bhat_ID,11972.5,27.18333,78.01667
+Guru Bhat,India,34,11972.5,Kickass Tuples,Guru Bhat_ID,11972.5,27.18333,78.01667
+Guru Bhat,India,35,11972.5,Kickass Tuples,Guru Bhat_ID,11972.5,27.18333,78.01667
+Guru Bhat,India,36,11972.5,Kickass Tuples,Guru Bhat_ID,11972.5,27.18333,78.01667
+Guru Bhat,India,37,12072.5,Kickass Tuples,Guru Bhat_ID,11972.5,27.18333,78.01667
+Guru Bhat,India,38,12072.5,Kickass Tuples,Guru Bhat_ID,12072.5,27.18333,78.01667
+Guru Bhat,India,39,12072.5,Kickass Tuples,Guru Bhat_ID,12072.5,27.18333,78.01667
+Guru Bhat,India,40,12072.5,Kickass Tuples,Guru Bhat_ID,12072.5,27.18333,78.01667
+Guru Bhat,India,41,12072.5,Kickass Tuples,Guru Bhat_ID,12072.5,27.18333,78.01667
+Guru Bhat,India,42,12072.5,Kickass Tuples,Guru Bhat_ID,12072.5,27.18333,78.01667
+Guru Bhat,India,43,12072.5,Kickass Tuples,Guru Bhat_ID,12072.5,27.18333,78.01667
+Guru Bhat,India,44,12072.5,Kickass Tuples,Guru Bhat_ID,12072.5,27.18333,78.01667
+Guru Bhat,India,45,12572.5,Kickass Tuples,Guru Bhat_ID,12072.5,27.18333,78.01667
+Guru Bhat,India,46,12572.5,Kickass Tuples,Guru Bhat_ID,12572.5,27.18333,78.01667
+Guru Bhat,India,47,12572.5,Kickass Tuples,Guru Bhat_ID,12572.5,27.18333,78.01667
+Guru Bhat,India,48,12572.5,Kickass Tuples,Guru Bhat_ID,12572.5,27.18333,78.01667
+Guru Bhat,India,49,12572.5,Kickass Tuples,Guru Bhat_ID,12572.5,27.18333,78.01667
+Guru Bhat,India,50,13272.5,Kickass Tuples,Guru Bhat_ID,12572.5,27.18333,78.01667
+Guru Bhat,India,51,13272.5,Kickass Tuples,Guru Bhat_ID,13272.5,27.18333,78.01667
+Guru Bhat,India,52,13972.5,Kickass Tuples,Guru Bhat_ID,13272.5,27.18333,78.01667
+Guru Bhat,India,53,14072.5,Kickass Tuples,Guru Bhat_ID,13972.5,27.18333,78.01667
+Guru Bhat,India,54,14072.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,55,14072.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,56,14072.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,57,14072.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,58,14072.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,59,14072.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,60,14072.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,61,14072.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,62,14072.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,63,14072.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,64,14072.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,65,14072.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,66,14072.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,67,14072.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,68,14072.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,69,14072.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,70,14172.5,Kickass Tuples,Guru Bhat_ID,14072.5,27.18333,78.01667
+Guru Bhat,India,71,14172.5,Kickass Tuples,Guru Bhat_ID,14172.5,27.18333,78.01667
+Guru Bhat,India,72,14172.5,Kickass Tuples,Guru Bhat_ID,14172.5,27.18333,78.01667
+Guru Bhat,India,73,14172.5,Kickass Tuples,Guru Bhat_ID,14172.5,27.18333,78.01667
+Guru Bhat,India,74,14172.5,Kickass Tuples,Guru Bhat_ID,14172.5,27.18333,78.01667
+Guru Bhat,India,75,14172.5,Kickass Tuples,Guru Bhat_ID,14172.5,27.18333,78.01667
+Guru Bhat,India,76,14172.5,Kickass Tuples,Guru Bhat_ID,14172.5,27.18333,78.01667
+Guru Bhat,India,77,14172.5,Kickass Tuples,Guru Bhat_ID,14172.5,27.18333,78.01667
+Guru Bhat,India,78,14172.5,Kickass Tuples,Guru Bhat_ID,14172.5,27.18333,78.01667
+Hai Zhu,North America,11,9900,Plastic Gorilla Fruits,Hai Zhu_ID,0,39.95000,-75.16670
+Hai Zhu,North America,12,9900,Plastic Gorilla Fruits,Hai Zhu_ID,9900,39.95000,-75.16670
+Hai Zhu,North America,13,13500,Plastic Gorilla Fruits,Hai Zhu_ID,9900,39.95000,-75.16670
+Hai Zhu,North America,14,13500,Plastic Gorilla Fruits,Hai Zhu_ID,13500,39.95000,-75.16670
+Hai Zhu,North America,15,13500,Plastic Gorilla Fruits,Hai Zhu_ID,13500,39.95000,-75.16670
+Hai Zhu,North America,16,18900,Plastic Gorilla Fruits,Hai Zhu_ID,13500,39.95000,-75.16670
+Hai Zhu,North America,17,18900,Plastic Gorilla Fruits,Hai Zhu_ID,18900,39.95000,-75.16670
+Hai Zhu,North America,18,18900,Plastic Gorilla Fruits,Hai Zhu_ID,18900,39.95000,-75.16670
+Hai Zhu,North America,19,18900,Plastic Gorilla Fruits,Hai Zhu_ID,18900,39.95000,-75.16670
+Hai Zhu,North America,20,18900,Plastic Gorilla Fruits,Hai Zhu_ID,18900,39.95000,-75.16670
+Hai Zhu,North America,21,18900,Plastic Gorilla Fruits,Hai Zhu_ID,18900,39.95000,-75.16670
+Hai Zhu,North America,22,18900,Plastic Gorilla Fruits,Hai Zhu_ID,18900,39.95000,-75.16670
+Hai Zhu,North America,23,18900,Plastic Gorilla Fruits,Hai Zhu_ID,18900,39.95000,-75.16670
+Hai Zhu,North America,24,18900,Plastic Gorilla Fruits,Hai Zhu_ID,18900,39.95000,-75.16670
+Hai Zhu,North America,25,18900,Plastic Gorilla Fruits,Hai Zhu_ID,18900,39.95000,-75.16670
+Hai Zhu,North America,26,22500,Plastic Gorilla Fruits,Hai Zhu_ID,18900,39.95000,-75.16670
+Hai Zhu,North America,27,22500,Plastic Gorilla Fruits,Hai Zhu_ID,22500,39.95000,-75.16670
+Hai Zhu,North America,28,22500,Plastic Gorilla Fruits,Hai Zhu_ID,22500,39.95000,-75.16670
+Hai Zhu,North America,29,22500,Plastic Gorilla Fruits,Hai Zhu_ID,22500,39.95000,-75.16670
+Hai Zhu,North America,30,22500,Plastic Gorilla Fruits,Hai Zhu_ID,22500,39.95000,-75.16670
+Hai Zhu,North America,31,22500,Plastic Gorilla Fruits,Hai Zhu_ID,22500,39.95000,-75.16670
+Hai Zhu,North America,32,22500,Plastic Gorilla Fruits,Hai Zhu_ID,22500,39.95000,-75.16670
+Hai Zhu,North America,33,22500,Plastic Gorilla Fruits,Hai Zhu_ID,22500,39.95000,-75.16670
+Hai Zhu,North America,34,22500,Plastic Gorilla Fruits,Hai Zhu_ID,22500,39.95000,-75.16670
+Hai Zhu,North America,35,22500,Plastic Gorilla Fruits,Hai Zhu_ID,22500,39.95000,-75.16670
+Hai Zhu,North America,36,22500,Plastic Gorilla Fruits,Hai Zhu_ID,22500,39.95000,-75.16670
+Hai Zhu,North America,37,22500,Plastic Gorilla Fruits,Hai Zhu_ID,22500,39.95000,-75.16670
+Hai Zhu,North America,38,22500,Plastic Gorilla Fruits,Hai Zhu_ID,22500,39.95000,-75.16670
+Hai Zhu,North America,39,24300,Plastic Gorilla Fruits,Hai Zhu_ID,22500,39.95000,-75.16670
+Hai Zhu,North America,40,24300,Plastic Gorilla Fruits,Hai Zhu_ID,24300,39.95000,-75.16670
+Hai Zhu,North America,41,24300,Plastic Gorilla Fruits,Hai Zhu_ID,24300,39.95000,-75.16670
+Hai Zhu,North America,42,24300,Plastic Gorilla Fruits,Hai Zhu_ID,24300,39.95000,-75.16670
+Hai Zhu,North America,43,24300,Plastic Gorilla Fruits,Hai Zhu_ID,24300,39.95000,-75.16670
+Hai Zhu,North America,44,24300,Plastic Gorilla Fruits,Hai Zhu_ID,24300,39.95000,-75.16670
+Hai Zhu,North America,45,24300,Plastic Gorilla Fruits,Hai Zhu_ID,24300,39.95000,-75.16670
+Hai Zhu,North America,46,29700,Plastic Gorilla Fruits,Hai Zhu_ID,24300,39.95000,-75.16670
+Hai Zhu,North America,47,29700,Plastic Gorilla Fruits,Hai Zhu_ID,29700,39.95000,-75.16670
+Hai Zhu,North America,48,29700,Plastic Gorilla Fruits,Hai Zhu_ID,29700,39.95000,-75.16670
+Hai Zhu,North America,49,29700,Plastic Gorilla Fruits,Hai Zhu_ID,29700,39.95000,-75.16670
+Hai Zhu,North America,50,29700,Plastic Gorilla Fruits,Hai Zhu_ID,29700,39.95000,-75.16670
+Hai Zhu,North America,51,29700,Plastic Gorilla Fruits,Hai Zhu_ID,29700,39.95000,-75.16670
+Hai Zhu,North America,52,29700,Plastic Gorilla Fruits,Hai Zhu_ID,29700,39.95000,-75.16670
+Hai Zhu,North America,53,29700,Plastic Gorilla Fruits,Hai Zhu_ID,29700,39.95000,-75.16670
+Hai Zhu,North America,54,29700,Plastic Gorilla Fruits,Hai Zhu_ID,29700,39.95000,-75.16670
+Hai Zhu,North America,55,29700,Plastic Gorilla Fruits,Hai Zhu_ID,29700,39.95000,-75.16670
+Hai Zhu,North America,56,29700,Plastic Gorilla Fruits,Hai Zhu_ID,29700,39.95000,-75.16670
+Hai Zhu,North America,57,36000,Plastic Gorilla Fruits,Hai Zhu_ID,29700,39.95000,-75.16670
+Hai Zhu,North America,58,36000,Plastic Gorilla Fruits,Hai Zhu_ID,36000,39.95000,-75.16670
+Hai Zhu,North America,59,36000,Plastic Gorilla Fruits,Hai Zhu_ID,36000,39.95000,-75.16670
+Hai Zhu,North America,60,36000,Plastic Gorilla Fruits,Hai Zhu_ID,36000,39.95000,-75.16670
+Hai Zhu,North America,61,36000,Plastic Gorilla Fruits,Hai Zhu_ID,36000,39.95000,-75.16670
+Hai Zhu,North America,62,36000,Plastic Gorilla Fruits,Hai Zhu_ID,36000,39.95000,-75.16670
+Hai Zhu,North America,63,36000,Plastic Gorilla Fruits,Hai Zhu_ID,36000,39.95000,-75.16670
+Hai Zhu,North America,64,36000,Plastic Gorilla Fruits,Hai Zhu_ID,36000,39.95000,-75.16670
+Hai Zhu,North America,65,36000,Plastic Gorilla Fruits,Hai Zhu_ID,36000,39.95000,-75.16670
+Hai Zhu,North America,66,36000,Plastic Gorilla Fruits,Hai Zhu_ID,36000,39.95000,-75.16670
+Hai Zhu,North America,67,47700,Plastic Gorilla Fruits,Hai Zhu_ID,36000,39.95000,-75.16670
+Hai Zhu,North America,68,47700,Plastic Gorilla Fruits,Hai Zhu_ID,47700,39.95000,-75.16670
+Hai Zhu,North America,69,47700,Plastic Gorilla Fruits,Hai Zhu_ID,47700,39.95000,-75.16670
+Hai Zhu,North America,70,47700,Plastic Gorilla Fruits,Hai Zhu_ID,47700,39.95000,-75.16670
+Hai Zhu,North America,71,47700,Plastic Gorilla Fruits,Hai Zhu_ID,47700,39.95000,-75.16670
+Hai Zhu,North America,72,47700,Plastic Gorilla Fruits,Hai Zhu_ID,47700,39.95000,-75.16670
+Hai Zhu,North America,73,47700,Plastic Gorilla Fruits,Hai Zhu_ID,47700,39.95000,-75.16670
+Hai Zhu,North America,74,53100,Plastic Gorilla Fruits,Hai Zhu_ID,47700,39.95000,-75.16670
+Hai Zhu,North America,75,53100,Plastic Gorilla Fruits,Hai Zhu_ID,53100,39.95000,-75.16670
+Hai Zhu,North America,76,53100,Plastic Gorilla Fruits,Hai Zhu_ID,53100,39.95000,-75.16670
+Hai Zhu,North America,77,53100,Plastic Gorilla Fruits,Hai Zhu_ID,53100,39.95000,-75.16670
+Hai Zhu,North America,78,53100,Plastic Gorilla Fruits,Hai Zhu_ID,53100,39.95000,-75.16670
+Harshala Fernandes,India,1,0,Kickass Tuples,Harshala Fernandes_ID,0,27.18333,78.01667
+Harshala Fernandes,India,2,212.5,Kickass Tuples,Harshala Fernandes_ID,0,27.18333,78.01667
+Harshala Fernandes,India,3,1225,Kickass Tuples,Harshala Fernandes_ID,212.5,27.18333,78.01667
+Harshala Fernandes,India,4,2450,Kickass Tuples,Harshala Fernandes_ID,1225,27.18333,78.01667
+Harshala Fernandes,India,5,2450,Kickass Tuples,Harshala Fernandes_ID,2450,27.18333,78.01667
+Harshala Fernandes,India,6,2450,Kickass Tuples,Harshala Fernandes_ID,2450,27.18333,78.01667
+Harshala Fernandes,India,7,2450,Kickass Tuples,Harshala Fernandes_ID,2450,27.18333,78.01667
+Harshala Fernandes,India,8,2675,Kickass Tuples,Harshala Fernandes_ID,2450,27.18333,78.01667
+Harshala Fernandes,India,9,3025.0799999999999,Kickass Tuples,Harshala Fernandes_ID,2675,27.18333,78.01667
+Harshala Fernandes,India,10,3925.0799999999999,Kickass Tuples,Harshala Fernandes_ID,3025.0799999999999,27.18333,78.01667
+Harshala Fernandes,India,11,3925.0799999999999,Kickass Tuples,Harshala Fernandes_ID,3925.0799999999999,27.18333,78.01667
+Harshala Fernandes,India,12,3925.0799999999999,Kickass Tuples,Harshala Fernandes_ID,3925.0799999999999,27.18333,78.01667
+Harshala Fernandes,India,13,3925.0799999999999,Kickass Tuples,Harshala Fernandes_ID,3925.0799999999999,27.18333,78.01667
+Harshala Fernandes,India,14,4125.0799999999999,Kickass Tuples,Harshala Fernandes_ID,3925.0799999999999,27.18333,78.01667
+Harshala Fernandes,India,15,4337.5799999999999,Kickass Tuples,Harshala Fernandes_ID,4125.0799999999999,27.18333,78.01667
+Harshala Fernandes,India,16,4337.5799999999999,Kickass Tuples,Harshala Fernandes_ID,4337.5799999999999,27.18333,78.01667
+Harshala Fernandes,India,17,5737.5799999999999,Kickass Tuples,Harshala Fernandes_ID,4337.5799999999999,27.18333,78.01667
+Harshala Fernandes,India,18,7112.5799999999999,Kickass Tuples,Harshala Fernandes_ID,5737.5799999999999,27.18333,78.01667
+Harshala Fernandes,India,19,8237.5799999999999,Kickass Tuples,Harshala Fernandes_ID,7112.5799999999999,27.18333,78.01667
+Harshala Fernandes,India,20,8237.5799999999999,Kickass Tuples,Harshala Fernandes_ID,8237.5799999999999,27.18333,78.01667
+Harshala Fernandes,India,21,8737.5799999999999,Kickass Tuples,Harshala Fernandes_ID,8237.5799999999999,27.18333,78.01667
+Harshala Fernandes,India,22,8937.5799999999999,Kickass Tuples,Harshala Fernandes_ID,8737.5799999999999,27.18333,78.01667
+Harshala Fernandes,India,23,9387.5799999999999,Kickass Tuples,Harshala Fernandes_ID,8937.5799999999999,27.18333,78.01667
+Harshala Fernandes,India,24,11287.58,Kickass Tuples,Harshala Fernandes_ID,9387.5799999999999,27.18333,78.01667
+Harshala Fernandes,India,25,11387.58,Kickass Tuples,Harshala Fernandes_ID,11287.58,27.18333,78.01667
+Harshala Fernandes,India,26,11387.58,Kickass Tuples,Harshala Fernandes_ID,11387.58,27.18333,78.01667
+Harshala Fernandes,India,27,11387.58,Kickass Tuples,Harshala Fernandes_ID,11387.58,27.18333,78.01667
+Harshala Fernandes,India,28,11725.08,Kickass Tuples,Harshala Fernandes_ID,11387.58,27.18333,78.01667
+Harshala Fernandes,India,29,11825.08,Kickass Tuples,Harshala Fernandes_ID,11725.08,27.18333,78.01667
+Harshala Fernandes,India,30,13425.08,Kickass Tuples,Harshala Fernandes_ID,11825.08,27.18333,78.01667
+Harshala Fernandes,India,31,14325.08,Kickass Tuples,Harshala Fernandes_ID,13425.08,27.18333,78.01667
+Harshala Fernandes,India,32,14937.58,Kickass Tuples,Harshala Fernandes_ID,14325.08,27.18333,78.01667
+Harshala Fernandes,India,33,16062.58,Kickass Tuples,Harshala Fernandes_ID,14937.58,27.18333,78.01667
+Harshala Fernandes,India,34,16062.58,Kickass Tuples,Harshala Fernandes_ID,16062.58,27.18333,78.01667
+Harshala Fernandes,India,35,16962.580000000002,Kickass Tuples,Harshala Fernandes_ID,16062.58,27.18333,78.01667
+Harshala Fernandes,India,36,18412.580000000002,Kickass Tuples,Harshala Fernandes_ID,16962.580000000002,27.18333,78.01667
+Harshala Fernandes,India,37,20087.580000000002,Kickass Tuples,Harshala Fernandes_ID,18412.580000000002,27.18333,78.01667
+Harshala Fernandes,India,38,20087.580000000002,Kickass Tuples,Harshala Fernandes_ID,20087.580000000002,27.18333,78.01667
+Harshala Fernandes,India,39,20087.580000000002,Kickass Tuples,Harshala Fernandes_ID,20087.580000000002,27.18333,78.01667
+Harshala Fernandes,India,40,20087.580000000002,Kickass Tuples,Harshala Fernandes_ID,20087.580000000002,27.18333,78.01667
+Harshala Fernandes,India,41,20087.580000000002,Kickass Tuples,Harshala Fernandes_ID,20087.580000000002,27.18333,78.01667
+Harshala Fernandes,India,42,20425.080000000002,Kickass Tuples,Harshala Fernandes_ID,20087.580000000002,27.18333,78.01667
+Harshala Fernandes,India,43,20850.080000000002,Kickass Tuples,Harshala Fernandes_ID,20425.080000000002,27.18333,78.01667
+Harshala Fernandes,India,44,21375.080000000002,Kickass Tuples,Harshala Fernandes_ID,20850.080000000002,27.18333,78.01667
+Harshala Fernandes,India,45,22487.580000000002,Kickass Tuples,Harshala Fernandes_ID,21375.080000000002,27.18333,78.01667
+Harshala Fernandes,India,46,22825.080000000002,Kickass Tuples,Harshala Fernandes_ID,22487.580000000002,27.18333,78.01667
+Harshala Fernandes,India,47,22825.080000000002,Kickass Tuples,Harshala Fernandes_ID,22825.080000000002,27.18333,78.01667
+Harshala Fernandes,India,48,22825.080000000002,Kickass Tuples,Harshala Fernandes_ID,22825.080000000002,27.18333,78.01667
+Harshala Fernandes,India,49,23025.080000000002,Kickass Tuples,Harshala Fernandes_ID,22825.080000000002,27.18333,78.01667
+Harshala Fernandes,India,50,23475.080000000002,Kickass Tuples,Harshala Fernandes_ID,23025.080000000002,27.18333,78.01667
+Harshala Fernandes,India,51,23812.580000000002,Kickass Tuples,Harshala Fernandes_ID,23475.080000000002,27.18333,78.01667
+Harshala Fernandes,India,52,24012.580000000002,Kickass Tuples,Harshala Fernandes_ID,23812.580000000002,27.18333,78.01667
+Harshala Fernandes,India,53,24412.580000000002,Kickass Tuples,Harshala Fernandes_ID,24012.580000000002,27.18333,78.01667
+Harshala Fernandes,India,54,24412.580000000002,Kickass Tuples,Harshala Fernandes_ID,24412.580000000002,27.18333,78.01667
+Harshala Fernandes,India,55,24412.580000000002,Kickass Tuples,Harshala Fernandes_ID,24412.580000000002,27.18333,78.01667
+Harshala Fernandes,India,56,24412.580000000002,Kickass Tuples,Harshala Fernandes_ID,24412.580000000002,27.18333,78.01667
+Harshala Fernandes,India,57,24817.580000000002,Kickass Tuples,Harshala Fernandes_ID,24412.580000000002,27.18333,78.01667
+Harshala Fernandes,India,58,24817.580000000002,Kickass Tuples,Harshala Fernandes_ID,24817.580000000002,27.18333,78.01667
+Harshala Fernandes,India,59,26242.580000000002,Kickass Tuples,Harshala Fernandes_ID,24817.580000000002,27.18333,78.01667
+Harshala Fernandes,India,60,26997.66,Kickass Tuples,Harshala Fernandes_ID,26242.580000000002,27.18333,78.01667
+Harshala Fernandes,India,61,26997.66,Kickass Tuples,Harshala Fernandes_ID,26997.66,27.18333,78.01667
+Harshala Fernandes,India,62,26997.66,Kickass Tuples,Harshala Fernandes_ID,26997.66,27.18333,78.01667
+Harshala Fernandes,India,63,27455.16,Kickass Tuples,Harshala Fernandes_ID,26997.66,27.18333,78.01667
+Harshala Fernandes,India,64,28912.66,Kickass Tuples,Harshala Fernandes_ID,27455.16,27.18333,78.01667
+Harshala Fernandes,India,65,28912.66,Kickass Tuples,Harshala Fernandes_ID,28912.66,27.18333,78.01667
+Harshala Fernandes,India,66,29825.16,Kickass Tuples,Harshala Fernandes_ID,28912.66,27.18333,78.01667
+Harshala Fernandes,India,67,29825.16,Kickass Tuples,Harshala Fernandes_ID,29825.16,27.18333,78.01667
+Harshala Fernandes,India,68,29825.16,Kickass Tuples,Harshala Fernandes_ID,29825.16,27.18333,78.01667
+Harshala Fernandes,India,69,29825.16,Kickass Tuples,Harshala Fernandes_ID,29825.16,27.18333,78.01667
+Harshala Fernandes,India,70,29825.16,Kickass Tuples,Harshala Fernandes_ID,29825.16,27.18333,78.01667
+Harshala Fernandes,India,71,29825.16,Kickass Tuples,Harshala Fernandes_ID,29825.16,27.18333,78.01667
+Harshala Fernandes,India,72,29825.16,Kickass Tuples,Harshala Fernandes_ID,29825.16,27.18333,78.01667
+Harshala Fernandes,India,73,29825.16,Kickass Tuples,Harshala Fernandes_ID,29825.16,27.18333,78.01667
+Harshala Fernandes,India,74,29825.16,Kickass Tuples,Harshala Fernandes_ID,29825.16,27.18333,78.01667
+Harshala Fernandes,India,75,29825.16,Kickass Tuples,Harshala Fernandes_ID,29825.16,27.18333,78.01667
+Harshala Fernandes,India,76,29825.16,Kickass Tuples,Harshala Fernandes_ID,29825.16,27.18333,78.01667
+Harshala Fernandes,India,77,29825.16,Kickass Tuples,Harshala Fernandes_ID,29825.16,27.18333,78.01667
+Harshala Fernandes,India,78,29825.16,Kickass Tuples,Harshala Fernandes_ID,29825.16,27.18333,78.01667
+Hughes, Jonathon,North America,1,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,2,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,3,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,4,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,5,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,6,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,7,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,8,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,9,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,10,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,11,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,12,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,13,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,14,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,15,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,16,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,17,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,18,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,19,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,20,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,21,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,22,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,23,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,24,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,25,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,26,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,27,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,28,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,29,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,30,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,31,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,32,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,33,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,34,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,35,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,36,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,37,0,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,38,800,Other,Hughes, Jonathon_ID,0,39.95000,-75.16670
+Hughes, Jonathon,North America,39,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,40,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,41,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,42,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,43,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,44,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,45,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,46,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,47,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,48,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,49,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,50,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,51,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,52,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,53,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,54,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,55,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,56,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,57,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,58,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,59,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,60,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,61,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,62,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,63,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,64,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,65,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,66,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,67,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,68,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,69,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,70,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,71,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,72,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,73,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,74,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,75,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,76,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,77,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Hughes, Jonathon,North America,78,800,Other,Hughes, Jonathon_ID,800,39.95000,-75.16670
+Jelle,Europe,1,0,Team 4,Jelle_ID,0,52.37403,4.88969
+Jelle,Europe,2,0,Team 4,Jelle_ID,0,52.37403,4.88969
+Jelle,Europe,3,0,Team 4,Jelle_ID,0,52.37403,4.88969
+Jelle,Europe,4,0,Team 4,Jelle_ID,0,52.37403,4.88969
+Jelle,Europe,5,0,Team 4,Jelle_ID,0,52.37403,4.88969
+Jelle,Europe,6,0,Team 4,Jelle_ID,0,52.37403,4.88969
+Jelle,Europe,7,87.5,Team 4,Jelle_ID,0,52.37403,4.88969
+Jelle,Europe,8,237.5,Team 4,Jelle_ID,87.5,52.37403,4.88969
+Jelle,Europe,9,281.31999999999999,Team 4,Jelle_ID,237.5,52.37403,4.88969
+Jelle,Europe,10,368.81999999999999,Team 4,Jelle_ID,281.31999999999999,52.37403,4.88969
+Jelle,Europe,11,368.81999999999999,Team 4,Jelle_ID,368.81999999999999,52.37403,4.88969
+Jelle,Europe,12,368.81999999999999,Team 4,Jelle_ID,368.81999999999999,52.37403,4.88969
+Jelle,Europe,13,368.81999999999999,Team 4,Jelle_ID,368.81999999999999,52.37403,4.88969
+Jelle,Europe,14,368.81999999999999,Team 4,Jelle_ID,368.81999999999999,52.37403,4.88969
+Jelle,Europe,15,368.81999999999999,Team 4,Jelle_ID,368.81999999999999,52.37403,4.88969
+Jelle,Europe,16,368.81999999999999,Team 4,Jelle_ID,368.81999999999999,52.37403,4.88969
+Jelle,Europe,17,368.81999999999999,Team 4,Jelle_ID,368.81999999999999,52.37403,4.88969
+Jelle,Europe,18,368.81999999999999,Team 4,Jelle_ID,368.81999999999999,52.37403,4.88969
+Jelle,Europe,19,368.81999999999999,Team 4,Jelle_ID,368.81999999999999,52.37403,4.88969
+Jelle,Europe,20,368.81999999999999,Team 4,Jelle_ID,368.81999999999999,52.37403,4.88969
+Jelle,Europe,21,368.81999999999999,Team 4,Jelle_ID,368.81999999999999,52.37403,4.88969
+Jelle,Europe,22,368.81999999999999,Team 4,Jelle_ID,368.81999999999999,52.37403,4.88969
+Jelle,Europe,23,368.81999999999999,Team 4,Jelle_ID,368.81999999999999,52.37403,4.88969
+Jelle,Europe,24,418.81999999999999,Team 4,Jelle_ID,368.81999999999999,52.37403,4.88969
+Jelle,Europe,25,418.81999999999999,Team 4,Jelle_ID,418.81999999999999,52.37403,4.88969
+Jelle,Europe,26,418.81999999999999,Team 4,Jelle_ID,418.81999999999999,52.37403,4.88969
+Jelle,Europe,27,418.81999999999999,Team 4,Jelle_ID,418.81999999999999,52.37403,4.88969
+Jelle,Europe,28,418.81999999999999,Team 4,Jelle_ID,418.81999999999999,52.37403,4.88969
+Jelle,Europe,29,418.81999999999999,Team 4,Jelle_ID,418.81999999999999,52.37403,4.88969
+Jelle,Europe,30,1918.8199999999999,Team 4,Jelle_ID,418.81999999999999,52.37403,4.88969
+Jelle,Europe,31,2018.8199999999999,Team 4,Jelle_ID,1918.8199999999999,52.37403,4.88969
+Jelle,Europe,32,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,33,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,34,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,35,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,36,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,37,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,38,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,39,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,40,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,41,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,42,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,43,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,44,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,45,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,46,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,47,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,48,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,49,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,50,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,51,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,52,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,53,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,54,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,55,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,56,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,57,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,58,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,59,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,60,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,61,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,62,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,63,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,64,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,65,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,66,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,67,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,68,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,69,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,70,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,71,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,72,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,73,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,74,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,75,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,76,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,77,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jelle,Europe,78,2018.8199999999999,Team 4,Jelle_ID,2018.8199999999999,52.37403,4.88969
+Jennifer Izaguirre,North America,1,0,Kickass Tuples,Jennifer Izaguirre_ID,0,39.95000,-75.16670
+Jennifer Izaguirre,North America,2,430,Kickass Tuples,Jennifer Izaguirre_ID,0,39.95000,-75.16670
+Jennifer Izaguirre,North America,3,630,Kickass Tuples,Jennifer Izaguirre_ID,430,39.95000,-75.16670
+Jennifer Izaguirre,North America,4,1645,Kickass Tuples,Jennifer Izaguirre_ID,630,39.95000,-75.16670
+Jennifer Izaguirre,North America,5,1645,Kickass Tuples,Jennifer Izaguirre_ID,1645,39.95000,-75.16670
+Jennifer Izaguirre,North America,6,3285,Kickass Tuples,Jennifer Izaguirre_ID,1645,39.95000,-75.16670
+Jennifer Izaguirre,North America,7,4925,Kickass Tuples,Jennifer Izaguirre_ID,3285,39.95000,-75.16670
+Jennifer Izaguirre,North America,8,6565,Kickass Tuples,Jennifer Izaguirre_ID,4925,39.95000,-75.16670
+Jennifer Izaguirre,North America,9,8205,Kickass Tuples,Jennifer Izaguirre_ID,6565,39.95000,-75.16670
+Jennifer Izaguirre,North America,10,9845,Kickass Tuples,Jennifer Izaguirre_ID,8205,39.95000,-75.16670
+Jennifer Izaguirre,North America,11,10675,Kickass Tuples,Jennifer Izaguirre_ID,9845,39.95000,-75.16670
+Jennifer Izaguirre,North America,12,10675,Kickass Tuples,Jennifer Izaguirre_ID,10675,39.95000,-75.16670
+Jennifer Izaguirre,North America,13,10675,Kickass Tuples,Jennifer Izaguirre_ID,10675,39.95000,-75.16670
+Jennifer Izaguirre,North America,14,11495,Kickass Tuples,Jennifer Izaguirre_ID,10675,39.95000,-75.16670
+Jennifer Izaguirre,North America,15,11700,Kickass Tuples,Jennifer Izaguirre_ID,11495,39.95000,-75.16670
+Jennifer Izaguirre,North America,16,11905,Kickass Tuples,Jennifer Izaguirre_ID,11700,39.95000,-75.16670
+Jennifer Izaguirre,North America,17,12120,Kickass Tuples,Jennifer Izaguirre_ID,11905,39.95000,-75.16670
+Jennifer Izaguirre,North America,18,12120,Kickass Tuples,Jennifer Izaguirre_ID,12120,39.95000,-75.16670
+Jennifer Izaguirre,North America,19,12120,Kickass Tuples,Jennifer Izaguirre_ID,12120,39.95000,-75.16670
+Jennifer Izaguirre,North America,20,12120,Kickass Tuples,Jennifer Izaguirre_ID,12120,39.95000,-75.16670
+Jennifer Izaguirre,North America,21,12325,Kickass Tuples,Jennifer Izaguirre_ID,12120,39.95000,-75.16670
+Jennifer Izaguirre,North America,22,12530,Kickass Tuples,Jennifer Izaguirre_ID,12325,39.95000,-75.16670
+Jennifer Izaguirre,North America,23,12735,Kickass Tuples,Jennifer Izaguirre_ID,12530,39.95000,-75.16670
+Jennifer Izaguirre,North America,24,13450,Kickass Tuples,Jennifer Izaguirre_ID,12735,39.95000,-75.16670
+Jennifer Izaguirre,North America,25,15600,Kickass Tuples,Jennifer Izaguirre_ID,13450,39.95000,-75.16670
+Jennifer Izaguirre,North America,26,17650,Kickass Tuples,Jennifer Izaguirre_ID,15600,39.95000,-75.16670
+Jennifer Izaguirre,North America,27,17650,Kickass Tuples,Jennifer Izaguirre_ID,17650,39.95000,-75.16670
+Jennifer Izaguirre,North America,28,17855,Kickass Tuples,Jennifer Izaguirre_ID,17650,39.95000,-75.16670
+Jennifer Izaguirre,North America,29,19495,Kickass Tuples,Jennifer Izaguirre_ID,17855,39.95000,-75.16670
+Jennifer Izaguirre,North America,30,19495,Kickass Tuples,Jennifer Izaguirre_ID,19495,39.95000,-75.16670
+Jennifer Izaguirre,North America,31,20730,Kickass Tuples,Jennifer Izaguirre_ID,19495,39.95000,-75.16670
+Jennifer Izaguirre,North America,32,21750,Kickass Tuples,Jennifer Izaguirre_ID,20730,39.95000,-75.16670
+Jennifer Izaguirre,North America,33,21750,Kickass Tuples,Jennifer Izaguirre_ID,21750,39.95000,-75.16670
+Jennifer Izaguirre,North America,34,21750,Kickass Tuples,Jennifer Izaguirre_ID,21750,39.95000,-75.16670
+Jennifer Izaguirre,North America,35,21750,Kickass Tuples,Jennifer Izaguirre_ID,21750,39.95000,-75.16670
+Jennifer Izaguirre,North America,36,21750,Kickass Tuples,Jennifer Izaguirre_ID,21750,39.95000,-75.16670
+Jennifer Izaguirre,North America,37,22570,Kickass Tuples,Jennifer Izaguirre_ID,21750,39.95000,-75.16670
+Jennifer Izaguirre,North America,38,24425,Kickass Tuples,Jennifer Izaguirre_ID,22570,39.95000,-75.16670
+Jennifer Izaguirre,North America,39,25245,Kickass Tuples,Jennifer Izaguirre_ID,24425,39.95000,-75.16670
+Jennifer Izaguirre,North America,40,25245,Kickass Tuples,Jennifer Izaguirre_ID,25245,39.95000,-75.16670
+Jennifer Izaguirre,North America,41,25245,Kickass Tuples,Jennifer Izaguirre_ID,25245,39.95000,-75.16670
+Jennifer Izaguirre,North America,42,25347.5,Kickass Tuples,Jennifer Izaguirre_ID,25245,39.95000,-75.16670
+Jennifer Izaguirre,North America,43,25747.5,Kickass Tuples,Jennifer Izaguirre_ID,25347.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,44,26052.5,Kickass Tuples,Jennifer Izaguirre_ID,25747.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,45,26267.5,Kickass Tuples,Jennifer Izaguirre_ID,26052.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,46,26667.5,Kickass Tuples,Jennifer Izaguirre_ID,26267.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,47,26667.5,Kickass Tuples,Jennifer Izaguirre_ID,26667.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,48,26667.5,Kickass Tuples,Jennifer Izaguirre_ID,26667.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,49,26770,Kickass Tuples,Jennifer Izaguirre_ID,26667.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,50,26770,Kickass Tuples,Jennifer Izaguirre_ID,26770,39.95000,-75.16670
+Jennifer Izaguirre,North America,51,26770,Kickass Tuples,Jennifer Izaguirre_ID,26770,39.95000,-75.16670
+Jennifer Izaguirre,North America,52,26985,Kickass Tuples,Jennifer Izaguirre_ID,26770,39.95000,-75.16670
+Jennifer Izaguirre,North America,53,26985,Kickass Tuples,Jennifer Izaguirre_ID,26985,39.95000,-75.16670
+Jennifer Izaguirre,North America,54,26985,Kickass Tuples,Jennifer Izaguirre_ID,26985,39.95000,-75.16670
+Jennifer Izaguirre,North America,55,26985,Kickass Tuples,Jennifer Izaguirre_ID,26985,39.95000,-75.16670
+Jennifer Izaguirre,North America,56,27990,Kickass Tuples,Jennifer Izaguirre_ID,26985,39.95000,-75.16670
+Jennifer Izaguirre,North America,57,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,27990,39.95000,-75.16670
+Jennifer Izaguirre,North America,58,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,59,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,60,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,61,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,62,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,63,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,64,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,65,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,66,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,67,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,68,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,69,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,70,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,71,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,72,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,73,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,74,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,75,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,76,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,77,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Jennifer Izaguirre,North America,78,28092.5,Kickass Tuples,Jennifer Izaguirre_ID,28092.5,39.95000,-75.16670
+Joseph Amalesh,North America,2,0,Plastic Gorilla Fruits,Joseph Amalesh_ID,0,39.95000,-75.16670
+Joseph Amalesh,North America,3,0,Plastic Gorilla Fruits,Joseph Amalesh_ID,0,39.95000,-75.16670
+Joseph Amalesh,North America,4,0,Plastic Gorilla Fruits,Joseph Amalesh_ID,0,39.95000,-75.16670
+Joseph Amalesh,North America,5,0,Plastic Gorilla Fruits,Joseph Amalesh_ID,0,39.95000,-75.16670
+Joseph Amalesh,North America,6,0,Plastic Gorilla Fruits,Joseph Amalesh_ID,0,39.95000,-75.16670
+Joseph Amalesh,North America,7,0,Plastic Gorilla Fruits,Joseph Amalesh_ID,0,39.95000,-75.16670
+Joseph Amalesh,North America,8,0,Plastic Gorilla Fruits,Joseph Amalesh_ID,0,39.95000,-75.16670
+Joseph Amalesh,North America,9,750,Plastic Gorilla Fruits,Joseph Amalesh_ID,0,39.95000,-75.16670
+Joseph Amalesh,North America,10,750,Plastic Gorilla Fruits,Joseph Amalesh_ID,750,39.95000,-75.16670
+Joseph Amalesh,North America,11,2350,Plastic Gorilla Fruits,Joseph Amalesh_ID,750,39.95000,-75.16670
+Joseph Amalesh,North America,12,2350,Plastic Gorilla Fruits,Joseph Amalesh_ID,2350,39.95000,-75.16670
+Joseph Amalesh,North America,13,2350,Plastic Gorilla Fruits,Joseph Amalesh_ID,2350,39.95000,-75.16670
+Joseph Amalesh,North America,14,2350,Plastic Gorilla Fruits,Joseph Amalesh_ID,2350,39.95000,-75.16670
+Joseph Amalesh,North America,15,2725,Plastic Gorilla Fruits,Joseph Amalesh_ID,2350,39.95000,-75.16670
+Joseph Amalesh,North America,16,2725,Plastic Gorilla Fruits,Joseph Amalesh_ID,2725,39.95000,-75.16670
+Joseph Amalesh,North America,17,2725,Plastic Gorilla Fruits,Joseph Amalesh_ID,2725,39.95000,-75.16670
+Joseph Amalesh,North America,18,4325,Plastic Gorilla Fruits,Joseph Amalesh_ID,2725,39.95000,-75.16670
+Joseph Amalesh,North America,19,4325,Plastic Gorilla Fruits,Joseph Amalesh_ID,4325,39.95000,-75.16670
+Joseph Amalesh,North America,20,4325,Plastic Gorilla Fruits,Joseph Amalesh_ID,4325,39.95000,-75.16670
+Joseph Amalesh,North America,21,4700,Plastic Gorilla Fruits,Joseph Amalesh_ID,4325,39.95000,-75.16670
+Joseph Amalesh,North America,22,6300,Plastic Gorilla Fruits,Joseph Amalesh_ID,4700,39.95000,-75.16670
+Joseph Amalesh,North America,23,6300,Plastic Gorilla Fruits,Joseph Amalesh_ID,6300,39.95000,-75.16670
+Joseph Amalesh,North America,24,6300,Plastic Gorilla Fruits,Joseph Amalesh_ID,6300,39.95000,-75.16670
+Joseph Amalesh,North America,25,6300,Plastic Gorilla Fruits,Joseph Amalesh_ID,6300,39.95000,-75.16670
+Joseph Amalesh,North America,26,6300,Plastic Gorilla Fruits,Joseph Amalesh_ID,6300,39.95000,-75.16670
+Joseph Amalesh,North America,27,6300,Plastic Gorilla Fruits,Joseph Amalesh_ID,6300,39.95000,-75.16670
+Joseph Amalesh,North America,28,7200,Plastic Gorilla Fruits,Joseph Amalesh_ID,6300,39.95000,-75.16670
+Joseph Amalesh,North America,29,8925,Plastic Gorilla Fruits,Joseph Amalesh_ID,7200,39.95000,-75.16670
+Joseph Amalesh,North America,30,10725,Plastic Gorilla Fruits,Joseph Amalesh_ID,8925,39.95000,-75.16670
+Joseph Amalesh,North America,31,12325,Plastic Gorilla Fruits,Joseph Amalesh_ID,10725,39.95000,-75.16670
+Joseph Amalesh,North America,32,13225,Plastic Gorilla Fruits,Joseph Amalesh_ID,12325,39.95000,-75.16670
+Joseph Amalesh,North America,33,13225,Plastic Gorilla Fruits,Joseph Amalesh_ID,13225,39.95000,-75.16670
+Joseph Amalesh,North America,34,13225,Plastic Gorilla Fruits,Joseph Amalesh_ID,13225,39.95000,-75.16670
+Joseph Amalesh,North America,35,13225,Plastic Gorilla Fruits,Joseph Amalesh_ID,13225,39.95000,-75.16670
+Joseph Amalesh,North America,36,15025,Plastic Gorilla Fruits,Joseph Amalesh_ID,13225,39.95000,-75.16670
+Joseph Amalesh,North America,37,15025,Plastic Gorilla Fruits,Joseph Amalesh_ID,15025,39.95000,-75.16670
+Joseph Amalesh,North America,38,15025,Plastic Gorilla Fruits,Joseph Amalesh_ID,15025,39.95000,-75.16670
+Joseph Amalesh,North America,39,18625,Plastic Gorilla Fruits,Joseph Amalesh_ID,15025,39.95000,-75.16670
+Joseph Amalesh,North America,40,18625,Plastic Gorilla Fruits,Joseph Amalesh_ID,18625,39.95000,-75.16670
+Joseph Amalesh,North America,41,18625,Plastic Gorilla Fruits,Joseph Amalesh_ID,18625,39.95000,-75.16670
+Joseph Amalesh,North America,42,18625,Plastic Gorilla Fruits,Joseph Amalesh_ID,18625,39.95000,-75.16670
+Joseph Amalesh,North America,43,22225,Plastic Gorilla Fruits,Joseph Amalesh_ID,18625,39.95000,-75.16670
+Joseph Amalesh,North America,44,22225,Plastic Gorilla Fruits,Joseph Amalesh_ID,22225,39.95000,-75.16670
+Joseph Amalesh,North America,45,23825,Plastic Gorilla Fruits,Joseph Amalesh_ID,22225,39.95000,-75.16670
+Joseph Amalesh,North America,46,25625,Plastic Gorilla Fruits,Joseph Amalesh_ID,23825,39.95000,-75.16670
+Joseph Amalesh,North America,47,25625,Plastic Gorilla Fruits,Joseph Amalesh_ID,25625,39.95000,-75.16670
+Joseph Amalesh,North America,48,25625,Plastic Gorilla Fruits,Joseph Amalesh_ID,25625,39.95000,-75.16670
+Joseph Amalesh,North America,49,27425,Plastic Gorilla Fruits,Joseph Amalesh_ID,25625,39.95000,-75.16670
+Joseph Amalesh,North America,50,29225,Plastic Gorilla Fruits,Joseph Amalesh_ID,27425,39.95000,-75.16670
+Joseph Amalesh,North America,51,30125,Plastic Gorilla Fruits,Joseph Amalesh_ID,29225,39.95000,-75.16670
+Joseph Amalesh,North America,52,31725,Plastic Gorilla Fruits,Joseph Amalesh_ID,30125,39.95000,-75.16670
+Joseph Amalesh,North America,53,31725,Plastic Gorilla Fruits,Joseph Amalesh_ID,31725,39.95000,-75.16670
+Joseph Amalesh,North America,54,31725,Plastic Gorilla Fruits,Joseph Amalesh_ID,31725,39.95000,-75.16670
+Joseph Amalesh,North America,55,31725,Plastic Gorilla Fruits,Joseph Amalesh_ID,31725,39.95000,-75.16670
+Joseph Amalesh,North America,56,33525,Plastic Gorilla Fruits,Joseph Amalesh_ID,31725,39.95000,-75.16670
+Joseph Amalesh,North America,57,35125,Plastic Gorilla Fruits,Joseph Amalesh_ID,33525,39.95000,-75.16670
+Joseph Amalesh,North America,58,36925,Plastic Gorilla Fruits,Joseph Amalesh_ID,35125,39.95000,-75.16670
+Joseph Amalesh,North America,59,36925,Plastic Gorilla Fruits,Joseph Amalesh_ID,36925,39.95000,-75.16670
+Joseph Amalesh,North America,60,38525,Plastic Gorilla Fruits,Joseph Amalesh_ID,36925,39.95000,-75.16670
+Joseph Amalesh,North America,61,38525,Plastic Gorilla Fruits,Joseph Amalesh_ID,38525,39.95000,-75.16670
+Joseph Amalesh,North America,62,38525,Plastic Gorilla Fruits,Joseph Amalesh_ID,38525,39.95000,-75.16670
+Joseph Amalesh,North America,63,38525,Plastic Gorilla Fruits,Joseph Amalesh_ID,38525,39.95000,-75.16670
+Joseph Amalesh,North America,64,41975,Plastic Gorilla Fruits,Joseph Amalesh_ID,38525,39.95000,-75.16670
+Joseph Amalesh,North America,65,42775,Plastic Gorilla Fruits,Joseph Amalesh_ID,41975,39.95000,-75.16670
+Joseph Amalesh,North America,66,44575,Plastic Gorilla Fruits,Joseph Amalesh_ID,42775,39.95000,-75.16670
+Joseph Amalesh,North America,67,46375,Plastic Gorilla Fruits,Joseph Amalesh_ID,44575,39.95000,-75.16670
+Joseph Amalesh,North America,68,46375,Plastic Gorilla Fruits,Joseph Amalesh_ID,46375,39.95000,-75.16670
+Joseph Amalesh,North America,69,46375,Plastic Gorilla Fruits,Joseph Amalesh_ID,46375,39.95000,-75.16670
+Joseph Amalesh,North America,70,48175,Plastic Gorilla Fruits,Joseph Amalesh_ID,46375,39.95000,-75.16670
+Joseph Amalesh,North America,71,49775,Plastic Gorilla Fruits,Joseph Amalesh_ID,48175,39.95000,-75.16670
+Joseph Amalesh,North America,72,49775,Plastic Gorilla Fruits,Joseph Amalesh_ID,49775,39.95000,-75.16670
+Joseph Amalesh,North America,73,51575,Plastic Gorilla Fruits,Joseph Amalesh_ID,49775,39.95000,-75.16670
+Joseph Amalesh,North America,74,54275,Plastic Gorilla Fruits,Joseph Amalesh_ID,51575,39.95000,-75.16670
+Joseph Amalesh,North America,75,54275,Plastic Gorilla Fruits,Joseph Amalesh_ID,54275,39.95000,-75.16670
+Joseph Amalesh,North America,76,54275,Plastic Gorilla Fruits,Joseph Amalesh_ID,54275,39.95000,-75.16670
+Joseph Amalesh,North America,77,54275,Plastic Gorilla Fruits,Joseph Amalesh_ID,54275,39.95000,-75.16670
+Joseph Amalesh,North America,78,54275,Plastic Gorilla Fruits,Joseph Amalesh_ID,54275,39.95000,-75.16670
+Justin,North America,1,0,Slammers,Justin_ID,0,39.95000,-75.16670
+Justin,North America,2,1700,Slammers,Justin_ID,0,39.95000,-75.16670
+Justin,North America,3,3187.5,Slammers,Justin_ID,1700,39.95000,-75.16670
+Justin,North America,4,3187.5,Slammers,Justin_ID,3187.5,39.95000,-75.16670
+Justin,North America,5,3187.5,Slammers,Justin_ID,3187.5,39.95000,-75.16670
+Justin,North America,6,3187.5,Slammers,Justin_ID,3187.5,39.95000,-75.16670
+Justin,North America,7,4868.75,Slammers,Justin_ID,3187.5,39.95000,-75.16670
+Justin,North America,8,6250,Slammers,Justin_ID,4868.75,39.95000,-75.16670
+Justin,North America,9,7418.75,Slammers,Justin_ID,6250,39.95000,-75.16670
+Justin,North America,10,9118.75,Slammers,Justin_ID,7418.75,39.95000,-75.16670
+Justin,North America,11,10393.75,Slammers,Justin_ID,9118.75,39.95000,-75.16670
+Justin,North America,12,10393.75,Slammers,Justin_ID,10393.75,39.95000,-75.16670
+Justin,North America,13,10393.75,Slammers,Justin_ID,10393.75,39.95000,-75.16670
+Justin,North America,14,10818.75,Slammers,Justin_ID,10393.75,39.95000,-75.16670
+Justin,North America,15,10818.75,Slammers,Justin_ID,10818.75,39.95000,-75.16670
+Justin,North America,16,11031.25,Slammers,Justin_ID,10818.75,39.95000,-75.16670
+Justin,North America,17,12412.5,Slammers,Justin_ID,11031.25,39.95000,-75.16670
+Justin,North America,18,14112.5,Slammers,Justin_ID,12412.5,39.95000,-75.16670
+Justin,North America,19,14112.5,Slammers,Justin_ID,14112.5,39.95000,-75.16670
+Justin,North America,20,14112.5,Slammers,Justin_ID,14112.5,39.95000,-75.16670
+Justin,North America,21,15562.5,Slammers,Justin_ID,14112.5,39.95000,-75.16670
+Justin,North America,22,17262.5,Slammers,Justin_ID,15562.5,39.95000,-75.16670
+Justin,North America,23,18962.5,Slammers,Justin_ID,17262.5,39.95000,-75.16670
+Justin,North America,24,20662.5,Slammers,Justin_ID,18962.5,39.95000,-75.16670
+Justin,North America,25,21406.25,Slammers,Justin_ID,20662.5,39.95000,-75.16670
+Justin,North America,26,21406.25,Slammers,Justin_ID,21406.25,39.95000,-75.16670
+Justin,North America,27,21493.75,Slammers,Justin_ID,21406.25,39.95000,-75.16670
+Justin,North America,28,21493.75,Slammers,Justin_ID,21493.75,39.95000,-75.16670
+Justin,North America,29,21706.25,Slammers,Justin_ID,21493.75,39.95000,-75.16670
+Justin,North America,30,22406.25,Slammers,Justin_ID,21706.25,39.95000,-75.16670
+Justin,North America,31,24031.25,Slammers,Justin_ID,22406.25,39.95000,-75.16670
+Justin,North America,32,24968.75,Slammers,Justin_ID,24031.25,39.95000,-75.16670
+Justin,North America,33,24968.75,Slammers,Justin_ID,24968.75,39.95000,-75.16670
+Justin,North America,34,24968.75,Slammers,Justin_ID,24968.75,39.95000,-75.16670
+Justin,North America,35,24968.75,Slammers,Justin_ID,24968.75,39.95000,-75.16670
+Justin,North America,36,24968.75,Slammers,Justin_ID,24968.75,39.95000,-75.16670
+Justin,North America,37,25568.75,Slammers,Justin_ID,24968.75,39.95000,-75.16670
+Justin,North America,38,25656.25,Slammers,Justin_ID,25568.75,39.95000,-75.16670
+Justin,North America,39,27250,Slammers,Justin_ID,25656.25,39.95000,-75.16670
+Justin,North America,40,27250,Slammers,Justin_ID,27250,39.95000,-75.16670
+Justin,North America,41,27250,Slammers,Justin_ID,27250,39.95000,-75.16670
+Justin,North America,42,28362.5,Slammers,Justin_ID,27250,39.95000,-75.16670
+Justin,North America,43,30062.5,Slammers,Justin_ID,28362.5,39.95000,-75.16670
+Justin,North America,44,30062.5,Slammers,Justin_ID,30062.5,39.95000,-75.16670
+Justin,North America,45,30062.5,Slammers,Justin_ID,30062.5,39.95000,-75.16670
+Justin,North America,46,30062.5,Slammers,Justin_ID,30062.5,39.95000,-75.16670
+Justin,North America,47,30062.5,Slammers,Justin_ID,30062.5,39.95000,-75.16670
+Justin,North America,48,30062.5,Slammers,Justin_ID,30062.5,39.95000,-75.16670
+Justin,North America,49,30062.5,Slammers,Justin_ID,30062.5,39.95000,-75.16670
+Justin,North America,50,30062.5,Slammers,Justin_ID,30062.5,39.95000,-75.16670
+Justin,North America,51,30062.5,Slammers,Justin_ID,30062.5,39.95000,-75.16670
+Justin,North America,52,30062.5,Slammers,Justin_ID,30062.5,39.95000,-75.16670
+Justin,North America,53,30062.5,Slammers,Justin_ID,30062.5,39.95000,-75.16670
+Justin,North America,54,30062.5,Slammers,Justin_ID,30062.5,39.95000,-75.16670
+Justin,North America,55,30062.5,Slammers,Justin_ID,30062.5,39.95000,-75.16670
+Justin,North America,56,36225,Slammers,Justin_ID,30062.5,39.95000,-75.16670
+Justin,North America,57,38456.25,Slammers,Justin_ID,36225,39.95000,-75.16670
+Justin,North America,58,39337.5,Slammers,Justin_ID,38456.25,39.95000,-75.16670
+Justin,North America,59,41037.5,Slammers,Justin_ID,39337.5,39.95000,-75.16670
+Justin,North America,60,42525,Slammers,Justin_ID,41037.5,39.95000,-75.16670
+Justin,North America,61,42525,Slammers,Justin_ID,42525,39.95000,-75.16670
+Justin,North America,62,42525,Slammers,Justin_ID,42525,39.95000,-75.16670
+Justin,North America,63,44012.5,Slammers,Justin_ID,42525,39.95000,-75.16670
+Justin,North America,64,45456.25,Slammers,Justin_ID,44012.5,39.95000,-75.16670
+Justin,North America,65,46912.5,Slammers,Justin_ID,45456.25,39.95000,-75.16670
+Justin,North America,66,48450,Slammers,Justin_ID,46912.5,39.95000,-75.16670
+Justin,North America,67,49150,Slammers,Justin_ID,48450,39.95000,-75.16670
+Justin,North America,68,49150,Slammers,Justin_ID,49150,39.95000,-75.16670
+Justin,North America,69,49150,Slammers,Justin_ID,49150,39.95000,-75.16670
+Justin,North America,70,50081.25,Slammers,Justin_ID,49150,39.95000,-75.16670
+Justin,North America,71,50081.25,Slammers,Justin_ID,50081.25,39.95000,-75.16670
+Justin,North America,72,50081.25,Slammers,Justin_ID,50081.25,39.95000,-75.16670
+Justin,North America,73,50081.25,Slammers,Justin_ID,50081.25,39.95000,-75.16670
+Justin,North America,74,50081.25,Slammers,Justin_ID,50081.25,39.95000,-75.16670
+Justin,North America,75,50081.25,Slammers,Justin_ID,50081.25,39.95000,-75.16670
+Justin,North America,76,50081.25,Slammers,Justin_ID,50081.25,39.95000,-75.16670
+Justin,North America,77,50081.25,Slammers,Justin_ID,50081.25,39.95000,-75.16670
+Justin,North America,78,50081.25,Slammers,Justin_ID,50081.25,39.95000,-75.16670
+Nakul Tilak,India,1,0,Kickass Tuples,Nakul Tilak_ID,0,27.18333,78.01667
+Nakul Tilak,India,2,0,Kickass Tuples,Nakul Tilak_ID,0,27.18333,78.01667
+Nakul Tilak,India,3,1230,Kickass Tuples,Nakul Tilak_ID,0,27.18333,78.01667
+Nakul Tilak,India,4,2970,Kickass Tuples,Nakul Tilak_ID,1230,27.18333,78.01667
+Nakul Tilak,India,5,2970,Kickass Tuples,Nakul Tilak_ID,2970,27.18333,78.01667
+Nakul Tilak,India,6,2970,Kickass Tuples,Nakul Tilak_ID,2970,27.18333,78.01667
+Nakul Tilak,India,7,3072.5,Kickass Tuples,Nakul Tilak_ID,2970,27.18333,78.01667
+Nakul Tilak,India,8,3582.5,Kickass Tuples,Nakul Tilak_ID,3072.5,27.18333,78.01667
+Nakul Tilak,India,9,4382.5,Kickass Tuples,Nakul Tilak_ID,3582.5,27.18333,78.01667
+Nakul Tilak,India,10,4582.5,Kickass Tuples,Nakul Tilak_ID,4382.5,27.18333,78.01667
+Nakul Tilak,India,11,4582.5,Kickass Tuples,Nakul Tilak_ID,4582.5,27.18333,78.01667
+Nakul Tilak,India,12,4582.5,Kickass Tuples,Nakul Tilak_ID,4582.5,27.18333,78.01667
+Nakul Tilak,India,13,4582.5,Kickass Tuples,Nakul Tilak_ID,4582.5,27.18333,78.01667
+Nakul Tilak,India,14,6522.5,Kickass Tuples,Nakul Tilak_ID,4582.5,27.18333,78.01667
+Nakul Tilak,India,15,8462.5,Kickass Tuples,Nakul Tilak_ID,6522.5,27.18333,78.01667
+Nakul Tilak,India,16,8462.5,Kickass Tuples,Nakul Tilak_ID,8462.5,27.18333,78.01667
+Nakul Tilak,India,17,13242.5,Kickass Tuples,Nakul Tilak_ID,8462.5,27.18333,78.01667
+Nakul Tilak,India,18,13742.5,Kickass Tuples,Nakul Tilak_ID,13242.5,27.18333,78.01667
+Nakul Tilak,India,19,13742.5,Kickass Tuples,Nakul Tilak_ID,13742.5,27.18333,78.01667
+Nakul Tilak,India,20,13742.5,Kickass Tuples,Nakul Tilak_ID,13742.5,27.18333,78.01667
+Nakul Tilak,India,21,14042.5,Kickass Tuples,Nakul Tilak_ID,13742.5,27.18333,78.01667
+Nakul Tilak,India,22,14247.5,Kickass Tuples,Nakul Tilak_ID,14042.5,27.18333,78.01667
+Nakul Tilak,India,23,14247.5,Kickass Tuples,Nakul Tilak_ID,14247.5,27.18333,78.01667
+Nakul Tilak,India,24,16287.5,Kickass Tuples,Nakul Tilak_ID,14247.5,27.18333,78.01667
+Nakul Tilak,India,25,16287.5,Kickass Tuples,Nakul Tilak_ID,16287.5,27.18333,78.01667
+Nakul Tilak,India,26,19567.5,Kickass Tuples,Nakul Tilak_ID,16287.5,27.18333,78.01667
+Nakul Tilak,India,27,19567.5,Kickass Tuples,Nakul Tilak_ID,19567.5,27.18333,78.01667
+Nakul Tilak,India,28,19567.5,Kickass Tuples,Nakul Tilak_ID,19567.5,27.18333,78.01667
+Nakul Tilak,India,29,19567.5,Kickass Tuples,Nakul Tilak_ID,19567.5,27.18333,78.01667
+Nakul Tilak,India,30,21397.5,Kickass Tuples,Nakul Tilak_ID,19567.5,27.18333,78.01667
+Nakul Tilak,India,31,26202.5,Kickass Tuples,Nakul Tilak_ID,21397.5,27.18333,78.01667
+Nakul Tilak,India,32,26607.5,Kickass Tuples,Nakul Tilak_ID,26202.5,27.18333,78.01667
+Nakul Tilak,India,33,26607.5,Kickass Tuples,Nakul Tilak_ID,26607.5,27.18333,78.01667
+Nakul Tilak,India,34,26607.5,Kickass Tuples,Nakul Tilak_ID,26607.5,27.18333,78.01667
+Nakul Tilak,India,35,28247.5,Kickass Tuples,Nakul Tilak_ID,26607.5,27.18333,78.01667
+Nakul Tilak,India,36,29777.5,Kickass Tuples,Nakul Tilak_ID,28247.5,27.18333,78.01667
+Nakul Tilak,India,37,29980,Kickass Tuples,Nakul Tilak_ID,29777.5,27.18333,78.01667
+Nakul Tilak,India,38,29980,Kickass Tuples,Nakul Tilak_ID,29980,27.18333,78.01667
+Nakul Tilak,India,39,29980,Kickass Tuples,Nakul Tilak_ID,29980,27.18333,78.01667
+Nakul Tilak,India,40,29980,Kickass Tuples,Nakul Tilak_ID,29980,27.18333,78.01667
+Nakul Tilak,India,41,30390,Kickass Tuples,Nakul Tilak_ID,29980,27.18333,78.01667
+Nakul Tilak,India,42,30390,Kickass Tuples,Nakul Tilak_ID,30390,27.18333,78.01667
+Nakul Tilak,India,43,30592.5,Kickass Tuples,Nakul Tilak_ID,30390,27.18333,78.01667
+Nakul Tilak,India,44,35302.5,Kickass Tuples,Nakul Tilak_ID,30592.5,27.18333,78.01667
+Nakul Tilak,India,45,36602.5,Kickass Tuples,Nakul Tilak_ID,35302.5,27.18333,78.01667
+Nakul Tilak,India,46,37422.5,Kickass Tuples,Nakul Tilak_ID,36602.5,27.18333,78.01667
+Nakul Tilak,India,47,37422.5,Kickass Tuples,Nakul Tilak_ID,37422.5,27.18333,78.01667
+Nakul Tilak,India,48,37422.5,Kickass Tuples,Nakul Tilak_ID,37422.5,27.18333,78.01667
+Nakul Tilak,India,49,39567.5,Kickass Tuples,Nakul Tilak_ID,37422.5,27.18333,78.01667
+Nakul Tilak,India,50,39767.5,Kickass Tuples,Nakul Tilak_ID,39567.5,27.18333,78.01667
+Nakul Tilak,India,51,39767.5,Kickass Tuples,Nakul Tilak_ID,39767.5,27.18333,78.01667
+Nakul Tilak,India,52,42022.5,Kickass Tuples,Nakul Tilak_ID,39767.5,27.18333,78.01667
+Nakul Tilak,India,53,44682.5,Kickass Tuples,Nakul Tilak_ID,42022.5,27.18333,78.01667
+Nakul Tilak,India,54,45502.5,Kickass Tuples,Nakul Tilak_ID,44682.5,27.18333,78.01667
+Nakul Tilak,India,55,45502.5,Kickass Tuples,Nakul Tilak_ID,45502.5,27.18333,78.01667
+Nakul Tilak,India,56,45707.5,Kickass Tuples,Nakul Tilak_ID,45502.5,27.18333,78.01667
+Nakul Tilak,India,57,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,58,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,59,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,60,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,61,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,62,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,63,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,64,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,65,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,66,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,67,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,68,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,69,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,70,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,71,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,72,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,73,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,74,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,75,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,76,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,77,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Nakul Tilak,India,78,45707.5,Kickass Tuples,Nakul Tilak_ID,45707.5,27.18333,78.01667
+Rajeev,India,1,0,Team 4,Rajeev_ID,0,27.18333,78.01667
+Rajeev,India,2,1225,Team 4,Rajeev_ID,0,27.18333,78.01667
+Rajeev,India,3,1587.5,Team 4,Rajeev_ID,1225,27.18333,78.01667
+Rajeev,India,4,2831.25,Team 4,Rajeev_ID,1587.5,27.18333,78.01667
+Rajeev,India,5,2831.25,Team 4,Rajeev_ID,2831.25,27.18333,78.01667
+Rajeev,India,6,2831.25,Team 4,Rajeev_ID,2831.25,27.18333,78.01667
+Rajeev,India,7,3443.75,Team 4,Rajeev_ID,2831.25,27.18333,78.01667
+Rajeev,India,8,3443.75,Team 4,Rajeev_ID,3443.75,27.18333,78.01667
+Rajeev,India,9,4056.25,Team 4,Rajeev_ID,3443.75,27.18333,78.01667
+Rajeev,India,10,5281.25,Team 4,Rajeev_ID,4056.25,27.18333,78.01667
+Rajeev,India,11,5281.25,Team 4,Rajeev_ID,5281.25,27.18333,78.01667
+Rajeev,India,12,5281.25,Team 4,Rajeev_ID,5281.25,27.18333,78.01667
+Rajeev,India,13,5281.25,Team 4,Rajeev_ID,5281.25,27.18333,78.01667
+Rajeev,India,14,5281.25,Team 4,Rajeev_ID,5281.25,27.18333,78.01667
+Rajeev,India,15,6550.25,Team 4,Rajeev_ID,5281.25,27.18333,78.01667
+Rajeev,India,16,6960.5,Team 4,Rajeev_ID,6550.25,27.18333,78.01667
+Rajeev,India,17,7135.5,Team 4,Rajeev_ID,6960.5,27.18333,78.01667
+Rajeev,India,18,7135.5,Team 4,Rajeev_ID,7135.5,27.18333,78.01667
+Rajeev,India,19,7135.5,Team 4,Rajeev_ID,7135.5,27.18333,78.01667
+Rajeev,India,20,7135.5,Team 4,Rajeev_ID,7135.5,27.18333,78.01667
+Rajeev,India,21,7660.5,Team 4,Rajeev_ID,7135.5,27.18333,78.01667
+Rajeev,India,22,8710.5,Team 4,Rajeev_ID,7660.5,27.18333,78.01667
+Rajeev,India,23,9760.5,Team 4,Rajeev_ID,8710.5,27.18333,78.01667
+Rajeev,India,24,9760.5,Team 4,Rajeev_ID,9760.5,27.18333,78.01667
+Rajeev,India,25,9760.5,Team 4,Rajeev_ID,9760.5,27.18333,78.01667
+Rajeev,India,26,9760.5,Team 4,Rajeev_ID,9760.5,27.18333,78.01667
+Rajeev,India,27,9760.5,Team 4,Rajeev_ID,9760.5,27.18333,78.01667
+Rajeev,India,28,9760.5,Team 4,Rajeev_ID,9760.5,27.18333,78.01667
+Rajeev,India,29,9760.5,Team 4,Rajeev_ID,9760.5,27.18333,78.01667
+Rajeev,India,30,9760.5,Team 4,Rajeev_ID,9760.5,27.18333,78.01667
+Rajeev,India,31,9760.5,Team 4,Rajeev_ID,9760.5,27.18333,78.01667
+Rajeev,India,32,9760.5,Team 4,Rajeev_ID,9760.5,27.18333,78.01667
+Rajeev,India,33,9760.5,Team 4,Rajeev_ID,9760.5,27.18333,78.01667
+Rajeev,India,34,9760.5,Team 4,Rajeev_ID,9760.5,27.18333,78.01667
+Rajeev,India,35,9760.5,Team 4,Rajeev_ID,9760.5,27.18333,78.01667
+Rajeev,India,36,10285.5,Team 4,Rajeev_ID,9760.5,27.18333,78.01667
+Rajeev,India,37,10285.5,Team 4,Rajeev_ID,10285.5,27.18333,78.01667
+Rajeev,India,38,10285.5,Team 4,Rajeev_ID,10285.5,27.18333,78.01667
+Rajeev,India,39,10285.5,Team 4,Rajeev_ID,10285.5,27.18333,78.01667
+Rajeev,India,40,10285.5,Team 4,Rajeev_ID,10285.5,27.18333,78.01667
+Rajeev,India,41,10285.5,Team 4,Rajeev_ID,10285.5,27.18333,78.01667
+Rajeev,India,42,10373,Team 4,Rajeev_ID,10285.5,27.18333,78.01667
+Rajeev,India,43,10460.5,Team 4,Rajeev_ID,10373,27.18333,78.01667
+Rajeev,India,44,11304.25,Team 4,Rajeev_ID,10460.5,27.18333,78.01667
+Rajeev,India,45,11866.75,Team 4,Rajeev_ID,11304.25,27.18333,78.01667
+Rajeev,India,46,13179.25,Team 4,Rajeev_ID,11866.75,27.18333,78.01667
+Rajeev,India,47,13179.25,Team 4,Rajeev_ID,13179.25,27.18333,78.01667
+Rajeev,India,48,13179.25,Team 4,Rajeev_ID,13179.25,27.18333,78.01667
+Rajeev,India,49,13791.75,Team 4,Rajeev_ID,13179.25,27.18333,78.01667
+Rajeev,India,50,14416.75,Team 4,Rajeev_ID,13791.75,27.18333,78.01667
+Rajeev,India,51,15466.75,Team 4,Rajeev_ID,14416.75,27.18333,78.01667
+Rajeev,India,52,16079.25,Team 4,Rajeev_ID,15466.75,27.18333,78.01667
+Rajeev,India,53,16079.25,Team 4,Rajeev_ID,16079.25,27.18333,78.01667
+Rajeev,India,54,16079.25,Team 4,Rajeev_ID,16079.25,27.18333,78.01667
+Rajeev,India,55,16079.25,Team 4,Rajeev_ID,16079.25,27.18333,78.01667
+Rajeev,India,56,16166.75,Team 4,Rajeev_ID,16079.25,27.18333,78.01667
+Rajeev,India,57,16516.75,Team 4,Rajeev_ID,16166.75,27.18333,78.01667
+Rajeev,India,58,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,59,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,60,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,61,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,62,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,63,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,64,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,65,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,66,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,67,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,68,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,69,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,70,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,71,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,72,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,73,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,74,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,75,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,76,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,77,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rajeev,India,78,16516.75,Team 4,Rajeev_ID,16516.75,27.18333,78.01667
+Rakesh,North America,3,225,Slammers,Rakesh_ID,0,39.95000,-75.16670
+Rakesh,North America,4,225,Slammers,Rakesh_ID,225,39.95000,-75.16670
+Rakesh,North America,5,225,Slammers,Rakesh_ID,225,39.95000,-75.16670
+Rakesh,North America,6,225,Slammers,Rakesh_ID,225,39.95000,-75.16670
+Rakesh,North America,7,5437.5,Slammers,Rakesh_ID,225,39.95000,-75.16670
+Rakesh,North America,8,5437.5,Slammers,Rakesh_ID,5437.5,39.95000,-75.16670
+Rakesh,North America,9,5437.5,Slammers,Rakesh_ID,5437.5,39.95000,-75.16670
+Rakesh,North America,10,10750,Slammers,Rakesh_ID,5437.5,39.95000,-75.16670
+Rakesh,North America,11,10750,Slammers,Rakesh_ID,10750,39.95000,-75.16670
+Rakesh,North America,12,10750,Slammers,Rakesh_ID,10750,39.95000,-75.16670
+Rakesh,North America,13,10750,Slammers,Rakesh_ID,10750,39.95000,-75.16670
+Rakesh,North America,14,10750,Slammers,Rakesh_ID,10750,39.95000,-75.16670
+Rakesh,North America,15,15212.5,Slammers,Rakesh_ID,10750,39.95000,-75.16670
+Rakesh,North America,16,20525,Slammers,Rakesh_ID,15212.5,39.95000,-75.16670
+Rakesh,North America,17,20525,Slammers,Rakesh_ID,20525,39.95000,-75.16670
+Rakesh,North America,18,27650,Slammers,Rakesh_ID,20525,39.95000,-75.16670
+Rakesh,North America,19,27650,Slammers,Rakesh_ID,27650,39.95000,-75.16670
+Rakesh,North America,20,27650,Slammers,Rakesh_ID,27650,39.95000,-75.16670
+Rakesh,North America,21,27762.5,Slammers,Rakesh_ID,27650,39.95000,-75.16670
+Rakesh,North America,22,27762.5,Slammers,Rakesh_ID,27762.5,39.95000,-75.16670
+Rakesh,North America,23,31162.5,Slammers,Rakesh_ID,27762.5,39.95000,-75.16670
+Rakesh,North America,24,31162.5,Slammers,Rakesh_ID,31162.5,39.95000,-75.16670
+Rakesh,North America,25,31162.5,Slammers,Rakesh_ID,31162.5,39.95000,-75.16670
+Rakesh,North America,26,31162.5,Slammers,Rakesh_ID,31162.5,39.95000,-75.16670
+Rakesh,North America,27,31162.5,Slammers,Rakesh_ID,31162.5,39.95000,-75.16670
+Rakesh,North America,28,33712.5,Slammers,Rakesh_ID,31162.5,39.95000,-75.16670
+Rakesh,North America,29,35412.5,Slammers,Rakesh_ID,33712.5,39.95000,-75.16670
+Rakesh,North America,30,38812.5,Slammers,Rakesh_ID,35412.5,39.95000,-75.16670
+Rakesh,North America,31,38812.5,Slammers,Rakesh_ID,38812.5,39.95000,-75.16670
+Rakesh,North America,32,38812.5,Slammers,Rakesh_ID,38812.5,39.95000,-75.16670
+Rakesh,North America,33,40512.5,Slammers,Rakesh_ID,38812.5,39.95000,-75.16670
+Rakesh,North America,34,40512.5,Slammers,Rakesh_ID,40512.5,39.95000,-75.16670
+Rakesh,North America,35,40512.5,Slammers,Rakesh_ID,40512.5,39.95000,-75.16670
+Rakesh,North America,36,45612.5,Slammers,Rakesh_ID,40512.5,39.95000,-75.16670
+Rakesh,North America,37,45612.5,Slammers,Rakesh_ID,45612.5,39.95000,-75.16670
+Rakesh,North America,38,45612.5,Slammers,Rakesh_ID,45612.5,39.95000,-75.16670
+Rakesh,North America,39,45612.5,Slammers,Rakesh_ID,45612.5,39.95000,-75.16670
+Rakesh,North America,40,45612.5,Slammers,Rakesh_ID,45612.5,39.95000,-75.16670
+Rakesh,North America,41,45612.5,Slammers,Rakesh_ID,45612.5,39.95000,-75.16670
+Rakesh,North America,42,48162.5,Slammers,Rakesh_ID,45612.5,39.95000,-75.16670
+Rakesh,North America,43,48162.5,Slammers,Rakesh_ID,48162.5,39.95000,-75.16670
+Rakesh,North America,44,48162.5,Slammers,Rakesh_ID,48162.5,39.95000,-75.16670
+Rakesh,North America,45,48800,Slammers,Rakesh_ID,48162.5,39.95000,-75.16670
+Rakesh,North America,46,50500,Slammers,Rakesh_ID,48800,39.95000,-75.16670
+Rakesh,North America,47,52200,Slammers,Rakesh_ID,50500,39.95000,-75.16670
+Rakesh,North America,48,53900,Slammers,Rakesh_ID,52200,39.95000,-75.16670
+Rakesh,North America,49,62625,Slammers,Rakesh_ID,53900,39.95000,-75.16670
+Rakesh,North America,50,62800,Slammers,Rakesh_ID,62625,39.95000,-75.16670
+Rakesh,North America,51,62800,Slammers,Rakesh_ID,62800,39.95000,-75.16670
+Rakesh,North America,52,64500,Slammers,Rakesh_ID,62800,39.95000,-75.16670
+Rakesh,North America,53,66200,Slammers,Rakesh_ID,64500,39.95000,-75.16670
+Rakesh,North America,54,66200,Slammers,Rakesh_ID,66200,39.95000,-75.16670
+Rakesh,North America,55,66200,Slammers,Rakesh_ID,66200,39.95000,-75.16670
+Rakesh,North America,56,67050,Slammers,Rakesh_ID,66200,39.95000,-75.16670
+Rakesh,North America,57,67687.5,Slammers,Rakesh_ID,67050,39.95000,-75.16670
+Rakesh,North America,58,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,59,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,60,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,61,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,62,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,63,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,64,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,65,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,66,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,67,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,68,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,69,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,70,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,71,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,72,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,73,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,74,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,75,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,76,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,77,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rakesh,North America,78,67687.5,Slammers,Rakesh_ID,67687.5,39.95000,-75.16670
+Rsamanth,India,1,0,Plastic Gorilla Fruits,Rsamanth_ID,0,27.18333,78.01667
+Rsamanth,India,2,850,Plastic Gorilla Fruits,Rsamanth_ID,0,27.18333,78.01667
+Rsamanth,India,3,2550,Plastic Gorilla Fruits,Rsamanth_ID,850,27.18333,78.01667
+Rsamanth,India,4,3400,Plastic Gorilla Fruits,Rsamanth_ID,2550,27.18333,78.01667
+Rsamanth,India,5,3400,Plastic Gorilla Fruits,Rsamanth_ID,3400,27.18333,78.01667
+Rsamanth,India,6,3400,Plastic Gorilla Fruits,Rsamanth_ID,3400,27.18333,78.01667
+Rsamanth,India,7,5100,Plastic Gorilla Fruits,Rsamanth_ID,3400,27.18333,78.01667
+Rsamanth,India,8,6600,Plastic Gorilla Fruits,Rsamanth_ID,5100,27.18333,78.01667
+Rsamanth,India,9,7537.5,Plastic Gorilla Fruits,Rsamanth_ID,6600,27.18333,78.01667
+Rsamanth,India,10,8537.5,Plastic Gorilla Fruits,Rsamanth_ID,7537.5,27.18333,78.01667
+Rsamanth,India,11,10237.5,Plastic Gorilla Fruits,Rsamanth_ID,8537.5,27.18333,78.01667
+Rsamanth,India,12,10237.5,Plastic Gorilla Fruits,Rsamanth_ID,10237.5,27.18333,78.01667
+Rsamanth,India,13,10237.5,Plastic Gorilla Fruits,Rsamanth_ID,10237.5,27.18333,78.01667
+Rsamanth,India,14,11725,Plastic Gorilla Fruits,Rsamanth_ID,10237.5,27.18333,78.01667
+Rsamanth,India,15,11725,Plastic Gorilla Fruits,Rsamanth_ID,11725,27.18333,78.01667
+Rsamanth,India,16,13425,Plastic Gorilla Fruits,Rsamanth_ID,11725,27.18333,78.01667
+Rsamanth,India,17,14062.5,Plastic Gorilla Fruits,Rsamanth_ID,13425,27.18333,78.01667
+Rsamanth,India,18,15712.5,Plastic Gorilla Fruits,Rsamanth_ID,14062.5,27.18333,78.01667
+Rsamanth,India,19,15712.5,Plastic Gorilla Fruits,Rsamanth_ID,15712.5,27.18333,78.01667
+Rsamanth,India,20,15712.5,Plastic Gorilla Fruits,Rsamanth_ID,15712.5,27.18333,78.01667
+Rsamanth,India,21,15712.5,Plastic Gorilla Fruits,Rsamanth_ID,15712.5,27.18333,78.01667
+Rsamanth,India,22,16562.5,Plastic Gorilla Fruits,Rsamanth_ID,15712.5,27.18333,78.01667
+Rsamanth,India,23,18212.5,Plastic Gorilla Fruits,Rsamanth_ID,16562.5,27.18333,78.01667
+Rsamanth,India,24,18787.5,Plastic Gorilla Fruits,Rsamanth_ID,18212.5,27.18333,78.01667
+Rsamanth,India,25,20487.5,Plastic Gorilla Fruits,Rsamanth_ID,18787.5,27.18333,78.01667
+Rsamanth,India,26,20487.5,Plastic Gorilla Fruits,Rsamanth_ID,20487.5,27.18333,78.01667
+Rsamanth,India,27,20487.5,Plastic Gorilla Fruits,Rsamanth_ID,20487.5,27.18333,78.01667
+Rsamanth,India,28,20487.5,Plastic Gorilla Fruits,Rsamanth_ID,20487.5,27.18333,78.01667
+Rsamanth,India,29,22037.5,Plastic Gorilla Fruits,Rsamanth_ID,20487.5,27.18333,78.01667
+Rsamanth,India,30,23050,Plastic Gorilla Fruits,Rsamanth_ID,22037.5,27.18333,78.01667
+Rsamanth,India,31,24750,Plastic Gorilla Fruits,Rsamanth_ID,23050,27.18333,78.01667
+Rsamanth,India,32,26450,Plastic Gorilla Fruits,Rsamanth_ID,24750,27.18333,78.01667
+Rsamanth,India,33,26450,Plastic Gorilla Fruits,Rsamanth_ID,26450,27.18333,78.01667
+Rsamanth,India,34,26450,Plastic Gorilla Fruits,Rsamanth_ID,26450,27.18333,78.01667
+Rsamanth,India,35,26450,Plastic Gorilla Fruits,Rsamanth_ID,26450,27.18333,78.01667
+Rsamanth,India,36,28150,Plastic Gorilla Fruits,Rsamanth_ID,26450,27.18333,78.01667
+Rsamanth,India,37,29850,Plastic Gorilla Fruits,Rsamanth_ID,28150,27.18333,78.01667
+Rsamanth,India,38,29850,Plastic Gorilla Fruits,Rsamanth_ID,29850,27.18333,78.01667
+Rsamanth,India,39,29850,Plastic Gorilla Fruits,Rsamanth_ID,29850,27.18333,78.01667
+Rsamanth,India,40,29850,Plastic Gorilla Fruits,Rsamanth_ID,29850,27.18333,78.01667
+Rsamanth,India,41,29850,Plastic Gorilla Fruits,Rsamanth_ID,29850,27.18333,78.01667
+Rsamanth,India,42,31550,Plastic Gorilla Fruits,Rsamanth_ID,29850,27.18333,78.01667
+Rsamanth,India,43,33250,Plastic Gorilla Fruits,Rsamanth_ID,31550,27.18333,78.01667
+Rsamanth,India,44,34850,Plastic Gorilla Fruits,Rsamanth_ID,33250,27.18333,78.01667
+Rsamanth,India,45,36425,Plastic Gorilla Fruits,Rsamanth_ID,34850,27.18333,78.01667
+Rsamanth,India,46,36425,Plastic Gorilla Fruits,Rsamanth_ID,36425,27.18333,78.01667
+Rsamanth,India,47,36425,Plastic Gorilla Fruits,Rsamanth_ID,36425,27.18333,78.01667
+Rsamanth,India,48,36425,Plastic Gorilla Fruits,Rsamanth_ID,36425,27.18333,78.01667
+Rsamanth,India,49,38125,Plastic Gorilla Fruits,Rsamanth_ID,36425,27.18333,78.01667
+Rsamanth,India,50,39825,Plastic Gorilla Fruits,Rsamanth_ID,38125,27.18333,78.01667
+Rsamanth,India,51,41525,Plastic Gorilla Fruits,Rsamanth_ID,39825,27.18333,78.01667
+Rsamanth,India,52,43200,Plastic Gorilla Fruits,Rsamanth_ID,41525,27.18333,78.01667
+Rsamanth,India,53,43200,Plastic Gorilla Fruits,Rsamanth_ID,43200,27.18333,78.01667
+Rsamanth,India,54,43200,Plastic Gorilla Fruits,Rsamanth_ID,43200,27.18333,78.01667
+Rsamanth,India,55,43200,Plastic Gorilla Fruits,Rsamanth_ID,43200,27.18333,78.01667
+Rsamanth,India,56,43200,Plastic Gorilla Fruits,Rsamanth_ID,43200,27.18333,78.01667
+Rsamanth,India,57,43200,Plastic Gorilla Fruits,Rsamanth_ID,43200,27.18333,78.01667
+Rsamanth,India,58,43425,Plastic Gorilla Fruits,Rsamanth_ID,43200,27.18333,78.01667
+Rsamanth,India,59,44700,Plastic Gorilla Fruits,Rsamanth_ID,43425,27.18333,78.01667
+Rsamanth,India,60,46200,Plastic Gorilla Fruits,Rsamanth_ID,44700,27.18333,78.01667
+Rsamanth,India,61,46200,Plastic Gorilla Fruits,Rsamanth_ID,46200,27.18333,78.01667
+Rsamanth,India,62,46200,Plastic Gorilla Fruits,Rsamanth_ID,46200,27.18333,78.01667
+Rsamanth,India,63,46575,Plastic Gorilla Fruits,Rsamanth_ID,46200,27.18333,78.01667
+Rsamanth,India,64,48200,Plastic Gorilla Fruits,Rsamanth_ID,46575,27.18333,78.01667
+Rsamanth,India,65,49900,Plastic Gorilla Fruits,Rsamanth_ID,48200,27.18333,78.01667
+Rsamanth,India,66,51600,Plastic Gorilla Fruits,Rsamanth_ID,49900,27.18333,78.01667
+Rsamanth,India,67,51600,Plastic Gorilla Fruits,Rsamanth_ID,51600,27.18333,78.01667
+Rsamanth,India,68,51600,Plastic Gorilla Fruits,Rsamanth_ID,51600,27.18333,78.01667
+Rsamanth,India,69,51600,Plastic Gorilla Fruits,Rsamanth_ID,51600,27.18333,78.01667
+Rsamanth,India,70,51600,Plastic Gorilla Fruits,Rsamanth_ID,51600,27.18333,78.01667
+Rsamanth,India,71,51600,Plastic Gorilla Fruits,Rsamanth_ID,51600,27.18333,78.01667
+Rsamanth,India,72,52837.5,Plastic Gorilla Fruits,Rsamanth_ID,51600,27.18333,78.01667
+Rsamanth,India,73,54537.5,Plastic Gorilla Fruits,Rsamanth_ID,52837.5,27.18333,78.01667
+Rsamanth,India,74,56237.5,Plastic Gorilla Fruits,Rsamanth_ID,54537.5,27.18333,78.01667
+Rsamanth,India,75,56237.5,Plastic Gorilla Fruits,Rsamanth_ID,56237.5,27.18333,78.01667
+Rsamanth,India,76,56237.5,Plastic Gorilla Fruits,Rsamanth_ID,56237.5,27.18333,78.01667
+Rsamanth,India,77,56237.5,Plastic Gorilla Fruits,Rsamanth_ID,56237.5,27.18333,78.01667
+Rsamanth,India,78,56237.5,Plastic Gorilla Fruits,Rsamanth_ID,56237.5,27.18333,78.01667
+San Van Camp,Europe,1,0,Kickass Tuples,San Van Camp_ID,0,52.37403,4.88969
+San Van Camp,Europe,2,300,Kickass Tuples,San Van Camp_ID,0,52.37403,4.88969
+San Van Camp,Europe,3,1700,Kickass Tuples,San Van Camp_ID,300,52.37403,4.88969
+San Van Camp,Europe,4,1900,Kickass Tuples,San Van Camp_ID,1700,52.37403,4.88969
+San Van Camp,Europe,5,1900,Kickass Tuples,San Van Camp_ID,1900,52.37403,4.88969
+San Van Camp,Europe,6,1900,Kickass Tuples,San Van Camp_ID,1900,52.37403,4.88969
+San Van Camp,Europe,7,2300,Kickass Tuples,San Van Camp_ID,1900,52.37403,4.88969
+San Van Camp,Europe,8,3360,Kickass Tuples,San Van Camp_ID,2300,52.37403,4.88969
+San Van Camp,Europe,9,3460.1599999999999,Kickass Tuples,San Van Camp_ID,3360,52.37403,4.88969
+San Van Camp,Europe,10,4320.1599999999999,Kickass Tuples,San Van Camp_ID,3460.1599999999999,52.37403,4.88969
+San Van Camp,Europe,11,4750.1599999999999,Kickass Tuples,San Van Camp_ID,4320.1599999999999,52.37403,4.88969
+San Van Camp,Europe,12,4750.1599999999999,Kickass Tuples,San Van Camp_ID,4750.1599999999999,52.37403,4.88969
+San Van Camp,Europe,13,4750.1599999999999,Kickass Tuples,San Van Camp_ID,4750.1599999999999,52.37403,4.88969
+San Van Camp,Europe,14,5663.9960000000001,Kickass Tuples,San Van Camp_ID,4750.1599999999999,52.37403,4.88969
+San Van Camp,Europe,15,5763.9960000000001,Kickass Tuples,San Van Camp_ID,5663.9960000000001,52.37403,4.88969
+San Van Camp,Europe,16,5763.9960000000001,Kickass Tuples,San Van Camp_ID,5763.9960000000001,52.37403,4.88969
+San Van Camp,Europe,17,5978.9960000000001,Kickass Tuples,San Van Camp_ID,5763.9960000000001,52.37403,4.88969
+San Van Camp,Europe,18,5978.9960000000001,Kickass Tuples,San Van Camp_ID,5978.9960000000001,52.37403,4.88969
+San Van Camp,Europe,19,5978.9960000000001,Kickass Tuples,San Van Camp_ID,5978.9960000000001,52.37403,4.88969
+San Van Camp,Europe,20,5978.9960000000001,Kickass Tuples,San Van Camp_ID,5978.9960000000001,52.37403,4.88969
+San Van Camp,Europe,21,6193.9960000000001,Kickass Tuples,San Van Camp_ID,5978.9960000000001,52.37403,4.88969
+San Van Camp,Europe,22,6193.9960000000001,Kickass Tuples,San Van Camp_ID,6193.9960000000001,52.37403,4.88969
+San Van Camp,Europe,23,6193.9960000000001,Kickass Tuples,San Van Camp_ID,6193.9960000000001,52.37403,4.88969
+San Van Camp,Europe,24,6693.9960000000001,Kickass Tuples,San Van Camp_ID,6193.9960000000001,52.37403,4.88969
+San Van Camp,Europe,25,8020.4120000000003,Kickass Tuples,San Van Camp_ID,6693.9960000000001,52.37403,4.88969
+San Van Camp,Europe,26,8020.4120000000003,Kickass Tuples,San Van Camp_ID,8020.4120000000003,52.37403,4.88969
+San Van Camp,Europe,27,8020.4120000000003,Kickass Tuples,San Van Camp_ID,8020.4120000000003,52.37403,4.88969
+San Van Camp,Europe,28,8120.4120000000003,Kickass Tuples,San Van Camp_ID,8020.4120000000003,52.37403,4.88969
+San Van Camp,Europe,29,8320.4120000000003,Kickass Tuples,San Van Camp_ID,8120.4120000000003,52.37403,4.88969
+San Van Camp,Europe,30,9420.4120000000003,Kickass Tuples,San Van Camp_ID,8320.4120000000003,52.37403,4.88969
+San Van Camp,Europe,31,9996.7479999999996,Kickass Tuples,San Van Camp_ID,9420.4120000000003,52.37403,4.88969
+San Van Camp,Europe,32,9996.7479999999996,Kickass Tuples,San Van Camp_ID,9996.7479999999996,52.37403,4.88969
+San Van Camp,Europe,33,9996.7479999999996,Kickass Tuples,San Van Camp_ID,9996.7479999999996,52.37403,4.88969
+San Van Camp,Europe,34,9996.7479999999996,Kickass Tuples,San Van Camp_ID,9996.7479999999996,52.37403,4.88969
+San Van Camp,Europe,35,9996.7479999999996,Kickass Tuples,San Van Camp_ID,9996.7479999999996,52.37403,4.88969
+San Van Camp,Europe,36,9996.7479999999996,Kickass Tuples,San Van Camp_ID,9996.7479999999996,52.37403,4.88969
+San Van Camp,Europe,37,10396.748,Kickass Tuples,San Van Camp_ID,9996.7479999999996,52.37403,4.88969
+San Van Camp,Europe,38,10611.748,Kickass Tuples,San Van Camp_ID,10396.748,52.37403,4.88969
+San Van Camp,Europe,39,11411.748,Kickass Tuples,San Van Camp_ID,10611.748,52.37403,4.88969
+San Van Camp,Europe,40,11411.748,Kickass Tuples,San Van Camp_ID,11411.748,52.37403,4.88969
+San Van Camp,Europe,41,11411.748,Kickass Tuples,San Van Camp_ID,11411.748,52.37403,4.88969
+San Van Camp,Europe,42,12711.748,Kickass Tuples,San Van Camp_ID,11411.748,52.37403,4.88969
+San Van Camp,Europe,43,13411.748,Kickass Tuples,San Van Camp_ID,12711.748,52.37403,4.88969
+San Van Camp,Europe,44,13411.748,Kickass Tuples,San Van Camp_ID,13411.748,52.37403,4.88969
+San Van Camp,Europe,45,14211.748,Kickass Tuples,San Van Camp_ID,13411.748,52.37403,4.88969
+San Van Camp,Europe,46,14211.748,Kickass Tuples,San Van Camp_ID,14211.748,52.37403,4.88969
+San Van Camp,Europe,47,14211.748,Kickass Tuples,San Van Camp_ID,14211.748,52.37403,4.88969
+San Van Camp,Europe,48,14211.748,Kickass Tuples,San Van Camp_ID,14211.748,52.37403,4.88969
+San Van Camp,Europe,49,14211.748,Kickass Tuples,San Van Camp_ID,14211.748,52.37403,4.88969
+San Van Camp,Europe,50,14211.748,Kickass Tuples,San Van Camp_ID,14211.748,52.37403,4.88969
+San Van Camp,Europe,51,14211.748,Kickass Tuples,San Van Camp_ID,14211.748,52.37403,4.88969
+San Van Camp,Europe,52,15361.828,Kickass Tuples,San Van Camp_ID,14211.748,52.37403,4.88969
+San Van Camp,Europe,53,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,54,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,55,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,56,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,57,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,58,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,59,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,60,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,61,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,62,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,63,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,64,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,65,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,66,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,67,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,68,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,69,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,70,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,71,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,72,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,73,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,74,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,75,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,76,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,77,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+San Van Camp,Europe,78,15361.828,Kickass Tuples,San Van Camp_ID,15361.828,52.37403,4.88969
+Shridhara,India,1,0,Slammers,Shridhara_ID,0,27.18333,78.01667
+Shridhara,India,2,437.5,Slammers,Shridhara_ID,0,27.18333,78.01667
+Shridhara,India,3,1137.5,Slammers,Shridhara_ID,437.5,27.18333,78.01667
+Shridhara,India,4,1662.5,Slammers,Shridhara_ID,1137.5,27.18333,78.01667
+Shridhara,India,5,1662.5,Slammers,Shridhara_ID,1662.5,27.18333,78.01667
+Shridhara,India,6,1662.5,Slammers,Shridhara_ID,1662.5,27.18333,78.01667
+Shridhara,India,7,2187.5,Slammers,Shridhara_ID,1662.5,27.18333,78.01667
+Shridhara,India,8,2712.5,Slammers,Shridhara_ID,2187.5,27.18333,78.01667
+Shridhara,India,9,3675,Slammers,Shridhara_ID,2712.5,27.18333,78.01667
+Shridhara,India,10,5250,Slammers,Shridhara_ID,3675,27.18333,78.01667
+Shridhara,India,11,5250,Slammers,Shridhara_ID,5250,27.18333,78.01667
+Shridhara,India,12,5250,Slammers,Shridhara_ID,5250,27.18333,78.01667
+Shridhara,India,13,5250,Slammers,Shridhara_ID,5250,27.18333,78.01667
+Shridhara,India,14,5250,Slammers,Shridhara_ID,5250,27.18333,78.01667
+Shridhara,India,15,6650,Slammers,Shridhara_ID,5250,27.18333,78.01667
+Shridhara,India,16,8050,Slammers,Shridhara_ID,6650,27.18333,78.01667
+Shridhara,India,17,8050,Slammers,Shridhara_ID,8050,27.18333,78.01667
+Shridhara,India,18,8137.5,Slammers,Shridhara_ID,8050,27.18333,78.01667
+Shridhara,India,19,8137.5,Slammers,Shridhara_ID,8137.5,27.18333,78.01667
+Shridhara,India,20,8137.5,Slammers,Shridhara_ID,8137.5,27.18333,78.01667
+Shridhara,India,21,8312.5,Slammers,Shridhara_ID,8137.5,27.18333,78.01667
+Shridhara,India,22,8662.5,Slammers,Shridhara_ID,8312.5,27.18333,78.01667
+Shridhara,India,23,9712.5,Slammers,Shridhara_ID,8662.5,27.18333,78.01667
+Shridhara,India,24,10762.5,Slammers,Shridhara_ID,9712.5,27.18333,78.01667
+Shridhara,India,25,12162.5,Slammers,Shridhara_ID,10762.5,27.18333,78.01667
+Shridhara,India,26,13212.5,Slammers,Shridhara_ID,12162.5,27.18333,78.01667
+Shridhara,India,27,13212.5,Slammers,Shridhara_ID,13212.5,27.18333,78.01667
+Shridhara,India,28,14612.5,Slammers,Shridhara_ID,13212.5,27.18333,78.01667
+Shridhara,India,29,16712.5,Slammers,Shridhara_ID,14612.5,27.18333,78.01667
+Shridhara,India,30,18462.5,Slammers,Shridhara_ID,16712.5,27.18333,78.01667
+Shridhara,India,31,19512.5,Slammers,Shridhara_ID,18462.5,27.18333,78.01667
+Shridhara,India,32,20212.5,Slammers,Shridhara_ID,19512.5,27.18333,78.01667
+Shridhara,India,33,20475,Slammers,Shridhara_ID,20212.5,27.18333,78.01667
+Shridhara,India,34,20475,Slammers,Shridhara_ID,20475,27.18333,78.01667
+Shridhara,India,35,21000,Slammers,Shridhara_ID,20475,27.18333,78.01667
+Shridhara,India,36,21525,Slammers,Shridhara_ID,21000,27.18333,78.01667
+Shridhara,India,37,21962.5,Slammers,Shridhara_ID,21525,27.18333,78.01667
+Shridhara,India,38,21962.5,Slammers,Shridhara_ID,21962.5,27.18333,78.01667
+Shridhara,India,39,22137.5,Slammers,Shridhara_ID,21962.5,27.18333,78.01667
+Shridhara,India,40,22312.5,Slammers,Shridhara_ID,22137.5,27.18333,78.01667
+Shridhara,India,41,22312.5,Slammers,Shridhara_ID,22312.5,27.18333,78.01667
+Shridhara,India,42,22312.5,Slammers,Shridhara_ID,22312.5,27.18333,78.01667
+Shridhara,India,43,22312.5,Slammers,Shridhara_ID,22312.5,27.18333,78.01667
+Shridhara,India,44,22312.5,Slammers,Shridhara_ID,22312.5,27.18333,78.01667
+Shridhara,India,45,22312.5,Slammers,Shridhara_ID,22312.5,27.18333,78.01667
+Shridhara,India,46,22312.5,Slammers,Shridhara_ID,22312.5,27.18333,78.01667
+Shridhara,India,47,22487.5,Slammers,Shridhara_ID,22312.5,27.18333,78.01667
+Shridhara,India,48,22487.5,Slammers,Shridhara_ID,22487.5,27.18333,78.01667
+Shridhara,India,49,22662.5,Slammers,Shridhara_ID,22487.5,27.18333,78.01667
+Shridhara,India,50,23100,Slammers,Shridhara_ID,22662.5,27.18333,78.01667
+Shridhara,India,51,23100,Slammers,Shridhara_ID,23100,27.18333,78.01667
+Shridhara,India,52,23537.5,Slammers,Shridhara_ID,23100,27.18333,78.01667
+Shridhara,India,53,25475,Slammers,Shridhara_ID,23537.5,27.18333,78.01667
+Shridhara,India,54,25475,Slammers,Shridhara_ID,25475,27.18333,78.01667
+Shridhara,India,55,25475,Slammers,Shridhara_ID,25475,27.18333,78.01667
+Shridhara,India,56,25650,Slammers,Shridhara_ID,25475,27.18333,78.01667
+Shridhara,India,57,26075,Slammers,Shridhara_ID,25650,27.18333,78.01667
+Shridhara,India,58,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,59,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,60,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,61,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,62,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,63,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,64,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,65,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,66,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,67,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,68,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,69,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,70,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,71,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,72,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,73,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,74,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,75,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,76,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,77,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Shridhara,India,78,26075,Slammers,Shridhara_ID,26075,27.18333,78.01667
+Soham,North America,2,1400,Slammers,Soham_ID,0,39.95000,-75.16670
+Soham,North America,3,1400,Slammers,Soham_ID,1400,39.95000,-75.16670
+Soham,North America,4,1580,Slammers,Soham_ID,1400,39.95000,-75.16670
+Soham,North America,5,1580,Slammers,Soham_ID,1580,39.95000,-75.16670
+Soham,North America,6,1580,Slammers,Soham_ID,1580,39.95000,-75.16670
+Soham,North America,7,1580,Slammers,Soham_ID,1580,39.95000,-75.16670
+Soham,North America,8,1989.5,Slammers,Soham_ID,1580,39.95000,-75.16670
+Soham,North America,9,1989.5,Slammers,Soham_ID,1989.5,39.95000,-75.16670
+Soham,North America,10,2083.0999999999999,Slammers,Soham_ID,1989.5,39.95000,-75.16670
+Soham,North America,11,4135.1000000000004,Slammers,Soham_ID,2083.0999999999999,39.95000,-75.16670
+Soham,North America,12,4360.1000000000004,Slammers,Soham_ID,4135.1000000000004,39.95000,-75.16670
+Soham,North America,13,4360.1000000000004,Slammers,Soham_ID,4360.1000000000004,39.95000,-75.16670
+Soham,North America,14,4612.1000000000004,Slammers,Soham_ID,4360.1000000000004,39.95000,-75.16670
+Soham,North America,15,6012.1000000000004,Slammers,Soham_ID,4612.1000000000004,39.95000,-75.16670
+Soham,North America,16,7043.5,Slammers,Soham_ID,6012.1000000000004,39.95000,-75.16670
+Soham,North America,17,7043.5,Slammers,Soham_ID,7043.5,39.95000,-75.16670
+Soham,North America,18,7043.5,Slammers,Soham_ID,7043.5,39.95000,-75.16670
+Soham,North America,19,7043.5,Slammers,Soham_ID,7043.5,39.95000,-75.16670
+Soham,North America,20,7156,Slammers,Soham_ID,7043.5,39.95000,-75.16670
+Soham,North America,21,7156,Slammers,Soham_ID,7156,39.95000,-75.16670
+Soham,North America,22,8856,Slammers,Soham_ID,7156,39.95000,-75.16670
+Soham,North America,23,10556,Slammers,Soham_ID,8856,39.95000,-75.16670
+Soham,North America,24,10774.9,Slammers,Soham_ID,10556,39.95000,-75.16670
+Soham,North America,25,11899.9,Slammers,Soham_ID,10774.9,39.95000,-75.16670
+Soham,North America,26,11899.9,Slammers,Soham_ID,11899.9,39.95000,-75.16670
+Soham,North America,27,11899.9,Slammers,Soham_ID,11899.9,39.95000,-75.16670
+Soham,North America,28,13512.43,Slammers,Soham_ID,11899.9,39.95000,-75.16670
+Soham,North America,29,13549.870000000001,Slammers,Soham_ID,13512.43,39.95000,-75.16670
+Soham,North America,30,13606.209999999999,Slammers,Soham_ID,13549.870000000001,39.95000,-75.16670
+Soham,North America,31,14056.209999999999,Slammers,Soham_ID,13606.209999999999,39.95000,-75.16670
+Soham,North America,32,14393.709999999999,Slammers,Soham_ID,14056.209999999999,39.95000,-75.16670
+Soham,North America,33,14393.709999999999,Slammers,Soham_ID,14393.709999999999,39.95000,-75.16670
+Soham,North America,34,14393.709999999999,Slammers,Soham_ID,14393.709999999999,39.95000,-75.16670
+Soham,North America,35,14393.709999999999,Slammers,Soham_ID,14393.709999999999,39.95000,-75.16670
+Soham,North America,36,14506.209999999999,Slammers,Soham_ID,14393.709999999999,39.95000,-75.16670
+Soham,North America,37,15293.709999999999,Slammers,Soham_ID,14506.209999999999,39.95000,-75.16670
+Soham,North America,38,15293.709999999999,Slammers,Soham_ID,15293.709999999999,39.95000,-75.16670
+Soham,North America,39,16331.27,Slammers,Soham_ID,15293.709999999999,39.95000,-75.16670
+Soham,North America,40,16331.27,Slammers,Soham_ID,16331.27,39.95000,-75.16670
+Soham,North America,41,16331.27,Slammers,Soham_ID,16331.27,39.95000,-75.16670
+Soham,North America,42,16331.27,Slammers,Soham_ID,16331.27,39.95000,-75.16670
+Soham,North America,43,16443.77,Slammers,Soham_ID,16331.27,39.95000,-75.16670
+Soham,North America,44,16612.610000000001,Slammers,Soham_ID,16443.77,39.95000,-75.16670
+Soham,North America,45,17287.610000000001,Slammers,Soham_ID,16612.610000000001,39.95000,-75.16670
+Soham,North America,46,18156.450000000001,Slammers,Soham_ID,17287.610000000001,39.95000,-75.16670
+Soham,North America,47,18156.450000000001,Slammers,Soham_ID,18156.450000000001,39.95000,-75.16670
+Soham,North America,48,18156.450000000001,Slammers,Soham_ID,18156.450000000001,39.95000,-75.16670
+Soham,North America,49,18381.450000000001,Slammers,Soham_ID,18156.450000000001,39.95000,-75.16670
+Soham,North America,50,18943.950000000001,Slammers,Soham_ID,18381.450000000001,39.95000,-75.16670
+Soham,North America,51,19019.009999999998,Slammers,Soham_ID,18943.950000000001,39.95000,-75.16670
+Soham,North America,52,19131.509999999998,Slammers,Soham_ID,19019.009999999998,39.95000,-75.16670
+Soham,North America,53,19925.41,Slammers,Soham_ID,19131.509999999998,39.95000,-75.16670
+Soham,North America,54,19925.41,Slammers,Soham_ID,19925.41,39.95000,-75.16670
+Soham,North America,55,19925.41,Slammers,Soham_ID,19925.41,39.95000,-75.16670
+Soham,North America,56,20456.66,Slammers,Soham_ID,19925.41,39.95000,-75.16670
+Soham,North America,57,20682.110000000001,Slammers,Soham_ID,20456.66,39.95000,-75.16670
+Soham,North America,58,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,59,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,60,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,61,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,62,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,63,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,64,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,65,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,66,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,67,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,68,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,69,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,70,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,71,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,72,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,73,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,74,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,75,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,76,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,77,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Soham,North America,78,20682.110000000001,Slammers,Soham_ID,20682.110000000001,39.95000,-75.16670
+Ven Nagasubramanian,North America,1,0,Kickass Tuples,Ven Nagasubramanian_ID,0,39.95000,-75.16670
+Ven Nagasubramanian,North America,2,1657.5,Kickass Tuples,Ven Nagasubramanian_ID,0,39.95000,-75.16670
+Ven Nagasubramanian,North America,3,1657.5,Kickass Tuples,Ven Nagasubramanian_ID,1657.5,39.95000,-75.16670
+Ven Nagasubramanian,North America,4,1657.5,Kickass Tuples,Ven Nagasubramanian_ID,1657.5,39.95000,-75.16670
+Ven Nagasubramanian,North America,5,1657.5,Kickass Tuples,Ven Nagasubramanian_ID,1657.5,39.95000,-75.16670
+Ven Nagasubramanian,North America,6,1657.5,Kickass Tuples,Ven Nagasubramanian_ID,1657.5,39.95000,-75.16670
+Ven Nagasubramanian,North America,7,1657.5,Kickass Tuples,Ven Nagasubramanian_ID,1657.5,39.95000,-75.16670
+Ven Nagasubramanian,North America,8,2665.625,Kickass Tuples,Ven Nagasubramanian_ID,1657.5,39.95000,-75.16670
+Ven Nagasubramanian,North America,9,3625.625,Kickass Tuples,Ven Nagasubramanian_ID,2665.625,39.95000,-75.16670
+Ven Nagasubramanian,North America,10,5050.625,Kickass Tuples,Ven Nagasubramanian_ID,3625.625,39.95000,-75.16670
+Ven Nagasubramanian,North America,11,6235.625,Kickass Tuples,Ven Nagasubramanian_ID,5050.625,39.95000,-75.16670
+Ven Nagasubramanian,North America,12,6235.625,Kickass Tuples,Ven Nagasubramanian_ID,6235.625,39.95000,-75.16670
+Ven Nagasubramanian,North America,13,6235.625,Kickass Tuples,Ven Nagasubramanian_ID,6235.625,39.95000,-75.16670
+Ven Nagasubramanian,North America,14,7230.125,Kickass Tuples,Ven Nagasubramanian_ID,6235.625,39.95000,-75.16670
+Ven Nagasubramanian,North America,15,8190.125,Kickass Tuples,Ven Nagasubramanian_ID,7230.125,39.95000,-75.16670
+Ven Nagasubramanian,North America,16,8190.125,Kickass Tuples,Ven Nagasubramanian_ID,8190.125,39.95000,-75.16670
+Ven Nagasubramanian,North America,17,11396.375,Kickass Tuples,Ven Nagasubramanian_ID,8190.125,39.95000,-75.16670
+Ven Nagasubramanian,North America,18,12108.875,Kickass Tuples,Ven Nagasubramanian_ID,11396.375,39.95000,-75.16670
+Ven Nagasubramanian,North America,19,12108.875,Kickass Tuples,Ven Nagasubramanian_ID,12108.875,39.95000,-75.16670
+Ven Nagasubramanian,North America,20,12108.875,Kickass Tuples,Ven Nagasubramanian_ID,12108.875,39.95000,-75.16670
+Ven Nagasubramanian,North America,21,12108.875,Kickass Tuples,Ven Nagasubramanian_ID,12108.875,39.95000,-75.16670
+Ven Nagasubramanian,North America,22,14008.875,Kickass Tuples,Ven Nagasubramanian_ID,12108.875,39.95000,-75.16670
+Ven Nagasubramanian,North America,23,15315.125,Kickass Tuples,Ven Nagasubramanian_ID,14008.875,39.95000,-75.16670
+Ven Nagasubramanian,North America,24,17983.25,Kickass Tuples,Ven Nagasubramanian_ID,15315.125,39.95000,-75.16670
+Ven Nagasubramanian,North America,25,17983.25,Kickass Tuples,Ven Nagasubramanian_ID,17983.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,26,17983.25,Kickass Tuples,Ven Nagasubramanian_ID,17983.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,27,17983.25,Kickass Tuples,Ven Nagasubramanian_ID,17983.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,28,17983.25,Kickass Tuples,Ven Nagasubramanian_ID,17983.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,29,19287,Kickass Tuples,Ven Nagasubramanian_ID,17983.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,30,19287,Kickass Tuples,Ven Nagasubramanian_ID,19287,39.95000,-75.16670
+Ven Nagasubramanian,North America,31,20530.125,Kickass Tuples,Ven Nagasubramanian_ID,19287,39.95000,-75.16670
+Ven Nagasubramanian,North America,32,21330.125,Kickass Tuples,Ven Nagasubramanian_ID,20530.125,39.95000,-75.16670
+Ven Nagasubramanian,North America,33,21330.125,Kickass Tuples,Ven Nagasubramanian_ID,21330.125,39.95000,-75.16670
+Ven Nagasubramanian,North America,34,21330.125,Kickass Tuples,Ven Nagasubramanian_ID,21330.125,39.95000,-75.16670
+Ven Nagasubramanian,North America,35,22280.125,Kickass Tuples,Ven Nagasubramanian_ID,21330.125,39.95000,-75.16670
+Ven Nagasubramanian,North America,36,23580.125,Kickass Tuples,Ven Nagasubramanian_ID,22280.125,39.95000,-75.16670
+Ven Nagasubramanian,North America,37,25180.125,Kickass Tuples,Ven Nagasubramanian_ID,23580.125,39.95000,-75.16670
+Ven Nagasubramanian,North America,38,29177.375,Kickass Tuples,Ven Nagasubramanian_ID,25180.125,39.95000,-75.16670
+Ven Nagasubramanian,North America,39,29377.375,Kickass Tuples,Ven Nagasubramanian_ID,29177.375,39.95000,-75.16670
+Ven Nagasubramanian,North America,40,29377.375,Kickass Tuples,Ven Nagasubramanian_ID,29377.375,39.95000,-75.16670
+Ven Nagasubramanian,North America,41,29377.375,Kickass Tuples,Ven Nagasubramanian_ID,29377.375,39.95000,-75.16670
+Ven Nagasubramanian,North America,42,29377.375,Kickass Tuples,Ven Nagasubramanian_ID,29377.375,39.95000,-75.16670
+Ven Nagasubramanian,North America,43,29957.5,Kickass Tuples,Ven Nagasubramanian_ID,29377.375,39.95000,-75.16670
+Ven Nagasubramanian,North America,44,29957.5,Kickass Tuples,Ven Nagasubramanian_ID,29957.5,39.95000,-75.16670
+Ven Nagasubramanian,North America,45,29957.5,Kickass Tuples,Ven Nagasubramanian_ID,29957.5,39.95000,-75.16670
+Ven Nagasubramanian,North America,46,31751.25,Kickass Tuples,Ven Nagasubramanian_ID,29957.5,39.95000,-75.16670
+Ven Nagasubramanian,North America,47,31751.25,Kickass Tuples,Ven Nagasubramanian_ID,31751.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,48,31751.25,Kickass Tuples,Ven Nagasubramanian_ID,31751.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,49,31751.25,Kickass Tuples,Ven Nagasubramanian_ID,31751.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,50,31751.25,Kickass Tuples,Ven Nagasubramanian_ID,31751.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,51,31751.25,Kickass Tuples,Ven Nagasubramanian_ID,31751.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,52,33077.25,Kickass Tuples,Ven Nagasubramanian_ID,31751.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,53,33477.25,Kickass Tuples,Ven Nagasubramanian_ID,33077.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,54,33477.25,Kickass Tuples,Ven Nagasubramanian_ID,33477.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,55,33477.25,Kickass Tuples,Ven Nagasubramanian_ID,33477.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,56,33952.25,Kickass Tuples,Ven Nagasubramanian_ID,33477.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,57,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,33952.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,58,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,59,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,60,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,61,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,62,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,63,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,64,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,65,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,66,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,67,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,68,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,69,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,70,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,71,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,72,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,73,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,74,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,75,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,76,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,77,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Ven Nagasubramanian,North America,78,35627.25,Kickass Tuples,Ven Nagasubramanian_ID,35627.25,39.95000,-75.16670
+Vijey K,North America,18,23268.75,Plastic Gorilla Fruits,Vijey K_ID,0,39.95000,-75.16670
+Vijey K,North America,19,23268.75,Plastic Gorilla Fruits,Vijey K_ID,23268.75,39.95000,-75.16670
+Vijey K,North America,20,23268.75,Plastic Gorilla Fruits,Vijey K_ID,23268.75,39.95000,-75.16670
+Vijey K,North America,21,23268.75,Plastic Gorilla Fruits,Vijey K_ID,23268.75,39.95000,-75.16670
+Vijey K,North America,22,23268.75,Plastic Gorilla Fruits,Vijey K_ID,23268.75,39.95000,-75.16670
+Vijey K,North America,23,23268.75,Plastic Gorilla Fruits,Vijey K_ID,23268.75,39.95000,-75.16670
+Vijey K,North America,24,23268.75,Plastic Gorilla Fruits,Vijey K_ID,23268.75,39.95000,-75.16670
+Vijey K,North America,25,23268.75,Plastic Gorilla Fruits,Vijey K_ID,23268.75,39.95000,-75.16670
+Vijey K,North America,26,23268.75,Plastic Gorilla Fruits,Vijey K_ID,23268.75,39.95000,-75.16670
+Vijey K,North America,27,23268.75,Plastic Gorilla Fruits,Vijey K_ID,23268.75,39.95000,-75.16670
+Vijey K,North America,28,29856.25,Plastic Gorilla Fruits,Vijey K_ID,23268.75,39.95000,-75.16670
+Vijey K,North America,29,29856.25,Plastic Gorilla Fruits,Vijey K_ID,29856.25,39.95000,-75.16670
+Vijey K,North America,30,29856.25,Plastic Gorilla Fruits,Vijey K_ID,29856.25,39.95000,-75.16670
+Vijey K,North America,31,29856.25,Plastic Gorilla Fruits,Vijey K_ID,29856.25,39.95000,-75.16670
+Vijey K,North America,32,29856.25,Plastic Gorilla Fruits,Vijey K_ID,29856.25,39.95000,-75.16670
+Vijey K,North America,33,29856.25,Plastic Gorilla Fruits,Vijey K_ID,29856.25,39.95000,-75.16670
+Vijey K,North America,34,29856.25,Plastic Gorilla Fruits,Vijey K_ID,29856.25,39.95000,-75.16670
+Vijey K,North America,35,37875,Plastic Gorilla Fruits,Vijey K_ID,29856.25,39.95000,-75.16670
+Vijey K,North America,36,37875,Plastic Gorilla Fruits,Vijey K_ID,37875,39.95000,-75.16670
+Vijey K,North America,37,37875,Plastic Gorilla Fruits,Vijey K_ID,37875,39.95000,-75.16670
+Vijey K,North America,38,37875,Plastic Gorilla Fruits,Vijey K_ID,37875,39.95000,-75.16670
+Vijey K,North America,39,37875,Plastic Gorilla Fruits,Vijey K_ID,37875,39.95000,-75.16670
+Vijey K,North America,40,37875,Plastic Gorilla Fruits,Vijey K_ID,37875,39.95000,-75.16670
+Vijey K,North America,41,37875,Plastic Gorilla Fruits,Vijey K_ID,37875,39.95000,-75.16670
+Vijey K,North America,42,42975,Plastic Gorilla Fruits,Vijey K_ID,37875,39.95000,-75.16670
+Vijey K,North America,43,42975,Plastic Gorilla Fruits,Vijey K_ID,42975,39.95000,-75.16670
+Vijey K,North America,44,42975,Plastic Gorilla Fruits,Vijey K_ID,42975,39.95000,-75.16670
+Vijey K,North America,45,42975,Plastic Gorilla Fruits,Vijey K_ID,42975,39.95000,-75.16670
+Vijey K,North America,46,42975,Plastic Gorilla Fruits,Vijey K_ID,42975,39.95000,-75.16670
+Vijey K,North America,47,42975,Plastic Gorilla Fruits,Vijey K_ID,42975,39.95000,-75.16670
+Vijey K,North America,48,42975,Plastic Gorilla Fruits,Vijey K_ID,42975,39.95000,-75.16670
+Vijey K,North America,49,42975,Plastic Gorilla Fruits,Vijey K_ID,42975,39.95000,-75.16670
+Vijey K,North America,50,42975,Plastic Gorilla Fruits,Vijey K_ID,42975,39.95000,-75.16670
+Vijey K,North America,51,42975,Plastic Gorilla Fruits,Vijey K_ID,42975,39.95000,-75.16670
+Vijey K,North America,52,42975,Plastic Gorilla Fruits,Vijey K_ID,42975,39.95000,-75.16670
+Vijey K,North America,53,42975,Plastic Gorilla Fruits,Vijey K_ID,42975,39.95000,-75.16670
+Vijey K,North America,54,42975,Plastic Gorilla Fruits,Vijey K_ID,42975,39.95000,-75.16670
+Vijey K,North America,55,42975,Plastic Gorilla Fruits,Vijey K_ID,42975,39.95000,-75.16670
+Vijey K,North America,56,42975,Plastic Gorilla Fruits,Vijey K_ID,42975,39.95000,-75.16670
+Vijey K,North America,57,48712.5,Plastic Gorilla Fruits,Vijey K_ID,42975,39.95000,-75.16670
+Vijey K,North America,58,48712.5,Plastic Gorilla Fruits,Vijey K_ID,48712.5,39.95000,-75.16670
+Vijey K,North America,59,48712.5,Plastic Gorilla Fruits,Vijey K_ID,48712.5,39.95000,-75.16670
+Vijey K,North America,60,48712.5,Plastic Gorilla Fruits,Vijey K_ID,48712.5,39.95000,-75.16670
+Vijey K,North America,61,48712.5,Plastic Gorilla Fruits,Vijey K_ID,48712.5,39.95000,-75.16670
+Vijey K,North America,62,48712.5,Plastic Gorilla Fruits,Vijey K_ID,48712.5,39.95000,-75.16670
+Vijey K,North America,63,48712.5,Plastic Gorilla Fruits,Vijey K_ID,48712.5,39.95000,-75.16670
+Vijey K,North America,64,48712.5,Plastic Gorilla Fruits,Vijey K_ID,48712.5,39.95000,-75.16670
+Vijey K,North America,65,48712.5,Plastic Gorilla Fruits,Vijey K_ID,48712.5,39.95000,-75.16670
+Vijey K,North America,66,48712.5,Plastic Gorilla Fruits,Vijey K_ID,48712.5,39.95000,-75.16670
+Vijey K,North America,67,48712.5,Plastic Gorilla Fruits,Vijey K_ID,48712.5,39.95000,-75.16670
+Vijey K,North America,68,48712.5,Plastic Gorilla Fruits,Vijey K_ID,48712.5,39.95000,-75.16670
+Vijey K,North America,69,48712.5,Plastic Gorilla Fruits,Vijey K_ID,48712.5,39.95000,-75.16670
+Vijey K,North America,70,48712.5,Plastic Gorilla Fruits,Vijey K_ID,48712.5,39.95000,-75.16670
+Vijey K,North America,71,64112.5,Plastic Gorilla Fruits,Vijey K_ID,48712.5,39.95000,-75.16670
+Vijey K,North America,72,64112.5,Plastic Gorilla Fruits,Vijey K_ID,64112.5,39.95000,-75.16670
+Vijey K,North America,73,64112.5,Plastic Gorilla Fruits,Vijey K_ID,64112.5,39.95000,-75.16670
+Vijey K,North America,74,64112.5,Plastic Gorilla Fruits,Vijey K_ID,64112.5,39.95000,-75.16670
+Vijey K,North America,75,64112.5,Plastic Gorilla Fruits,Vijey K_ID,64112.5,39.95000,-75.16670
+Vijey K,North America,76,67512.5,Plastic Gorilla Fruits,Vijey K_ID,64112.5,39.95000,-75.16670
+Vijey K,North America,77,67512.5,Plastic Gorilla Fruits,Vijey K_ID,67512.5,39.95000,-75.16670
+Vijey K,North America,78,72612.5,Plastic Gorilla Fruits,Vijey K_ID,67512.5,39.95000,-75.16670
